@@ -67,13 +67,41 @@
     });
   }
 
+  const playFirst = () => {
+    const first = list && list.querySelector('.track[data-preview]:not([data-preview=""])');
+    if (first) play(first);
+  };
+
   if (albumBtn && list) {
     albumBtn.addEventListener('click', () => {
       if (current) { stop(); return; }
-      const first = list.querySelector('.track[data-preview]:not([data-preview=""])');
-      if (first) play(first);
+      playFirst();
     });
   }
+
+  // Skip-prev / skip-next buttons: navigate within the current album.
+  // If nothing is playing yet, both jump to the first track. At the
+  // boundaries: prev at first track restarts it; next at last stops.
+  document.querySelectorAll('[data-skip-prev]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (!list) return;
+      if (!current) { playFirst(); return; }
+      let prev = current.previousElementSibling;
+      while (prev && !prev.dataset.preview) prev = prev.previousElementSibling;
+      if (prev) play(prev);
+      else if (audio) audio.currentTime = 0;
+    });
+  });
+  document.querySelectorAll('[data-skip-next]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (!list) return;
+      if (!current) { playFirst(); return; }
+      let next = current.nextElementSibling;
+      while (next && !next.dataset.preview) next = next.nextElementSibling;
+      if (next) play(next);
+      else stop();
+    });
+  });
 
   // ---- accent toggle ----
   document.querySelectorAll('[data-accent-toggle]').forEach((btn) => {

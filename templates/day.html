@@ -40,7 +40,13 @@
     <h1 class="artist">{{ album.artist }}</h1>
     <h2 class="album">{{ album.album }}{% if album.year %} <span class="year">({{ album.year }})</span>{% endif %}</h2>
     {% set search_q = (album.artist ~ ' ' ~ album.album)|urlencode %}
-    <p class="actions">
+    <p class="actions playback">
+      <button type="button" class="action ico-btn" data-skip-prev
+              title="Previous track" aria-label="Previous track">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M6 4h2v16H6zM20 4L8.5 12 20 20z"/>
+        </svg>
+      </button>
       <button type="button" class="action play-album" data-play-album>
         <span class="ico ico-fixed" aria-hidden="true">
           <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
@@ -48,6 +54,14 @@
         </span>
         <span class="label">Play album</span>
       </button>
+      <button type="button" class="action ico-btn" data-skip-next
+              title="Next track" aria-label="Next track">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M4 4l11.5 8L4 20zM16 4h2v16h-2z"/>
+        </svg>
+      </button>
+    </p>
+    <p class="actions external">
       <a class="action ico-btn" href="{{ album.apple_music_url }}" data-app-link rel="noopener noreferrer"
          title="Open in Apple Music" aria-label="Open in Apple Music">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">

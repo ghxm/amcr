@@ -178,11 +178,14 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 0.6rem;
   font-family: var(--font-ui);
   font-size: 0.9rem;
   letter-spacing: 0;
 }
+.meta .actions + .actions { margin-top: 0.6rem; }
+.meta .actions.external { gap: 0.5rem; }
 
 .action {
   display: inline-flex;
