@@ -21,4 +21,4 @@ accent_enabled: true
 site:
   title: amcr
   description: A single release from an Apple Music collection per day.
-  url: https://example.github.io/apple-music-collection-release  # update once GH Pages URL is known
+  url: https://ghxm.github.io/amcr
