@@ -103,6 +103,24 @@
     });
   });
 
+  // ---- Apple Music deep-link (macOS / iOS only) ----
+  // On Apple platforms, hijack the click and navigate to music:// directly.
+  // This skips Safari's "Open in Music?" banner (which times out after a
+  // couple of seconds and dumps the user on the web view). On other
+  // platforms we leave the link alone so it opens the https URL in a new
+  // tab. Middle-click / right-click on Apple platforms still uses the
+  // https URL via the unmodified href.
+  const isApplePlatform = /iPhone|iPad|Macintosh/i.test(navigator.userAgent);
+  if (isApplePlatform) {
+    document.querySelectorAll('a[data-app-link]').forEach((a) => {
+      a.addEventListener('click', (e) => {
+        if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+        e.preventDefault();
+        window.location.href = a.href.replace(/^https:/, 'music:');
+      });
+    });
+  }
+
   // ---- accent toggle ----
   document.querySelectorAll('[data-accent-toggle]').forEach((btn) => {
     const html = document.documentElement;
