@@ -1,10 +1,11 @@
 name: daily pick
 
 on:
-  # 05:00 UTC = 07:00 Europe/Berlin in summer, 06:00 in winter.
-  # Edit if you'd rather post at a different local time.
+  # 02:17 UTC = ~04:17 Europe/Berlin in summer, ~03:17 in winter.
+  # Offbeat minute avoids the top-of-hour GH Actions backlog, which can
+  # delay scheduled jobs by 15-30 min during peak load.
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "17 2 * * *"
   workflow_dispatch:
     inputs:
       backfill:
