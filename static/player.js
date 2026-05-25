@@ -121,27 +121,4 @@
     });
   });
 
-  // ---- app-link smart fallback ----
-  document.querySelectorAll('a[data-app-link]').forEach((a) => {
-    a.addEventListener('click', (e) => {
-      const httpsUrl = a.href;
-      if (!/^https:\/\/music\.apple\.com\//.test(httpsUrl)) return;
-      e.preventDefault();
-      // itmss:// is the classic iTunes Music Store scheme; the Music app
-      // deep-links it more reliably than music:// (which sometimes opens
-      // the app without navigating to the specific album).
-      const appUrl = httpsUrl.replace(/^https:/, 'itmss:');
-      const fallback = setTimeout(() => {
-        window.location.href = httpsUrl;
-      }, 1200);
-      const onHide = () => {
-        if (document.hidden) {
-          clearTimeout(fallback);
-          document.removeEventListener('visibilitychange', onHide);
-        }
-      };
-      document.addEventListener('visibilitychange', onHide);
-      window.location.href = appUrl;
-    });
-  });
 })();
