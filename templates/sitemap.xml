@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ base_url }}/</loc>
+    <lastmod>{{ latest_date }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>{{ base_url }}/archive.html</loc>
+    <lastmod>{{ latest_date }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {% for p in picks %}
+  <url>
+    <loc>{{ base_url }}/{{ p.date }}.html</loc>
+    <lastmod>{{ p.date }}</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {% endfor %}
+</urlset>

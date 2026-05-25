@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}archive | {{ site.title }}{% endblock %}
+
+{% block body %}
+<header class="topbar">
+  <nav class="dates">
+    <a class="arrow" href="index.html" aria-label="back to today">&larr;</a>
+    <span class="today">Archive</span>
+    <span class="arrow muted">&rarr;</span>
+  </nav>
+  <div class="topbar-right">
+    <button type="button" class="accent-toggle" data-accent-toggle aria-pressed="true" aria-label="toggle accent color">
+      <span class="dot" aria-hidden="true"></span>
+    </button>
+    <span class="archive-link muted">{{ tiles|length }}</span>
+  </div>
+</header>
+
+<main class="archive">
+  <ul class="tiles">
+    {% for tile in tiles %}
+    <li>
+      <a href="{{ tile.date }}.html" title="{{ tile.artist }} - {{ tile.album }} ({{ tile.date }})">
+        <img
+          src="{{ tile.art_1x }}"
+          srcset="{{ tile.art_1x }} 1x, {{ tile.art_2x }} 2x"
+          alt="{{ tile.artist }} - {{ tile.album }} ({{ tile.date }})"
+          width="{{ tile_size }}" height="{{ tile_size }}"
+          loading="lazy" decoding="async">
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</main>
+{% endblock %}

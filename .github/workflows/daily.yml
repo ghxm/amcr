@@ -1,0 +1,90 @@
+name: daily pick
+
+on:
+  # 05:00 UTC = 07:00 Europe/Berlin in summer, 06:00 in winter.
+  # Edit if you'd rather post at a different local time.
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Backfill: pick one album per missing day since the last entry"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write  # commit picks.csv back, deploy gh-pages
+
+concurrency:
+  group: daily-pick
+  cancel-in-progress: false
+
+jobs:
+  pick-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+      APPLE_KEY_ID: ${{ secrets.APPLE_KEY_ID }}
+      APPLE_PRIVATE_KEY: ${{ secrets.APPLE_PRIVATE_KEY }}
+      APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
+      APPLE_STOREFRONT: ${{ vars.APPLE_STOREFRONT }}
+      TIMEZONE: ${{ vars.TIMEZONE }}
+      ACCENT_ENABLED: ${{ vars.ACCENT_ENABLED }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pick today's album
+        env:
+          BACKFILL: ${{ inputs.backfill }}
+        run: |
+          set +e
+          if [ "$BACKFILL" = "true" ]; then
+            python -m src.sample --backfill
+          else
+            python -m src.sample
+          fi
+          code=$?
+          if [ "$code" -eq 78 ]; then
+            echo "Nothing to pick (already done), continuing to rebuild."
+            exit 0
+          fi
+          exit "$code"
+
+      - name: Commit ledger and cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "no data changes to commit"
+          else
+            git commit -m "pick: $(date -u +%Y-%m-%d)"
+            # Rebase in case main moved while we were sampling, then push.
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Build site
+        run: python -m src.build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
+          force_orphan: true
+          commit_message: "deploy: ${{ github.sha }}"

@@ -1,0 +1,47 @@
+{
+  "id": "1484123230",
+  "artist": "Greentea Peng",
+  "album": "Rising - EP",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/rising-ep/1484123230",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/d0/21/45d021b1-43b6-3227-8e83-744c33e5cb92/5400863019686_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "5b1720",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Risin'",
+      "duration_ms": 230853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/ed/4c/4bed4c8d-9a73-bc9e-305e-9c84a245cd81/mzaf_1863347704846301586.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Inna City",
+      "duration_ms": 146200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/eb/96/13eb96ba-a200-898d-5c05-ff8dd342a5a2/mzaf_9279050371851584469.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Saturn",
+      "duration_ms": 186627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/b9/95/36b99530-0483-0c05-19a0-f0959af7ac24/mzaf_8191751006734570248.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Mr. Sun (miss da sun)",
+      "duration_ms": 223533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/bc/ba/76bcba9b-d65a-09e6-88ff-3047bebe9579/mzaf_12205913264867986196.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Sane",
+      "duration_ms": 192507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/91/a2/86/91a28604-93fc-ab39-75e7-526e4672c8b6/mzaf_10381540610758075399.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Liberation",
+      "duration_ms": 135427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/1a/a8/281aa87c-5538-5b51-8eec-232648932017/mzaf_1856246455469336478.plus.aac.p.m4a"
+    }
+  ]
+}

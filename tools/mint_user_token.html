@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mint Apple Music User Token</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+      max-width: 720px;
+      margin: 3rem auto;
+      padding: 0 1.25rem;
+      line-height: 1.55;
+    }
+    h1 { font-size: 1.4rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1rem; margin-top: 2rem; text-transform: uppercase; letter-spacing: 0.06em; }
+    code, pre, textarea, .out {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.85rem;
+    }
+    textarea {
+      width: 100%;
+      height: 7rem;
+      padding: 0.6rem;
+      box-sizing: border-box;
+      border: 1px solid currentColor;
+      background: transparent;
+      color: inherit;
+    }
+    button {
+      padding: 0.6rem 1.2rem;
+      font: inherit;
+      background: transparent;
+      color: inherit;
+      border: 1px solid currentColor;
+      cursor: pointer;
+    }
+    button:hover { background: rgba(127,127,127,0.12); }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .out {
+      padding: 0.8rem;
+      border: 1px dashed currentColor;
+      overflow-wrap: anywhere;
+      min-height: 1.4rem;
+    }
+    .status { margin-top: 0.6rem; min-height: 1.4rem; }
+    .err { color: #c0392b; }
+    .ok  { color: #1e8a3c; }
+    .muted { opacity: 0.7; font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <h1>Mint Apple Music User Token</h1>
+  <p class="muted">
+    Use this page when the <code>APPLE_MUSIC_USER_TOKEN</code> GitHub secret expires.
+    Serve it locally: <code>python -m http.server 8000</code> from the project root,
+    then open <a href="http://localhost:8000/tools/mint_user_token.html">http://localhost:8000/tools/mint_user_token.html</a>.
+  </p>
+
+  <h2>1. Paste developer token</h2>
+  <p class="muted">Get it with <code>python -m src.auth --print</code>.</p>
+  <textarea id="devtoken" placeholder="eyJhbGciOi..." autocomplete="off" spellcheck="false"></textarea>
+
+  <h2>2. Authorize</h2>
+  <p>
+    <button id="authBtn">Sign in to Apple Music</button>
+    <button id="copyBtn" disabled>Copy user token</button>
+  </p>
+  <p id="status" class="status"></p>
+
+  <h2>3. Save the user token</h2>
+  <div id="result" class="out">(your Music User Token will appear here)</div>
+  <p class="muted">
+    Save the value as the <code>APPLE_MUSIC_USER_TOKEN</code> GitHub repository secret.
+    Treat it like a password: it grants library access on your behalf.
+  </p>
+
+  <script src="https://js-cdn.music.apple.com/musickit/v3/musickit.js" data-web-components async></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const setStatus = (msg, cls = "") => {
+      const el = $("status");
+      el.textContent = msg;
+      el.className = "status " + cls;
+    };
+
+    let userToken = "";
+
+    $("authBtn").addEventListener("click", async () => {
+      const devToken = $("devtoken").value.trim();
+      if (!devToken) {
+        setStatus("Paste the developer token first.", "err");
+        return;
+      }
+      if (typeof MusicKit === "undefined") {
+        setStatus("MusicKit JS hasn't loaded yet. Wait a moment and retry.", "err");
+        return;
+      }
+      $("authBtn").disabled = true;
+      setStatus("Configuring MusicKit...");
+      try {
+        await MusicKit.configure({
+          developerToken: devToken,
+          app: { name: "amcr", build: "1.0.0" },
+        });
+        const music = MusicKit.getInstance();
+        setStatus("Opening Apple sign-in...");
+        userToken = await music.authorize();
+        $("result").textContent = userToken;
+        $("copyBtn").disabled = false;
+        setStatus("Got a Music User Token. Copy it into the GitHub secret.", "ok");
+      } catch (err) {
+        setStatus("Error: " + (err && err.message ? err.message : String(err)), "err");
+      } finally {
+        $("authBtn").disabled = false;
+      }
+    });
+
+    $("copyBtn").addEventListener("click", async () => {
+      if (!userToken) return;
+      try {
+        await navigator.clipboard.writeText(userToken);
+        setStatus("Copied to clipboard.", "ok");
+      } catch {
+        setStatus("Couldn't access clipboard; copy from the box above.", "err");
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>amcr</title>
+    <link>https://example.github.io/apple-music-collection-release/</link>
+    <atom:link href="https://example.github.io/apple-music-collection-release/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A single release from an Apple Music collection per day.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 May 2026 11:30:26 +0000</lastBuildDate>
+    <item>
+      <title>Sam Gendel &amp; Ugnė Uma - Tam Tikri Objektai Erdvėje - EP</title>
+      <link>https://example.github.io/apple-music-collection-release/2026-05-25.html</link>
+      <guid isPermaLink="true">https://example.github.io/apple-music-collection-release/2026-05-25.html</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/23/f9/b223f95d-8ad4-7d30-d4e1-a21821f45e8a/0821555207399_cover.jpg/600x600bb.jpg" />
+      <enclosure url="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/23/f9/b223f95d-8ad4-7d30-d4e1-a21821f45e8a/0821555207399_cover.jpg/600x600bb.jpg" type="image/jpeg" length="0" />
+      <description><![CDATA[<p><a href="https://example.github.io/apple-music-collection-release/2026-05-25.html">Sam Gendel &amp; Ugnė Uma - Tam Tikri Objektai Erdvėje - EP</a></p><p><img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/23/f9/b223f95d-8ad4-7d30-d4e1-a21821f45e8a/0821555207399_cover.jpg/600x600bb.jpg" alt="Sam Gendel &amp; Ugnė Uma - Tam Tikri Objektai Erdvėje - EP" /></p><p><a href="https://music.apple.com/de/album/tam-tikri-objektai-erdve-je-ep/1714020702">open in apple music</a></p>]]></description>
+    </item>
+    <item>
+      <title>Greentea Peng - Rising - EP</title>
+      <link>https://example.github.io/apple-music-collection-release/2026-05-24.html</link>
+      <guid isPermaLink="true">https://example.github.io/apple-music-collection-release/2026-05-24.html</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/d0/21/45d021b1-43b6-3227-8e83-744c33e5cb92/5400863019686_cover.jpg/600x600bb.jpg" />
+      <enclosure url="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/d0/21/45d021b1-43b6-3227-8e83-744c33e5cb92/5400863019686_cover.jpg/600x600bb.jpg" type="image/jpeg" length="0" />
+      <description><![CDATA[<p><a href="https://example.github.io/apple-music-collection-release/2026-05-24.html">Greentea Peng - Rising - EP</a></p><p><img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/d0/21/45d021b1-43b6-3227-8e83-744c33e5cb92/5400863019686_cover.jpg/600x600bb.jpg" alt="Greentea Peng - Rising - EP" /></p><p><a href="https://music.apple.com/de/album/rising-ep/1484123230">open in apple music</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

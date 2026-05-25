@@ -1,0 +1,24 @@
+# Non-secret defaults. Override per-environment via env vars where noted.
+
+# Apple Music storefront code (two-letter country, lowercase).
+# Determines catalog locale and the music.apple.com URL prefix.
+# Overridable via APPLE_STOREFRONT.
+storefront: de
+
+# Timezone for computing "today". Overridable via TIMEZONE.
+timezone: Europe/Berlin
+
+# Cover image sizes (px) substituted into Apple artwork URL templates.
+artwork:
+  day_page: 1200   # large hero image on the daily page
+  archive_tile: 400  # tile in the archive grid
+
+# Use Apple's per-album dominant color as the accent on each day page.
+# Overridable via ACCENT_ENABLED=true|false (any non-truthy value disables).
+accent_enabled: true
+
+# Site metadata
+site:
+  title: amcr
+  description: A single release from an Apple Music collection per day.
+  url: https://example.github.io/apple-music-collection-release  # update once GH Pages URL is known
