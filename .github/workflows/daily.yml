@@ -2,8 +2,7 @@ name: daily pick
 
 on:
   # 02:17 UTC = ~04:17 Europe/Berlin in summer, ~03:17 in winter.
-  # Offbeat minute avoids the top-of-hour GH Actions backlog, which can
-  # delay scheduled jobs by 15-30 min during peak load.
+  # Offbeat minute avoids the top-of-hour GH Actions backlog.
   schedule:
     - cron: "17 2 * * *"
   workflow_dispatch:
@@ -15,7 +14,9 @@ on:
         default: false
 
 permissions:
-  contents: write  # commit picks.csv back, deploy gh-pages
+  contents: write   # commit picks.csv + cache back to main
+  pages: write      # deploy to GitHub Pages
+  id-token: write   # OIDC token for Pages deploy
 
 concurrency:
   group: daily-pick
@@ -25,6 +26,9 @@ jobs:
   pick-and-publish:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     env:
       APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
@@ -73,7 +77,6 @@ jobs:
             echo "no data changes to commit"
           else
             git commit -m "pick: $(date -u +%Y-%m-%d)"
-            # Rebase in case main moved while we were sampling, then push.
             git pull --rebase origin main
             git push
           fi
@@ -81,11 +84,14 @@ jobs:
       - name: Build site
         run: python -m src.build
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./public
-          force_orphan: true
-          commit_message: "deploy: ${{ github.sha }}"
+          path: ./public
+
+      - id: deployment
+        name: Deploy to Pages
+        uses: actions/deploy-pages@v4
