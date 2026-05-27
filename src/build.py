@@ -42,6 +42,31 @@ def _artwork(template: str, size: int) -> str:
     return template.replace("{w}", str(size)).replace("{h}", str(size))
 
 
+def _tint(bg_hex: str | None) -> dict | None:
+    """Build a per-album color palette from Apple's bgColor.
+
+    Returns a dict with `bg` and `fg` hex strings (each prefixed with #),
+    where `fg` is the high-contrast text color picked from the sRGB
+    relative luminance of `bg`. Returns None when no bgColor is given.
+    """
+    if not bg_hex:
+        return None
+    h = bg_hex.lstrip("#")
+    if len(h) != 6:
+        return None
+    try:
+        rgb = tuple(int(h[i:i + 2], 16) / 255 for i in (0, 2, 4))
+    except ValueError:
+        return None
+
+    def _channel(c: float) -> float:
+        return c / 12.92 if c <= 0.03928 else ((c + 0.055) / 1.055) ** 2.4
+
+    lum = 0.2126 * _channel(rgb[0]) + 0.7152 * _channel(rgb[1]) + 0.0722 * _channel(rgb[2])
+    fg = "#111" if lum > 0.5 else "#f5f1ea"
+    return {"bg": f"#{h}", "fg": fg}
+
+
 def _duration_str(ms: int) -> str:
     total = max(0, ms // 1000)
     m, s = divmod(total, 60)
@@ -119,7 +144,7 @@ def render_all(cfg: Config) -> int:
             "artwork_1x": _artwork(art, cfg.artwork.day_page),
             "artwork_2x": _artwork(art, cfg.artwork.day_page * 2),
             "artwork_og": _artwork(art, 1200),
-            "accent_color": album.get("artwork_bg_color") if cfg.accent_enabled else None,
+            "tint": _tint(album.get("artwork_bg_color")) if cfg.accent_enabled else None,
             "canonical_url": _site_url_for(cfg, f"{p.date}.html"),
         }
         (PUBLIC_DIR / f"{p.date}.html").write_text(
@@ -145,7 +170,7 @@ def render_all(cfg: Config) -> int:
         "artwork_1x": _artwork(art, cfg.artwork.day_page),
         "artwork_2x": _artwork(art, cfg.artwork.day_page * 2),
         "artwork_og": _artwork(art, 1200),
-        "accent_color": album.get("artwork_bg_color"),
+        "tint": _tint(album.get("artwork_bg_color")) if cfg.accent_enabled else None,
         "canonical_url": _site_url_for(cfg, f"{latest.date}.html"),
     }
     (PUBLIC_DIR / "index.html").write_text(
@@ -170,7 +195,7 @@ def render_all(cfg: Config) -> int:
             tiles=tiles,
             tile_size=cfg.artwork.archive_tile,
             canonical_url=_site_url_for(cfg, "archive.html"),
-            accent_color=None,
+            tint=None,
         ),
         encoding="utf-8",
     )

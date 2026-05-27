@@ -124,8 +124,9 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .accent-toggle:hover { border-color: var(--accent); }
 
-/* When the visitor turns the accent off, fall back to the foreground color. */
-html.no-accent { --accent: var(--fg); }
+/* Per-album tint is applied via :root:not(.no-accent) in an inline <style>
+   block in <head>. The accent-toggle adds .no-accent on <html> so the
+   tinted rule stops matching and the OS-pref defaults take over. */
 
 /* --- main day layout -------------------------------------------------- */
 
