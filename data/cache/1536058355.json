@@ -1,0 +1,65 @@
+{
+  "id": "1536058355",
+  "artist": "Tangerine Dream",
+  "album": "Hyperborea (Deluxe Edition)",
+  "year": 1983,
+  "apple_music_url": "https://music.apple.com/de/album/hyperborea-deluxe-edition/1536058355",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/12/aa/97/12aa976a-664e-8b8c-2d51-0f4c5ab75897/20UMGIM70079.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "No Man's Land",
+      "duration_ms": 550678,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/fc/da/5afcdad1-6617-e0af-2b37-75c9d95873f5/mzaf_2341858497590286702.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Hyperborea",
+      "duration_ms": 519703,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/4b/c4/a34bc4bb-7688-56ed-93a4-652b367959d8/mzaf_12958949748290883992.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Cinnamon Road",
+      "duration_ms": 237876,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/17/f2/e017f230-1c8f-0965-052a-db9b2f440973/mzaf_13628033344852499824.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Sphinx Lightning",
+      "duration_ms": 1196716,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/53/14/ee/5314ee35-0a3f-3c2a-7fc0-01a6cff93b29/mzaf_14762173438972792270.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "The Dream Is Always the Same (From the \"Risky Business\" Soundtrack)",
+      "duration_ms": 223903,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/c8/61/f9c8613c-298b-2c02-1a81-6d9c505e208e/mzaf_2727902673891035704.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "No Future (Get Off the Babysitter) [From the \"Risky Business\" Soundtrack]",
+      "duration_ms": 121049,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3b/8c/94/3b8c946e-851c-e05c-3ef4-1e8be77245ae/mzaf_17580353287646239099.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Guido the Killer Pimp (From the \"Risky Business\" Soundtrack)",
+      "duration_ms": 259849,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/01/01/f0/0101f01c-f437-438b-0d3a-c13d024cbf80/mzaf_8269024037687126010.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Lana (From the \"Risky Business\" Soundtrack)",
+      "duration_ms": 233183,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/65/ef/0365efd9-fe85-3684-47c0-3074b3fc9a9a/mzaf_11620800303560210229.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Love On a Real Train (Risky Business) [From the \"Risky Business\" Soundtrack]",
+      "duration_ms": 239238,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/2a/77/6b2a7792-f8f2-b213-698f-96dfb17bd48a/mzaf_15886312730313657064.plus.aac.p.m4a"
+    }
+  ]
+}
