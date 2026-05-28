@@ -1,0 +1,65 @@
+{
+  "id": "989376625",
+  "artist": "Bill Withers",
+  "album": "Menagerie",
+  "year": 1977,
+  "apple_music_url": "https://music.apple.com/de/album/menagerie/989376625",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/26/59/17265978-5651-8466-6482-e6abf49fd1a6/886445193275.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b0b6b3",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Lovely Day",
+      "duration_ms": 257157,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/6e/38/9c6e38b4-9d82-3475-5ac9-4f379e1d3b8e/mzaf_4769079062518047842.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "I Want to Spend the Night",
+      "duration_ms": 223422,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/08/19/20/08192057-c2be-6cff-355d-e3acffde32af/mzaf_6302495038273688178.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Lovely Night for Dancing",
+      "duration_ms": 353185,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/1a/79/5f1a7977-bb6b-e038-f97e-d143acf61d83/mzaf_15230250247606600930.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Then You Smile at Me",
+      "duration_ms": 295488,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/bc/75/39bc759f-4fb1-116b-66e2-498d4c378b31/mzaf_8144609354266018799.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "She Wants To (Get on Down)",
+      "duration_ms": 195253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/98/da/76/98da7669-29e6-18f2-fa18-09d798c48afe/mzaf_7446247582339098757.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "It Ain't Because of Me Baby",
+      "duration_ms": 212204,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/11/51/5b1151a5-4b42-cf9c-96b8-de83d1d02e84/mzaf_2719684963588793348.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Tender Things",
+      "duration_ms": 302770,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/4f/50/a84f5038-b625-e163-3841-d4aa7fae2ad9/mzaf_3680490433455094531.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Wintertime",
+      "duration_ms": 198090,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/01/f1/a101f1c4-e4e1-0426-42b2-40e01d456984/mzaf_11409104794820483437.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Let Me Be the One You Need",
+      "duration_ms": 285544,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/45/9c/10459cbc-9134-25fe-5dae-d0795eb90f1e/mzaf_16651653836737421101.plus.aac.p.m4a"
+    }
+  ]
+}
