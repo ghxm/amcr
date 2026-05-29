@@ -1,0 +1,71 @@
+{
+  "id": "1331767921",
+  "artist": "Prophet",
+  "album": "Wanna Be Your Man",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/wanna-be-your-man/1331767921",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/f2/68/b6f2687b-fba5-290b-12a9-0cc0e1e7727e/820.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "eae323",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Insanity",
+      "duration_ms": 290964,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/74/41/8e/74418ef8-db20-88cc-1db5-5e5e0963d364/mzaf_10241213421099439934.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Wanna Be Your Man",
+      "duration_ms": 232960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7c/4d/f9/7c4df931-6dbb-8d4d-d13f-17b1f8525855/mzaf_6536522631600803267.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Ooo Wee Yeah",
+      "duration_ms": 253719,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fd/03/55/fd03553f-628c-8969-6a3f-ad0817525f63/mzaf_8473891253347554510.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Party",
+      "duration_ms": 199442,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1c/b0/e1/1cb0e196-7d89-cc96-a81b-23d585abe3db/mzaf_17051796345766553095.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "I Do Love",
+      "duration_ms": 242815,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/57/33/86/573386c0-73e2-3147-4d05-848deb7a8c6c/mzaf_12455360080272894120.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Tonight (feat. Nite Jewel)",
+      "duration_ms": 270249,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/be/49/62/be4962f7-022e-4672-9ed5-a5934d764e80/mzaf_1261794450839320990.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Really Turn Me On",
+      "duration_ms": 273599,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e3/4a/82/e34a8292-3f67-500c-10f5-4db265acd8a0/mzaf_12759042681951711341.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Right on Time",
+      "duration_ms": 275249,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/27/ad/5b/27ad5b3a-a261-4f6c-3a49-307a988039e3/mzaf_10840581246949081512.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Dream",
+      "duration_ms": 229514,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/12/97/8c/12978c74-63a2-ff8f-b6df-e033177008bd/mzaf_1023853295130080181.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "I Do",
+      "duration_ms": 255490,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3e/fb/24/3efb24c6-ed63-a7ee-c417-182a0400b7f4/mzaf_9038994784372437273.plus.aac.p.m4a"
+    }
+  ]
+}
