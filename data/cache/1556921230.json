@@ -1,0 +1,77 @@
+{
+  "id": "1556921230",
+  "artist": "my bloody valentine",
+  "album": "loveless",
+  "year": 1991,
+  "apple_music_url": "https://music.apple.com/de/album/loveless/1556921230",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/e1/51/4ce15131-7ac5-daf5-bf62-0202f27d691d/887830015998.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "992229",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "only shallow",
+      "duration_ms": 256680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/70/ea/6c/70ea6cbe-1a53-8611-840c-7d0a59e67f99/mzaf_10754500313813200284.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "loomer",
+      "duration_ms": 158120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/63/ca/bc/63cabcd7-0dfe-cd50-fe5b-a3ce3f259347/mzaf_18025411499566806756.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "touched",
+      "duration_ms": 56880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e6/86/50/e686506f-5dd1-0eae-4ea5-a39dfe6c5671/mzaf_10275355809366302032.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "to here knows when",
+      "duration_ms": 330947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6a/81/b6/6a81b6eb-b0cf-0a92-f01a-7dee3b09e3dc/mzaf_5304791094221775973.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "when you sleep",
+      "duration_ms": 251920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3c/a9/74/3ca97440-57c1-5471-9cb8-b94ae1bcb8cc/mzaf_10714938283434744218.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "i only said",
+      "duration_ms": 334373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c5/c5/f1/c5c5f147-0ff6-f1c4-60a8-cd6b96f2c4a5/mzaf_11220978569859293819.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "come in alone",
+      "duration_ms": 238773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/dc/6c/48/dc6c4825-8d6e-1177-ccc0-fac88f8a6a3b/mzaf_12778653428900829124.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "sometimes",
+      "duration_ms": 319213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0e/35/d1/0e35d1af-b7f3-cdae-83f5-b3e84a8fc959/mzaf_568578228690113670.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "blown a wish",
+      "duration_ms": 216427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fc/a3/32/fca3329e-107a-8221-64ff-77a79f984f17/mzaf_7646766077649358580.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "what you want",
+      "duration_ms": 333453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/04/7b/f4/047bf476-39e0-e249-cd2a-1bd0ca153c58/mzaf_3720246647032365915.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "soon",
+      "duration_ms": 418467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/66/60/6a/66606a40-64ee-1617-b218-9a0f6ca9dde4/mzaf_11188566305545158291.plus.aac.p.m4a"
+    }
+  ]
+}
