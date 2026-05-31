@@ -1,0 +1,23 @@
+{
+  "id": "594824027",
+  "artist": "Substance & Vainqueur",
+  "album": "Libration - Single",
+  "year": 2007,
+  "apple_music_url": "https://music.apple.com/de/album/libration-single/594824027",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4c/17/354c1751-afc8-7d0f-8a4c-d47fb7e1766d/4044693547233.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e8e8e8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Libration",
+      "duration_ms": 555255,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/2d/0c/7b2d0ccf-0748-d527-593a-525f60b6ed3e/mzaf_17810823885246494015.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Resonance",
+      "duration_ms": 551054,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/52/c9/1e52c940-abc4-e982-8889-996e93ce135f/mzaf_16562004084231570995.plus.aac.p.m4a"
+    }
+  ]
+}
