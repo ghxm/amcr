@@ -1,0 +1,89 @@
+{
+  "id": "735301547",
+  "artist": "A Great Big World",
+  "album": "Is There Anybody Out There?",
+  "year": 2014,
+  "apple_music_url": "https://music.apple.com/de/album/is-there-anybody-out-there/735301547",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/19/56/f41956df-120e-321f-a1cb-626b48c14ab6/886444314022.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "13071c",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Rockstar",
+      "duration_ms": 236482,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/e8/e0/0be8e0af-2cde-9fa4-6c83-f57874804f09/mzaf_5753467698081973957.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Land of Opportunity",
+      "duration_ms": 205750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/33/3f/4c333f12-e036-c027-c5c5-749d5d55a185/mzaf_10630011414456766696.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Already Home",
+      "duration_ms": 230190,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/f3/cf/b5f3cf2c-ed51-d8ae-f000-8a2921d9e8a6/mzaf_7478104634988150964.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "I Really Want It",
+      "duration_ms": 202300,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/78/76/d0787625-0586-6216-9987-cd9f4172298b/mzaf_15488014662800300290.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Say Something",
+      "duration_ms": 233262,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/59/6d/61596d88-b3fd-bcf0-2572-f805d976d291/mzaf_5012302252314646019.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "You'll Be Okay",
+      "duration_ms": 238382,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/21/e6/b721e6c0-2a94-35de-cbc0-7ecb4f9d35be/mzaf_1777578698774629262.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Everyone Is Gay",
+      "duration_ms": 130073,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/88/8a/3a888a94-38e6-4dd5-4554-917ee852eeb3/mzaf_14004667344999994147.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "There Is an Answer",
+      "duration_ms": 221998,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/95/fa/9c95facd-3a9d-dfe6-a7bf-e0f7c731e0a3/mzaf_1201938312143007414.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "I Don't Wanna Love Somebody Else",
+      "duration_ms": 163965,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/c3/0d/62c30db6-4236-4d0b-ba1a-9c53eaff68d2/mzaf_13129910985971102192.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "This Is the New Year",
+      "duration_ms": 194970,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fd/d6/8b/fdd68bf1-fca8-f541-1f94-aee544076afe/mzaf_15154111694573169084.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Shorty Don't Wait",
+      "duration_ms": 251670,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/dd/72/93dd7282-1655-b34e-31d6-d70dc18d7550/mzaf_11640303476550951966.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Cheer Up!",
+      "duration_ms": 131271,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/d3/27/53d327e2-2fbb-1de9-d1d1-b47da5eb0f0f/mzaf_10551427132079953320.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Say Something",
+      "duration_ms": 229404,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/5a/12/8f5a1264-ae49-e7e4-e3d7-7831e59c4b83/mzaf_5239120977186816345.plus.aac.p.m4a"
+    }
+  ]
+}
