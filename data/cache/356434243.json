@@ -1,0 +1,83 @@
+{
+  "id": "356434243",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "Spiritual Jazz",
+  "year": 2009,
+  "apple_music_url": "https://music.apple.com/de/album/spiritual-jazz/356434243",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/f6/cb/19/mzi.yktwltxo.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f5f0d8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "duration_ms": 379734,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2e/4f/db/2e4fdbff-2822-f172-c717-38892dcd55a5/mzaf_637214991315309810.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Gol-E-Gandom",
+      "duration_ms": 250946,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/9e/aa/e09eaa72-b3a2-3bfa-30d5-1a05dc3c8818/mzaf_951278123654276005.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Paul's Ark",
+      "duration_ms": 199160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/64/84/6f6484e2-e68b-9cbd-ae13-59579aa4e19e/mzaf_17893647481798867363.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Ayo Ayo Nene",
+      "duration_ms": 345180,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/53/1f/93531f5b-fdce-e3cc-2f37-c937ca5ade1f/mzaf_17407225483397706491.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Nomusa",
+      "duration_ms": 526652,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/29/01/47290197-6e50-316b-2511-acff0452ac66/mzaf_12958675339504233683.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "The Akrikan In Winter",
+      "duration_ms": 256251,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/91/d9/4f91d90b-e8d9-d972-1251-6e005f17a3f0/mzaf_5786672738193821222.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Neveen",
+      "duration_ms": 472414,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/c4/60/42c460c5-acf8-588e-37fc-8f620a93f914/mzaf_17937046347575465031.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "No Jive",
+      "duration_ms": 310717,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/a7/e0/65a7e0fc-ac67-aab6-bae1-e971d49720f7/mzaf_17811638746768093011.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Ja Mil",
+      "duration_ms": 213912,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/26/ac/82/26ac8261-e873-b159-114c-c5cc5eff84d1/mzaf_3264925624685989796.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "The Will Come, Is Now",
+      "duration_ms": 749675,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/b1/ce/53b1ce9b-0f8d-d89c-f16a-995773495b28/mzaf_14671482579093008153.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Be There",
+      "duration_ms": 211955,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/10/d8/5c10d806-7fa8-5047-2306-1d3d94d3c9c0/mzaf_11835801122858677612.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Psych City",
+      "duration_ms": 646209,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/ce/ef/b0ceefe6-5cd6-f54a-dbdc-ef7129c3b138/mzaf_14829332586363823655.plus.aac.p.m4a"
+    }
+  ]
+}
