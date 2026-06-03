@@ -22,6 +22,11 @@ artwork:
 # Overridable via ACCENT_ENABLED=true|false (any non-truthy value disables).
 accent_enabled: true
 
+# Include user-uploaded albums (no catalog match) in the picking pool.
+# These render without 30-sec previews or an Apple Music link.
+# Overridable via INCLUDE_UPLOADS=true|false.
+include_uploads: false
+
 # Site metadata
 site:
   title: amcr

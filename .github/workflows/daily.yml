@@ -39,6 +39,7 @@ jobs:
       APPLE_LANGUAGE: ${{ vars.APPLE_LANGUAGE }}
       TIMEZONE: ${{ vars.TIMEZONE }}
       ACCENT_ENABLED: ${{ vars.ACCENT_ENABLED }}
+      INCLUDE_UPLOADS: ${{ vars.INCLUDE_UPLOADS }}
 
     steps:
       - uses: actions/checkout@v4

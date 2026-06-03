@@ -37,6 +37,7 @@ class Config:
     artwork: ArtworkSizes
     site: SiteMeta
     accent_enabled: bool
+    include_uploads: bool
 
 
 def _truthy(value: str | None, default: bool) -> bool:
@@ -66,5 +67,9 @@ def load_config() -> Config:
         accent_enabled=_truthy(
             os.environ.get("ACCENT_ENABLED"),
             bool(raw.get("accent_enabled", True)),
+        ),
+        include_uploads=_truthy(
+            os.environ.get("INCLUDE_UPLOADS"),
+            bool(raw.get("include_uploads", False)),
         ),
     )

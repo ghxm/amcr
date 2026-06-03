@@ -26,6 +26,8 @@ class LibraryAlbum:
     catalog_id: str | None  # None for purely user-uploaded items
     artist: str
     name: str
+    artwork_url_template: str  # populated for uploads so we can still render a cover
+    artwork_bg_color: str | None
 
 
 def list_albums(page_size: int = 100) -> list[LibraryAlbum]:
@@ -44,12 +46,15 @@ def list_albums(page_size: int = 100) -> list[LibraryAlbum]:
                 item.get("relationships", {}).get("catalog", {}).get("data") or []
             )
             catalog_id = cat_data[0]["id"] if cat_data else None
+            artwork = attrs.get("artwork", {}) or {}
             out.append(
                 LibraryAlbum(
                     library_id=item.get("id", ""),
                     catalog_id=catalog_id,
                     artist=attrs.get("artistName", "Unknown Artist"),
                     name=attrs.get("name", "Untitled"),
+                    artwork_url_template=artwork.get("url", ""),
+                    artwork_bg_color=artwork.get("bgColor"),
                 )
             )
         if "next" not in resp:
