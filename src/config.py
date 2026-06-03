@@ -32,6 +32,7 @@ class SiteMeta:
 @dataclass(frozen=True)
 class Config:
     storefront: str
+    language: str
     timezone: str
     artwork: ArtworkSizes
     site: SiteMeta
@@ -51,6 +52,7 @@ def load_config() -> Config:
     site = raw.get("site", {})
     return Config(
         storefront=os.environ.get("APPLE_STOREFRONT") or raw.get("storefront", "us"),
+        language=os.environ.get("APPLE_LANGUAGE") or raw.get("language", "en-US"),
         timezone=os.environ.get("TIMEZONE") or raw.get("timezone", "UTC"),
         artwork=ArtworkSizes(
             day_page=int(art.get("day_page", 1200)),

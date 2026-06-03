@@ -46,11 +46,21 @@ def _storefront() -> str:
     return os.environ.get("APPLE_STOREFRONT", "de")
 
 
-def fetch_album(catalog_id: str, storefront: str | None = None) -> CachedAlbum:
+def _language() -> str:
+    load_dotenv()
+    return os.environ.get("APPLE_LANGUAGE", "en-US")
+
+
+def fetch_album(
+    catalog_id: str,
+    storefront: str | None = None,
+    language: str | None = None,
+) -> CachedAlbum:
     sf = storefront or _storefront()
+    lang = language or _language()
     resp = get(
         f"/v1/catalog/{sf}/albums/{catalog_id}",
-        params={"include": "tracks"},
+        params={"include": "tracks", "l": lang},
         user=False,  # catalog endpoints only need the developer token
     )
     data = resp["data"][0]
@@ -97,12 +107,13 @@ def to_dict(album: CachedAlbum) -> dict:
 
 def _main() -> int:
     if len(sys.argv) < 2:
-        print("usage: python -m src.catalog <catalog_album_id> [<storefront>]",
+        print("usage: python -m src.catalog <catalog_album_id> [<storefront>] [<language>]",
               file=sys.stderr)
         return 2
     cid = sys.argv[1]
     sf = sys.argv[2] if len(sys.argv) > 2 else None
-    print(json.dumps(to_dict(fetch_album(cid, sf)), indent=2, ensure_ascii=False))
+    lang = sys.argv[3] if len(sys.argv) > 3 else None
+    print(json.dumps(to_dict(fetch_album(cid, sf, lang)), indent=2, ensure_ascii=False))
     return 0
 
 

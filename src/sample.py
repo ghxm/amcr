@@ -38,7 +38,7 @@ def _cache_path(album_id: str) -> Path:
     return CACHE_DIR / f"{album_id}.json"
 
 
-def _ensure_cached(album_id: str, storefront: str) -> CachedAlbum:
+def _ensure_cached(album_id: str, storefront: str, language: str) -> CachedAlbum:
     path = _cache_path(album_id)
     if path.exists():
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -46,7 +46,7 @@ def _ensure_cached(album_id: str, storefront: str) -> CachedAlbum:
         from .catalog import Track
         data["tracks"] = [Track(**t) for t in data.get("tracks", [])]
         return CachedAlbum(**data)
-    album = fetch_album(album_id, storefront)
+    album = fetch_album(album_id, storefront, language)
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     path.write_text(
         json.dumps(to_dict(album), indent=2, ensure_ascii=False),
@@ -113,7 +113,7 @@ def run(backfill: bool = False) -> int:
             return 1
         chosen = rng.choice(pool)
         assert chosen.catalog_id is not None
-        album = _ensure_cached(chosen.catalog_id, cfg.storefront)
+        album = _ensure_cached(chosen.catalog_id, cfg.storefront, cfg.language)
         pick = Pick(
             date=date,
             album_id=chosen.catalog_id,

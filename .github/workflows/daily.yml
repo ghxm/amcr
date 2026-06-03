@@ -36,6 +36,7 @@ jobs:
       APPLE_PRIVATE_KEY: ${{ secrets.APPLE_PRIVATE_KEY }}
       APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
       APPLE_STOREFRONT: ${{ vars.APPLE_STOREFRONT }}
+      APPLE_LANGUAGE: ${{ vars.APPLE_LANGUAGE }}
       TIMEZONE: ${{ vars.TIMEZONE }}
       ACCENT_ENABLED: ${{ vars.ACCENT_ENABLED }}
 

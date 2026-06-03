@@ -5,6 +5,11 @@
 # Overridable via APPLE_STOREFRONT.
 storefront: de
 
+# BCP-47 language tag passed as `l=` to catalog API calls. Localizes
+# returned strings (artist/album/track names, "Various Artists" etc.)
+# independently of the storefront. Overridable via APPLE_LANGUAGE.
+language: en-US
+
 # Timezone for computing "today". Overridable via TIMEZONE.
 timezone: Europe/Berlin
 
