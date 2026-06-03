@@ -1,0 +1,53 @@
+{
+  "id": "373314575",
+  "artist": "Giuseppe Ielasi",
+  "album": "Tools",
+  "year": 2010,
+  "apple_music_url": "https://music.apple.com/de/album/tools/373314575",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/0e/19/mzi.kltucxwf.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "404042",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Cooking Pan",
+      "duration_ms": 196225,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/ee/0d/9e/ee0d9e2d-6cc1-2b05-a765-df4a6dff3b67/mzaf_3339302308677324978.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Rubber Band",
+      "duration_ms": 166681,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/53/b4/7c/53b47c36-3cf2-bc11-4208-2bafe644cf76/mzaf_8356333374882909132.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Polystyrene Box",
+      "duration_ms": 107981,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/b0/0b/2b/b00b2b65-9a4d-5d81-0ab3-1afa5ace7fc5/mzaf_1961445451181176351.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Metal Rod",
+      "duration_ms": 112416,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/17/aa/05/17aa0501-7590-af56-4375-6d9b590c9b19/mzaf_3991720622343411198.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Aluminium Foil",
+      "duration_ms": 186940,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/4d/2c/cf/4d2ccfdb-7c37-ba0e-068c-276d6365b171/mzaf_1660254641088978903.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Tin Can",
+      "duration_ms": 203943,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/99/08/67/99086739-5169-e536-c705-a757c23da7c9/mzaf_377080372213719327.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Paper Lamp",
+      "duration_ms": 212934,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/85/9f/d6/859fd6fb-6fa6-95cc-4fba-17856130390a/mzaf_3785364855954745400.plus.aac.p.m4a"
+    }
+  ]
+}
