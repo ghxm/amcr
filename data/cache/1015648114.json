@@ -1,0 +1,299 @@
+{
+  "id": "1015648114",
+  "artist": "Charles Aznavour",
+  "album": "BD Music & Martin Pénet Present Charles Aznavour",
+  "year": 2011,
+  "apple_music_url": "https://music.apple.com/de/album/bd-music-martin-p%C3%A9net-present-charles-aznavour/1015648114",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/61/5a/75615ad7-1afc-f479-bfca-5d9422f7165c/9782849071700_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Je m'voyais déjà",
+      "duration_ms": 203920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/89/94/d98994db-6f0c-215c-2f1a-09668099829e/mzaf_1820083915865325018.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Plus heureux que moi",
+      "duration_ms": 141960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/9c/7e/449c7e71-21f9-89b7-40a9-584a56092ba5/mzaf_15233976845788600903.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "J'ai perdu la tête",
+      "duration_ms": 167493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/16/ed/a816edd0-f370-0464-3fe5-453ff2250567/mzaf_1893723730478144473.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Prends le chorus",
+      "duration_ms": 154107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/59/0f/db590f60-6ed8-6312-d9ab-47f496c2e542/mzaf_10139240408201941368.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Pour faire une jam",
+      "duration_ms": 163640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/d9/2a/36d92a75-16b6-2f1b-03a8-6af5df2ec39d/mzaf_5968299115353709557.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "C'est ça",
+      "duration_ms": 161600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/7f/55/547f5530-1a67-5f03-c87f-4003433becb7/mzaf_3248008221776757671.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Ce sacré piano",
+      "duration_ms": 199760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/e9/37/5fe937fe-aed3-4ad4-4c79-a656b6ec03b1/mzaf_8601865987378041388.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Liberté",
+      "duration_ms": 143813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/07/9c/22079c3f-56ba-fa4b-6889-40e010098ecc/mzaf_283377376567138456.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "L'amour et la guerre",
+      "duration_ms": 155307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/66/e0/ad66e0b2-3c7e-924b-0008-19676f5603cf/mzaf_17941193348485696554.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "L'émigrant (Version 1)",
+      "duration_ms": 176427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/82/dd/2f82dd5d-0899-2f0a-79c8-cb3c94ab0f00/mzaf_16919159095263179554.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "De ville en ville",
+      "duration_ms": 138413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/ff/fc/2ffffc27-a810-88a5-a60f-3dda03db7e5a/mzaf_7487437087094139816.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Il pleut",
+      "duration_ms": 169800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/64/c1/1364c170-c00a-acb2-fdb7-c058fead9977/mzaf_12643577505374413625.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "J'aime Paris au mois de mai",
+      "duration_ms": 156320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/2f/6d/ed2f6ddf-3f88-7c85-fc7c-a6d1e86e9563/mzaf_246053717589429072.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "L'amour a fait de moi",
+      "duration_ms": 129213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/7a/b6/197ab66b-0015-85a1-2f3a-cfdb2fa828e1/mzaf_10984831484548063905.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "C'est merveilleux l'amour",
+      "duration_ms": 118427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/88/32/70883240-4e9c-edcc-95f7-4eea0e6a659b/mzaf_17667407681609670913.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "On ne sait jamais",
+      "duration_ms": 137600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/53/f9/ed53f9e8-5d06-9a4e-aeb0-add57f7b8c79/mzaf_3150634044967584488.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Ça",
+      "duration_ms": 182160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/ef/2e/63ef2e25-5c3e-fbf0-d2a8-ae254cb5c080/mzaf_14035339136050543666.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Viens",
+      "duration_ms": 180640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/bf/99/17bf9910-4a83-6cbb-e1b7-d7e2f0fe5fa7/mzaf_9103109427051424592.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Mé-ké mé-ké",
+      "duration_ms": 161360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/3e/14/d73e14d5-1684-e324-f6ae-17e467a49316/mzaf_13950737999805943204.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Quand elle chante",
+      "duration_ms": 118547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/12/55/1012559a-af1b-e62e-64c7-4dcebc4262d2/mzaf_15836349363294318602.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Intoxiqué",
+      "duration_ms": 140613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/79/1b/3c791bcf-e3e4-17a7-d376-cff61dfc000b/mzaf_4610680806567528055.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Et bailler et dormir",
+      "duration_ms": 178920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/08/8a/6b088adb-7bbb-bd58-bfd8-980040a8631b/mzaf_5642458583976743678.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Moi j'fais mon rond",
+      "duration_ms": 166600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/64/a4/6f64a4a8-6e1b-cf12-b9c1-30837a285b7a/mzaf_16720476222114557766.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Le feutre taupé",
+      "duration_ms": 161760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/c3/ed/acc3ed76-2c21-dd0a-3eb4-c14b6baf4e97/mzaf_10855399640007990288.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Tu t'laisses aller",
+      "duration_ms": 220880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/32/43/1a3243e0-83dc-6d4e-e8f0-70c4f2283fa4/mzaf_13773790096087875335.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Comme des étrangers",
+      "duration_ms": 146360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/73/9f/e1739f16-2abc-e704-8fda-e0817a26832e/mzaf_6337556623829410491.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Ce jour tant attendu",
+      "duration_ms": 128880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/82/2e/a2822e99-021f-7fb4-1169-507658b25fe5/mzaf_6425627089324529209.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "Quand tu m'embrasses",
+      "duration_ms": 129840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/cf/99/15cf993a-e4b9-431e-4ada-a7578faf1a2c/mzaf_7080838728648490858.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "J'en déduis que je t'aime",
+      "duration_ms": 183227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/a1/23/0aa123f0-b0ff-405c-9fde-2148e7f9facb/mzaf_17193791469557178980.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "Quand tu viens chez moi... mon cœur",
+      "duration_ms": 168653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/da/2c/e5da2cb3-3e2e-9c74-42d0-1e11f96979c1/mzaf_16792316960375237717.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "Ma main a besoin de ta main",
+      "duration_ms": 186600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/3f/3c/f53f3ca9-b06d-073b-8197-d8100dce4247/mzaf_28759140687773656.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Si je n'avais plus",
+      "duration_ms": 168880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/ff/52/5aff529e-fb35-b3d9-56b3-87ca20444f8b/mzaf_17562884846378405984.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "Je veux te dire adieu",
+      "duration_ms": 140200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/bd/b6/edbdb6f2-0db5-5536-f33c-d1d57b628838/mzaf_9921376445472605155.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "J'ai bu",
+      "duration_ms": 127040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/a3/83/cea3830d-5f04-885f-ba96-47b833175481/mzaf_6049235415110070881.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Je ne peux pas rentrer chez moi",
+      "duration_ms": 141320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/39/7e/b7397e67-7c40-ca21-cbde-8ffaf5ff42e7/mzaf_13865520506074685936.plus.aac.p.m4a"
+    },
+    {
+      "n": 36,
+      "title": "Bal du faubourg",
+      "duration_ms": 128560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/fc/05/73fc05ac-2b83-8e2a-f08f-34f53d91d3b6/mzaf_9037370500047078909.plus.aac.p.m4a"
+    },
+    {
+      "n": 37,
+      "title": "Sur la table",
+      "duration_ms": 154560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/2c/35/e52c35a4-19c7-9805-6121-6473eeab65ef/mzaf_16210156788070295893.plus.aac.p.m4a"
+    },
+    {
+      "n": 38,
+      "title": "J'entends ta voix",
+      "duration_ms": 134280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/a5/54/34a554d7-423f-efbc-16a2-132a7eb32283/mzaf_10828363131791923038.plus.aac.p.m4a"
+    },
+    {
+      "n": 39,
+      "title": "Après l'amour",
+      "duration_ms": 164040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/13/ed/7f13ed6f-a99a-ef70-91e0-696b2235b188/mzaf_8104545964787657583.plus.aac.p.m4a"
+    },
+    {
+      "n": 40,
+      "title": "Sa jeunesse... (Entre ses mains)",
+      "duration_ms": 205200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/6b/d9/7b6bd9b3-424f-af3d-9549-db95f6a0db24/mzaf_1785805689604711279.plus.aac.p.m4a"
+    },
+    {
+      "n": 41,
+      "title": "Heureux avec des riens",
+      "duration_ms": 194173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/9c/d5/3a9cd590-d01b-5af3-6e3d-404997cf7138/mzaf_11785244669099493237.plus.aac.p.m4a"
+    },
+    {
+      "n": 42,
+      "title": "Le palais de nos chimères",
+      "duration_ms": 142067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/2c/24/2e2c2482-c70b-3be9-26de-0bed14240bd2/mzaf_7042257825078754470.plus.aac.p.m4a"
+    },
+    {
+      "n": 43,
+      "title": "Parce que",
+      "duration_ms": 142173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/2b/81/c02b8116-1bde-5057-ff14-882c37b509da/mzaf_14143894364269489479.plus.aac.p.m4a"
+    },
+    {
+      "n": 44,
+      "title": "Viens (Pleurer) au creux de mon épaule",
+      "duration_ms": 193653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/be/84/63be8484-c160-de03-b7bd-1dfc77b9f545/mzaf_14918590039887858830.plus.aac.p.m4a"
+    },
+    {
+      "n": 45,
+      "title": "Je t'aime comme ça",
+      "duration_ms": 169053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/71/8e/83718e22-fad6-33cb-b02d-e0a49f74a6ab/mzaf_1003646620293640534.plus.aac.p.m4a"
+    },
+    {
+      "n": 46,
+      "title": "Ah !",
+      "duration_ms": 169293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/3c/81/1a3c81f4-e043-6cc3-6de8-89723410e80c/mzaf_4555718002276619240.plus.aac.p.m4a"
+    },
+    {
+      "n": 47,
+      "title": "À t'regarder",
+      "duration_ms": 162613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/ad/1a/73ad1a57-ae45-b820-1252-69422060ba53/mzaf_7506296907961891693.plus.aac.p.m4a"
+    },
+    {
+      "n": 48,
+      "title": "Plus bleu (Que tes yeux)",
+      "duration_ms": 182480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/fe/ba/f3feba60-eb9c-4e35-0a2e-afdc27b74682/mzaf_15263795934404763820.plus.aac.p.m4a"
+    }
+  ]
+}
