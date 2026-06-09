@@ -1,0 +1,83 @@
+{
+  "id": "1682269090",
+  "artist": "Jim Legxacy",
+  "album": "homeless nigga pop music",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/homeless-nigga-pop-music/1682269090",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/91/58/f4915800-0285-08c7-6c0a-15b7ac6628a7/5063268346872_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "dj",
+      "duration_ms": 135915,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/be/fe/0f/befe0f3a-5aee-7efd-de03-80bf7bf4e771/mzaf_5067251010818636594.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "candy reign (!)",
+      "duration_ms": 138000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/db/7b/48/db7b4803-fd86-bf02-4f74-17b986aa23a7/mzaf_5860392848034547764.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "amnesia111",
+      "duration_ms": 155643,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5c/4c/73/5c4c7355-61f4-4e9f-5833-6d5449e835e5/mzaf_4426626102178916184.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "mileys riddim",
+      "duration_ms": 119715,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bf/21/61/bf2161f1-589a-54ba-df14-6d385a9a89b4/mzaf_14217312757813741432.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "eye tell (!)",
+      "duration_ms": 130693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/93/e7/3f/93e73f1d-f11f-b494-2a59-aa0b58c915d4/mzaf_2262288162434851969.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "old place",
+      "duration_ms": 98340,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/06/7c/bd/067cbd3e-0a0c-470d-f530-ddb019ee8381/mzaf_10093432194399560098.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "block hug",
+      "duration_ms": 172607,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a1/4e/45/a14e453f-8dd4-e70d-0587-beea1d173f40/mzaf_928348265671719078.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "ur marges crib",
+      "duration_ms": 114311,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/a1/04/b5a104bc-fb8d-8929-6b9b-93ee8e173e84/mzaf_10634675338794562666.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "fake smiles",
+      "duration_ms": 157356,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/86/3a/24863a48-1877-5089-6984-7ae1521d9ee8/mzaf_16747191304306530288.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "call ur dad",
+      "duration_ms": 82095,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/13/8c/02/138c025d-f970-9e24-7b7b-482b380720af/mzaf_4508241905813053185.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "homeless nigga pop music",
+      "duration_ms": 89855,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cd/08/cc/cd08cc51-c47b-1aff-0bff-105399ac6051/mzaf_17580054899801042293.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "hit it light it twist it",
+      "duration_ms": 114947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5d/5b/34/5d5b3445-c145-4825-69fd-cab0ce73db2c/mzaf_7726009820301255525.plus.aac.p.m4a"
+    }
+  ]
+}

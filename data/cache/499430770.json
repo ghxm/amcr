@@ -1,0 +1,47 @@
+{
+  "id": "499430770",
+  "artist": "Mirrorring",
+  "album": "Foreign Body",
+  "year": 2012,
+  "apple_music_url": "https://music.apple.com/de/album/foreign-body/499430770",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/d8/3b/26d83b3e-a67f-4716-94d5-a4dc0d3c5c97/mzi.oqfqembe.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "0e0e0e",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Fell Sound",
+      "duration_ms": 381680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/09/58/e90958d9-9708-da50-a833-246245080a4b/mzaf_7771628403336497143.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Silent from Above",
+      "duration_ms": 298827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/85/e5/4c85e5ad-0a30-a738-83c4-73959c7649fc/mzaf_15432880922534549542.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Cliffs",
+      "duration_ms": 582000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/95/09/04950951-fb41-c166-a407-7f6d625ece44/mzaf_1014401788010962856.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Drowning the Call",
+      "duration_ms": 413520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/3e/b9/593eb98e-067b-882d-29b2-ef38f6da23ba/mzaf_8664177386432640444.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Mine",
+      "duration_ms": 538240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/83/93/f383931c-9eb5-8ef2-4fbe-f765215a5b48/mzaf_1762053433935453886.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Mirror of Our Sleeping",
+      "duration_ms": 275973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/47/31/8647310e-3c54-dc89-4c85-4315a8c6faa3/mzaf_14803268350833070234.plus.aac.p.m4a"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "469372981",
+  "artist": "Epy",
+  "album": "Hy On Bonky - EP",
+  "year": 2011,
+  "apple_music_url": "https://music.apple.com/de/album/hy-on-bonky-ep/469372981",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/b2/25/73/b2257312-31cd-928b-4755-41528cdd057b/8717578637539.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "0 Textvertices",
+      "duration_ms": 187347,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/e8/d0/d2/e8d0d2c2-faea-59f0-f64c-a76518bfe051/mzaf_8077580264001333199.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Hannah",
+      "duration_ms": 250333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/3c/8b/d9/3c8bd989-ea27-167a-f1b3-e1cef1ad964a/mzaf_7500796127452750561.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Bonky",
+      "duration_ms": 337250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/ef/4d/ba/ef4dba3a-d175-f26d-0e78-3d830d73e678/mzaf_1483145355171144311.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Learn Ten",
+      "duration_ms": 288882,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/16/ab/54/16ab54c3-f5db-066e-7bcd-41bc2ddad569/mzaf_2514879073556239162.plus.aac.p.m4a"
+    }
+  ]
+}
