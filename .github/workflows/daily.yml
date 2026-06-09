@@ -56,18 +56,36 @@ jobs:
       - name: Pick today's album
         env:
           BACKFILL: ${{ inputs.backfill }}
+        # Up to 3 attempts. Apple Music API occasionally returns transient
+        # 403/5xx even with a valid user token (see 2026-06-09 run).
+        # Exit 78 = "nothing to pick" -> treat as success, no retry.
         run: |
           set +e
-          if [ "$BACKFILL" = "true" ]; then
-            python -m src.sample --backfill
-          else
-            python -m src.sample
-          fi
-          code=$?
-          if [ "$code" -eq 78 ]; then
-            echo "Nothing to pick (already done), continuing to rebuild."
-            exit 0
-          fi
+          attempts=3
+          sleeps="30 60"
+          code=1
+          for i in $(seq 1 $attempts); do
+            echo "::group::pick attempt $i/$attempts"
+            if [ "$BACKFILL" = "true" ]; then
+              python -m src.sample --backfill
+            else
+              python -m src.sample
+            fi
+            code=$?
+            echo "::endgroup::"
+            if [ "$code" -eq 0 ]; then
+              break
+            fi
+            if [ "$code" -eq 78 ]; then
+              echo "Nothing to pick (already done), continuing to rebuild."
+              exit 0
+            fi
+            if [ "$i" -lt "$attempts" ]; then
+              s=$(echo "$sleeps" | cut -d' ' -f"$i")
+              echo "attempt $i failed with exit $code, sleeping ${s}s before retry"
+              sleep "$s"
+            fi
+          done
           exit "$code"
 
       - name: Commit ledger and cache
