@@ -1,0 +1,89 @@
+{
+  "id": "1823118617",
+  "artist": "Ras G",
+  "album": "Down 2 Earth Vol. 4",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/down-2-earth-vol-4/1823118617",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/3e/73103e3d-2f8e-7499-4b05-eae273d5c9e6/659123113410.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "060606",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "INTRO",
+      "duration_ms": 56312,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/a4/c5/18a4c55e-a131-ff6a-0ce6-debfdfa75871/mzaf_15878907237438419000.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "MUDCLOTH LO RUGBY",
+      "duration_ms": 205125,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/37/f9/0d37f93d-e730-99b6-a90a-b8cb4f67db44/mzaf_16494912246424934086.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "WAVES",
+      "duration_ms": 92825,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/09/5b/67095b76-ac96-ba61-9fa8-60b0b05f64e5/mzaf_8252521320371808676.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "HIGHER 3...",
+      "duration_ms": 175542,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/ef/65/f9ef65ec-29df-5360-e71b-15f774bec885/mzaf_1953861011728853758.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "DEACON SLAP",
+      "duration_ms": 219000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/d1/25/f9d1252e-a192-3865-13b3-f856d7643ac9/mzaf_3428100619496687320.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "LO ADDICTZ",
+      "duration_ms": 74250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/8e/64/aa8e6491-55e6-6daf-4a0d-dc0500bc834d/mzaf_2532731024953554159.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "THE GRAIL",
+      "duration_ms": 106100,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/83/b9/f083b958-5751-fc44-d0e8-7dc82aed288c/mzaf_13524339631739010666.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "ADULTING",
+      "duration_ms": 179333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/4f/d2/504fd239-cfb4-75c7-2924-428de00a9fdd/mzaf_8110875509322912177.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "WE FLY.. TOGETHER",
+      "duration_ms": 170833,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/79/c7/0479c7d7-2f51-116b-6929-7a2b3f9f3f5a/mzaf_4704260401550614169.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "STROLLING DOWN DEGNAN",
+      "duration_ms": 186450,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/e3/ed/1ce3ed0f-3d42-9826-b8ff-b6ab24d63062/mzaf_17868840022926141359.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "JUJU PT. 2",
+      "duration_ms": 170658,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/65/7a/a0657ae9-eb17-1132-d7af-34f7dcbd8de7/mzaf_4641418027758280633.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "MOVES...",
+      "duration_ms": 134125,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/3b/a1/733ba1df-d581-b187-c715-5e80578068a7/mzaf_2299117921944545801.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "IT'S A LIFESTYLE",
+      "duration_ms": 67063,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/33/da/e133da27-e851-d339-5108-eadfba7d85ab/mzaf_433111416808761472.plus.aac.p.m4a"
+    }
+  ]
+}
