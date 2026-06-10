@@ -1,0 +1,59 @@
+{
+  "id": "281240657",
+  "artist": "Gwen McCrae",
+  "album": "On My Way (Remastered)",
+  "year": 1982,
+  "apple_music_url": "https://music.apple.com/de/album/on-my-way-remastered/281240657",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/85/8c/fa858c31-6a29-54be-367c-e74243859156/mzi.vhtbtsvl.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b9beb7",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Hang In",
+      "duration_ms": 266587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/a0/72/6fa072e7-1eff-cbbf-b259-a47f8018f70c/mzaf_17542251293251458618.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Make Believe",
+      "duration_ms": 307240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/21/0b/77210b54-f67d-1d39-68d7-6ce39d83d12e/mzaf_15044671146881341875.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Keep the Fire Burning",
+      "duration_ms": 344547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/02/4e/6b/024e6b29-90ac-d3d7-5de6-e085ef1b38d2/mzaf_517136799653207657.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "I Need to Be With You",
+      "duration_ms": 237933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/74/88/f1748884-3233-ba73-9334-b14dd775c2fe/mzaf_4768375424909881279.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Be for Real",
+      "duration_ms": 278493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/98/35/be983588-8e44-2b50-1372-2495a88a37a8/mzaf_10650057838376691148.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Hey World",
+      "duration_ms": 271267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2d/a7/ab/2da7ab55-7aab-fb6b-7576-7e42220f8994/mzaf_14881799195548992211.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "I Didn't Take Your Man",
+      "duration_ms": 292307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/0a/c8/790ac8df-1c7f-9412-1a46-4ed27498726a/mzaf_2479377352205102247.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Doin' It",
+      "duration_ms": 291480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/d0/6a/2dd06af1-5a07-be14-508d-8825fb06a86f/mzaf_14859275659926650857.plus.aac.p.m4a"
+    }
+  ]
+}
