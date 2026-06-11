@@ -1,0 +1,89 @@
+{
+  "id": "1603185428",
+  "artist": "Bruce Haack",
+  "album": "The Electric Lucifer",
+  "year": 1970,
+  "apple_music_url": "https://music.apple.com/de/album/the-electric-lucifer/1603185428",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/d1/87/7ed187f2-dcb3-d954-9c95-81c994e89755/191018062002.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2888c8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Electric to Me Turn",
+      "duration_ms": 110747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2e/d0/68/2ed06830-3ab9-d5c9-3d51-3832590530bd/mzaf_776919233141098884.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "The Word",
+      "duration_ms": 32720,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f4/e5/32/f4e53211-350d-9caf-6622-4311aaeadc80/mzaf_6444371203514611359.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Cherubic Hymn",
+      "duration_ms": 139640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fa/58/87/fa58877e-98a3-48c0-3b49-1581f050e572/mzaf_17396832336074501358.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Program Me",
+      "duration_ms": 279213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/68/93/836893b1-f74a-0f73-7ecd-395d738da1d8/mzaf_17772022628248060300.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "War",
+      "duration_ms": 225160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/12/2b/6a/122b6a7b-6f0c-b91a-796f-476ad1b0c1b8/mzaf_8802029213002466959.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "National Anthem to the Moon",
+      "duration_ms": 160253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fa/b5/48/fab54816-081d-516a-aed9-073f57e457fa/mzaf_4759787704383235539.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Chant of the Unborn",
+      "duration_ms": 84787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/fe/c0/9afec009-3632-c2a0-c2e2-55843dd66fe7/mzaf_3150562239065009113.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Incantation",
+      "duration_ms": 197240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/40/41/36/40413603-7884-98e2-62d6-306d3aead949/mzaf_16737903875274992700.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Angel Child",
+      "duration_ms": 64147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cc/89/7b/cc897b2d-7955-22f9-efb2-fe4a0fcfb6fd/mzaf_11193581117670227287.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Word Game",
+      "duration_ms": 230387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/20/96/0e/20960e2b-ad78-e420-b25f-fca4c315e406/mzaf_4730809767946582853.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Song of the Death Machine",
+      "duration_ms": 183120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ff/2d/d3/ff2dd366-b18d-6367-be10-b0c3363f376c/mzaf_10385284497052468410.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Super Nova",
+      "duration_ms": 323747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cd/23/61/cd236173-f025-3b5f-432a-1bd89073fe58/mzaf_3211749412481234661.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Requiem",
+      "duration_ms": 202693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/53/03/b7/5303b7b1-1934-cd9a-e207-fc6028affe3f/mzaf_12019874666497648765.plus.aac.p.m4a"
+    }
+  ]
+}
