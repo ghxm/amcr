@@ -1,0 +1,83 @@
+{
+  "id": "1440764608",
+  "artist": "Erykah Badu",
+  "album": "New Amerykah, Pt. 2: Return of the Ankh",
+  "year": 2010,
+  "apple_music_url": "https://music.apple.com/de/album/new-amerykah-pt-2-return-of-the-ankh/1440764608",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/64/27/c7642714-7f61-74c4-3109-246bd790befe/10UMGIM06657.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "3f279c",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "20 Feet Tall",
+      "duration_ms": 204600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/b0/a5/b1b0a52a-8ac1-14ec-cdb0-3bc9f4c7af89/mzaf_2949014418153317658.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Window Seat",
+      "duration_ms": 289733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/e0/09/dfe009ff-d22f-26a1-f315-e89bd6306849/mzaf_7704129947885086031.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Agitation",
+      "duration_ms": 93573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/51/5e/93515e19-0e55-a009-a5ae-0e129ed6af71/mzaf_8563398768611269933.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Turn Me Away (Get Munny)",
+      "duration_ms": 325960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/70/d7/5170d794-bd11-908e-f113-cf1af38e33d0/mzaf_2624349063886656561.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Gone Baby, Don't Be Long",
+      "duration_ms": 279747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/7c/03/c77c03c8-210a-8959-f2ff-7e8b3ab9972f/mzaf_1341283949871330727.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Umm Hmm",
+      "duration_ms": 225947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/de/06/6cde069c-a422-c0d4-034b-5b4ac8627796/mzaf_14304383211432909002.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Love",
+      "duration_ms": 362133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/7b/9c/657b9cc0-4e05-ba50-8472-2a56cdb7ee27/mzaf_16611430378251845863.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "You Loving Me (Session)",
+      "duration_ms": 64787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/fd/67/11fd67c2-c7c8-e0aa-9df9-c8690a51446d/mzaf_11927355768502121948.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Fall In Love (Your Funeral)",
+      "duration_ms": 366760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/cf/76/4ccf76ca-2a46-a5cf-14c7-23b29ce70df6/mzaf_14068284987083148438.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Incense (feat. Kirsten Agresta)",
+      "duration_ms": 208013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/81/b4/b281b42b-a411-201a-514f-a163a00df57f/mzaf_12741332909948836409.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Out My Mind, Just In Time",
+      "duration_ms": 621613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/33/fe/e133fe54-c564-a07b-c03e-dbb79c8ced3e/mzaf_16966071361497579864.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Jump Up In the Air and Stay There (feat. Lil Wayne & Bilal)",
+      "duration_ms": 266013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/33/38/e73338b4-9174-b4d2-0f29-ec5a27c54c75/mzaf_17992855727636234980.plus.aac.p.m4a"
+    }
+  ]
+}
