@@ -1,0 +1,269 @@
+{
+  "id": "571015708",
+  "artist": "Vraious Artists",
+  "album": "Santa's Hip Christmas Trip",
+  "year": 2012,
+  "apple_music_url": "https://music.apple.com/de/album/santas-hip-christmas-trip/571015708",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e1/a1/36/e1a13677-aefc-1d5f-9856-95c8047a5587/Santa_s_Hip_Christmas_Trip.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "d9d2c1",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Cool Yule",
+      "duration_ms": 177200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/3b/dd/3b/3bdd3b96-a727-0f2b-7e41-92356ce93c89/mzaf_458060272258466141.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Santa Claus Got Stuck Up My Chimney",
+      "duration_ms": 190547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1f/e8/f8/1fe8f859-ffc9-5208-4f8b-e6624911296a/mzaf_8984479030053364394.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Santa Baby",
+      "duration_ms": 207307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/f1/e3/ad/f1e3ad34-9549-d96e-9ec4-db7933be1bb8/mzaf_2671127816284898120.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "duration_ms": 120867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/50/a3/8850a3e5-a339-4dac-8d0b-815dd8309439/mzaf_12202717394166661199.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Shake Hands With Santa Claus",
+      "duration_ms": 149493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/77/74/6e/77746e08-65ab-f74a-53b2-563076b91ad2/mzaf_8990789775971860162.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Boogie Woogie Santa Claus",
+      "duration_ms": 142107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/e4/61/82/e4618220-5dcf-fa4b-0067-501df4f7d73d/mzaf_6498902290179431042.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Merry Christmas Baby",
+      "duration_ms": 165493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/e2/8e/be/e28ebe1f-d58e-9b86-d5a6-e83be8e96b79/mzaf_3237192937415075489.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Christmas Boogie",
+      "duration_ms": 123840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/10/18/e2/1018e2e2-ee23-1630-b1ff-98a07513b401/mzaf_462405166809047171.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Rudolph the Red Nosed Reindeer",
+      "duration_ms": 143240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/a7/3b/74/a73b749d-a55f-efca-bd01-a13f07acb0f4/mzaf_1192675886251531321.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Petit Papa Noel",
+      "duration_ms": 191013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/df/7d/02/df7d0266-cb6c-1266-28ff-7052e07311cc/mzaf_809640079543548350.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Christmas Night in Harlem",
+      "duration_ms": 206387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/cf/b4/ef/cfb4efbb-4241-e35e-7155-fd97dde8b77b/mzaf_8703245379464499223.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Dance, Mr. Snowman, Dance",
+      "duration_ms": 131507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/81/c6/6e/81c66e7e-6ed9-24b2-fdd6-23d9b9067172/mzaf_421179392482398521.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Hello Mr. Kringle",
+      "duration_ms": 183480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/d3/bc/39/d3bc393d-0c60-19ef-0ff9-60478aaaae28/mzaf_813728916274519229.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Santa Claus, Santa Claus",
+      "duration_ms": 202000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/9d/f2/5a/9df25afc-1408-15e8-d4d1-207e0fcf893d/mzaf_4717557551094098852.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Have Yourself a Merry Little Christmas",
+      "duration_ms": 166733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/85/06/51/850651b7-3d1c-e42e-a841-213eb50c7769/mzaf_431731303695041899.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Jingle Bell Rock",
+      "duration_ms": 131667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/51/0a/74/510a7436-dfa5-0c55-0cad-16f5d6dbbe73/mzaf_6891815858652663542.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Christmas Swing",
+      "duration_ms": 171600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/25/01/68/2501681e-b4ea-a49d-f6e0-c516a714c7ee/mzaf_4787582673660098278.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "I Saw Mommy Kissing Santa Claus",
+      "duration_ms": 152600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/c9/45/22/c945223a-bd78-8011-ef7c-65cc7e9a95fe/mzaf_1648339251120952019.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "(It's Gonna Be a) Lonely Christmas",
+      "duration_ms": 203733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/e0/0c/45/e00c4504-fff0-b90d-a6c7-375f250855f3/mzaf_4213618349964307945.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "This Time of the Year",
+      "duration_ms": 151093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/6a/fe/fe/6afefe0e-0d59-89ec-be18-8a8f38ddd84f/mzaf_3171355456270305033.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "¿Dònde Està Santa Claus? (Where Is Santa Claus)",
+      "duration_ms": 148680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/e0/5c/ee/e05cee13-1cdd-8abf-a305-aec9f0ceac40/mzaf_5020848688452016368.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Zat You Santa Claus",
+      "duration_ms": 171920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/35/27/e6/3527e629-a7f1-35b5-c061-d2f7364c77be/mzaf_7060549676266129362.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "duration_ms": 189413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/8b/63/1c/8b631ca0-2f4c-109d-e8f8-e787124d8a36/mzaf_6449145943399040717.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Let's Make Every Day Christmas",
+      "duration_ms": 150373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/21/f8/9a/21f89a43-1dbf-26ee-052d-6ae7dd4a74e2/mzaf_709950179187708746.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Rockin' Santa Claus",
+      "duration_ms": 127520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/2c/52/49/2c52496a-0de9-cf94-525c-07a27bf1339f/mzaf_5280904255360572510.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Twistin' Bells",
+      "duration_ms": 143227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/11/41/a6/1141a611-090c-e746-b2c7-86bdf2fc52e5/mzaf_3089224725427717645.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "The Reindeer Boogie",
+      "duration_ms": 143333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/70/7c/ba/707cba40-7dc2-806b-378b-8c866dac85e2/mzaf_5796789386173722704.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "Merry Christmas To All",
+      "duration_ms": 143720,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/6f/ba/a7/6fbaa78c-d93e-c008-4a54-785a499b5be7/mzaf_5943267864749488308.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "Hey Santa Claus",
+      "duration_ms": 143960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/ab/a9/e3/aba9e39a-4ba9-8e15-b6bf-6abf50190e75/mzaf_2886007061743583671.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "The Christmas Song (Chestnuts Roasting On an Open Fire)",
+      "duration_ms": 194493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/cd/d2/5e/cdd25e65-1925-dd4e-cbb6-3a3c27add099/mzaf_933044896554055549.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "Jingle Bells Boogie",
+      "duration_ms": 174240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/2f/6e/52/2f6e520d-e364-8d79-e9de-293f0d87ac4c/mzaf_1208526755929541096.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Santa Claus Is Coming to Town",
+      "duration_ms": 110733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/0b/75/30/0b753020-98e6-f60c-228b-b240c278835e/mzaf_2707590933607774812.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "Rootin' Tootin' Santa Claus",
+      "duration_ms": 134600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/97/16/88/97168866-2aa6-0448-4060-5216841c7b8e/mzaf_2913487215331697363.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "Blue Christmas",
+      "duration_ms": 177493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/d3/80/cd/d380cd1f-44d2-a584-65cc-6914b96c8b1d/mzaf_1281283089861370783.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Sleigh Ride",
+      "duration_ms": 183813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/bd/9d/6c/bd9d6c77-89e8-3827-b521-727154240655/mzaf_973329311508422944.plus.aac.p.m4a"
+    },
+    {
+      "n": 36,
+      "title": "Winter Wonderland",
+      "duration_ms": 179587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/bf/af/a1/bfafa11b-3c41-e364-96d7-d9a781bea8d5/mzaf_1976677755586866609.plus.aac.p.m4a"
+    },
+    {
+      "n": 37,
+      "title": "Santa Claus Party",
+      "duration_ms": 131240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/33/78/fb/3378fb76-4890-172e-dd23-818f1a214e1e/mzaf_5981362191000951128.plus.aac.p.m4a"
+    },
+    {
+      "n": 38,
+      "title": "Winter Weather",
+      "duration_ms": 183680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/24/21/5f/24215f65-d52c-3b65-92db-d6c1d7597203/mzaf_8112478844710393308.plus.aac.p.m4a"
+    },
+    {
+      "n": 39,
+      "title": "Santa Claus Looks Just Like Daddy",
+      "duration_ms": 156507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/16/6f/89/166f896f-2883-290e-b9ce-30c2f3e47504/mzaf_5362749199460005850.plus.aac.p.m4a"
+    },
+    {
+      "n": 40,
+      "title": "The Holly and the Ivy",
+      "duration_ms": 193253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/01/ae/03/01ae031b-e15c-e59b-ed35-873b2ba28d74/mzaf_1890531541575902665.plus.aac.p.m4a"
+    },
+    {
+      "n": 41,
+      "title": "Toy Soldier",
+      "duration_ms": 131067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/75/10/37/751037a0-e800-85b6-0807-44609ae61531/mzaf_4992852851279826478.plus.aac.p.m4a"
+    },
+    {
+      "n": 42,
+      "title": "Let's Make Christmas Merry, Baby",
+      "duration_ms": 178093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/23/3c/c4/233cc4ac-b208-bb55-e8e2-6ebc6b8c1a40/mzaf_699362970042049145.plus.aac.p.m4a"
+    },
+    {
+      "n": 43,
+      "title": "Ole! Santa",
+      "duration_ms": 162587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/9d/45/f69d4526-b7c7-2d32-8d0f-a650171de2fb/mzaf_3847560537739336155.plus.aac.p.m4a"
+    }
+  ]
+}
