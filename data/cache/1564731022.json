@@ -1,0 +1,77 @@
+{
+  "id": "1564731022",
+  "artist": "Vijay Iyer, Linda May Han Oh & Tyshawn Sorey",
+  "album": "Uneasy",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/uneasy/1564731022",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/96/b4/8696b46a-575f-b952-cd24-fefecb816322/20UMGIM76825.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "464b4a",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Children Of Flint",
+      "duration_ms": 386259,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/cf/3b/d3cf3be7-8fe4-b2b1-bb11-91cf34239081/mzaf_17154291086515187747.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Combat Breathing",
+      "duration_ms": 470924,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/7e/6c/6e7e6c6e-c48d-42f7-2925-e3f0a2a2f021/mzaf_495150759952899985.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Night And Day",
+      "duration_ms": 573723,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f1/fa/91/f1fa9166-4294-442e-6aac-be808c30e6aa/mzaf_13581731460367698742.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Touba",
+      "duration_ms": 437654,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a5/6c/12/a56c12a4-8778-6a0f-8b3d-0a76cc29c116/mzaf_15942255525792826144.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Drummer’s Song",
+      "duration_ms": 407693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/c4/f1/6cc4f180-eb84-f974-6dcd-2c0d7844f44c/mzaf_11686934844080204971.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Augury",
+      "duration_ms": 209437,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/63/df/3063df56-abee-b7bc-c3ed-bbb8fb767f35/mzaf_15505673602270432548.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Configurations",
+      "duration_ms": 567805,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/04/08/bc040883-6718-cd9c-9c7a-9ecc3ba40ae3/mzaf_11593329263368092392.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Uneasy",
+      "duration_ms": 551549,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/b1/e6/abb1e685-36fe-1308-4d9e-5384f45473bc/mzaf_8050341166987452901.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Retrofit",
+      "duration_ms": 400053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/b7/92/1fb79277-09fa-dd96-04b6-3c369ab56909/mzaf_7000681038583661546.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Entrustment",
+      "duration_ms": 306165,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/76/c7/6f76c778-0097-7d5a-7dcf-fd234158ab5f/mzaf_5780419143760581162.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "On \"Combat Breathing\"",
+      "duration_ms": 189075,
+      "preview_url": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/df/b4/46/dfb446be-2dd5-1a7c-2667-6f79c12da683/mzvf_7226027966799102045.720w.h264lc.U.p.m4v"
+    }
+  ]
+}
