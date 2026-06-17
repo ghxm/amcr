@@ -1,0 +1,71 @@
+{
+  "id": "1770962089",
+  "artist": "Spliff",
+  "album": "Herzlichen Glückwunsch!",
+  "year": 1982,
+  "apple_music_url": "https://music.apple.com/de/album/herzlichen-gl%C3%BCckwunsch/1770962089",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/ff/be/1bffbe3f-5862-46fd-6067-b55faf21d84d/196872480993.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "000000",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Herzlichen Glückwunsch",
+      "duration_ms": 277302,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/2e/58/c82e586a-15d9-10b5-c86b-9b5bab1002b5/mzaf_15607389863546128322.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Augen zu!",
+      "duration_ms": 208150,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/df/cb/30dfcb3a-e57c-7158-d484-a8ce59709ad6/mzaf_8369319211832365958.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Tag Für Tag",
+      "duration_ms": 228957,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/6d/ed/246ded7b-718d-4e6b-89f1-916e6d14f082/mzaf_9851980264886095975.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Das Blech",
+      "duration_ms": 281646,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/c9/b5/e7c9b56f-8e96-5469-db48-3d6461ff1e7f/mzaf_12390052985612466419.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Wohin? Wohin?",
+      "duration_ms": 246828,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/7f/11/7f7f115c-5243-abb3-a309-6e47968643c6/mzaf_4675204302758423961.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Es Ist Soweit",
+      "duration_ms": 262609,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/9b/d2/b89bd257-a16b-ef26-7681-f8ba75ea9280/mzaf_10646528766220559216.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Herr Kennedy",
+      "duration_ms": 180425,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/fd/45/93fd45c1-d79e-aba0-891c-fade15bf8fad/mzaf_4194600207779677866.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Die Maurer",
+      "duration_ms": 249711,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/41/1e/5a411e22-be9b-ddaf-a7c5-fb24da87da7e/mzaf_8168017061775414417.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "S.O.S.",
+      "duration_ms": 226203,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/7a/f4/8d7af487-5266-65f7-68b1-23e9abaeceb1/mzaf_1302786787096305829.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Glaspalast",
+      "duration_ms": 350096,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/2c/a7/962ca7b6-618a-8a28-9770-48ad8fe7088c/mzaf_18215300097809496404.plus.aac.p.m4a"
+    }
+  ]
+}
