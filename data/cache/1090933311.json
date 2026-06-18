@@ -1,0 +1,41 @@
+{
+  "id": "1090933311",
+  "artist": "Nadia Lena Blue",
+  "album": "La me¦ütamorphose d'Echo",
+  "year": 2016,
+  "apple_music_url": "https://music.apple.com/de/album/la-me-%C3%BCtamorphose-decho/1090933311",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/c7/19/83/c719838e-4325-0284-7c02-e9dac7d31bdc/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "c2cfdd",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Echo et Narcisse",
+      "duration_ms": 544000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/82/37/84/8237842e-70dd-660c-8397-1e9584355a09/mzaf_5572447684424367164.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "La métamorphose d'Echo",
+      "duration_ms": 526000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/48/68/7f/48687f4e-b15a-e6f0-33fa-4dd0d219ed03/mzaf_7180525190998760835.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "La vengeance de Ne¦üme¦üsis",
+      "duration_ms": 361000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/dd/88/1e/dd881e63-662b-eec0-728e-476862cb62b3/mzaf_9060823543854275124.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Le de¦üsespoir d'Echo",
+      "duration_ms": 416000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/74/59/1f/74591f7b-1a5b-f5e9-f5f2-859482781d09/mzaf_399468447438689910.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "L'image de Narcisse",
+      "duration_ms": 336000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/5c/cb/e1/5ccbe1b9-2993-f1b9-f291-f1b2cfbb35f5/mzaf_1346385130831259373.plus.aac.p.m4a"
+    }
+  ]
+}
