@@ -1,0 +1,83 @@
+{
+  "id": "996203910",
+  "artist": "Georgia",
+  "album": "Georgia",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/georgia/996203910",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/1d/cd/e2/1dcde2cc-7972-1fab-b859-70d4f382190c/dj.kkqgohls.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Intro",
+      "duration_ms": 55442,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/32/05/49320555-b16a-d5f3-842d-d14fbe02fcf0/mzaf_13837849980264675145.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Kombine",
+      "duration_ms": 217879,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/3f/3a/b23f3a6e-359a-4aab-56b5-2cc348f75750/mzaf_8222346337662374633.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Be Ache",
+      "duration_ms": 251254,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/25/64/0f2564e3-866e-6053-4f6c-2332b50fc908/mzaf_8712612491433832340.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Nothing Solutions",
+      "duration_ms": 203317,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/dd/31/afdd31be-fb69-a18b-f1b2-b883946b3768/mzaf_3247589817484279932.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Hold It",
+      "duration_ms": 224274,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e3/9b/fa/e39bfafd-6619-043e-acce-d957746aaa88/mzaf_12397082746597664047.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Digits",
+      "duration_ms": 266439,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/30/4c/35/304c35be-d396-5510-c917-27c0b6154f6e/mzaf_13029494711923902659.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Cab Ride",
+      "duration_ms": 14719,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/f6/6b/64/f66b64d5-1df4-90ae-7276-a19c25cf5a66/mzaf_8639352088587975278.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Tell Me About It",
+      "duration_ms": 242445,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/12/bb/8f12bbac-25ea-8154-edc0-7e663ff2320e/mzaf_15947447170591372719.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Move Systems",
+      "duration_ms": 211859,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/34/24/ed/3424ed3a-c812-374d-baae-6e41de7f224d/mzaf_6978497063951513714.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Heart Wrecking Animals",
+      "duration_ms": 216784,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/33/b4/a633b4a2-d68e-234c-db8b-6ff62da1f4da/mzaf_5956841881410109636.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "GMTL",
+      "duration_ms": 176055,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/90/24/e9902402-0566-aeaf-32f5-e675529ca653/mzaf_6893755262447833804.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "You",
+      "duration_ms": 219826,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/e4/8f/91e48f0c-528c-3750-bcc5-2b8043f6e777/mzaf_2448222002986471573.plus.aac.p.m4a"
+    }
+  ]
+}
