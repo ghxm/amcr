@@ -1,0 +1,125 @@
+{
+  "id": "1299052204",
+  "artist": "Pierre Akendengue",
+  "album": "Nandipo (Africa obota)",
+  "year": 1991,
+  "apple_music_url": "https://music.apple.com/de/album/nandipo-africa-obota/1299052204",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/90/29/859029a8-27a7-72c2-541d-5fa5dfb6ed8d/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2c3232",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Afrika",
+      "duration_ms": 306880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/2f/98/852f9852-1c2a-8483-1400-4f7fe887a6a4/mzaf_18069253197257220644.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Negro",
+      "duration_ms": 220653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/00/08/e5000844-42bd-76db-6d09-272ea80e2f54/mzaf_11073844136999432438.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Evo",
+      "duration_ms": 183707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f2/c0/e4/f2c0e4f5-a6ab-ee2d-04b8-50838e6210f6/mzaf_7961295581803347049.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Considerable",
+      "duration_ms": 340747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/dd/eb/aeddeb38-5185-70c5-da65-5eb3bc23237c/mzaf_2335603714844784808.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Orema ka ka ka",
+      "duration_ms": 243987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/c0/90/02c090a8-1a95-3fb5-b06c-b0a7c16d2c3d/mzaf_2568675212677846439.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Orei II",
+      "duration_ms": 342573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/08/83/5f/08835fba-5fc3-702a-8769-4de1ec50746d/mzaf_6732625780417842069.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Sa gunu, sa gunu",
+      "duration_ms": 246920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/39/75/84/3975849b-abf6-3b37-4f3e-6d8926aa1d0f/mzaf_4299696045589439470.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Mon pays entre soleil et pluie",
+      "duration_ms": 189813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/21/66/0a2166e5-c3ca-57bd-3102-d48f8e64ee56/mzaf_16877517851834093112.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Olatano, w'intye so du st africa",
+      "duration_ms": 233307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/38/cf/d7/38cfd7e3-7a97-7a68-24c6-730917075a11/mzaf_790264926025364176.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Oma ayiya",
+      "duration_ms": 237813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c2/e5/a4/c2e5a4c3-b272-6fef-c08a-942c8e31f025/mzaf_2438251062379549728.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Chant du coupeur d'okoumé",
+      "duration_ms": 212453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/f9/da/59f9da4d-b80f-d9ee-a2d8-856104dbf73c/mzaf_4801559101079101369.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Pœ",
+      "duration_ms": 190013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/d8/5a/73d85a22-005b-138f-9771-a1e3e4ce2cfb/mzaf_9046530218461508794.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Sesi",
+      "duration_ms": 194480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/2f/e8/ee2fe802-b958-5b14-ded8-ddff5f242ce9/mzaf_15069019824535931352.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Ogowe",
+      "duration_ms": 179547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/d2/c5/31d2c562-8b5d-b672-da7b-bad6c4598582/mzaf_17140165031061055740.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Le trottoir d'en face",
+      "duration_ms": 212880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5f/4a/27/5f4a27e3-f9c3-a906-ad7e-0ea3bfbeb626/mzaf_11169329765318716931.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Ompung'ilendo",
+      "duration_ms": 185440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/cb/6c/03cb6c35-e18c-0aa3-26ae-1ba50042a3c0/mzaf_7638029643694808758.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Onaga are mie bia",
+      "duration_ms": 282547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/37/37/b8373709-2335-5642-8fcc-af3a7723eb7c/mzaf_11573277704676849202.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Un conte du roi orei",
+      "duration_ms": 188413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/3b/cf/f83bcf1b-d484-179b-81a5-776df4c54824/mzaf_16615648693259898801.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Nandipo",
+      "duration_ms": 251080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/d2/2d/9cd22d6d-f3b6-1099-5263-a0e0f8ae4365/mzaf_15436829290868153719.plus.aac.p.m4a"
+    }
+  ]
+}
