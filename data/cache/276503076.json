@@ -1,0 +1,23 @@
+{
+  "id": "276503076",
+  "artist": "Basic Channel",
+  "album": "Inversion",
+  "year": 1994,
+  "apple_music_url": "https://music.apple.com/de/album/inversion/276503076",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/89/0f/84/890f8412-5647-fa4a-ad37-e1e269b729ea/827670742265.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "342618",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Inversion",
+      "duration_ms": 1075750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/75/70/e1/7570e192-3708-8fd3-76d6-fc6c332ca545/mzaf_11470698028109471233.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Presence",
+      "duration_ms": 1239951,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ea/1b/58/ea1b58a4-ef80-4117-9383-ba5e4ec0e9a3/mzaf_2598821007881992078.plus.aac.p.m4a"
+    }
+  ]
+}
