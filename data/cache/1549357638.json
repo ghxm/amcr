@@ -1,0 +1,29 @@
+{
+  "id": "1549357638",
+  "artist": "Rey Sapienz",
+  "album": "Hakuna Kulala - Single",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/hakuna-kulala-single/1549357638",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/e8/30/fbe83065-617f-7646-b04c-e5e680e01506/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "00d617",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Hakuna Kulala",
+      "duration_ms": 234000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1a/72/cd/1a72cd4a-bcfc-da5e-2033-d1bc9049d88c/mzaf_7370314512560162678.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Eya Eya",
+      "duration_ms": 205000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f0/c0/34/f0c0340d-5278-26c3-846f-6218d9ad91c3/mzaf_5635501859850164325.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "On Est Bon La",
+      "duration_ms": 241000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/98/7f/1a987fb5-d74a-6425-4eb9-ee334a6948bd/mzaf_16929616387452017176.plus.aac.p.m4a"
+    }
+  ]
+}
