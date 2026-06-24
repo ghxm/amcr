@@ -1,0 +1,59 @@
+{
+  "id": "1580976983",
+  "artist": "Albert Ayler",
+  "album": "Nuits de la Fondation Maeght 1970",
+  "year": 1976,
+  "apple_music_url": "https://music.apple.com/de/album/nuits-de-la-fondation-maeght-1970/1580976983",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/30/a3/2d30a3b4-d0e1-9006-caaf-663092fda64e/646315710328_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "382927",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "In Heart Only",
+      "duration_ms": 316293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/30/05/e3/3005e30b-ef3f-586c-4b27-b87f47f7345c/mzaf_10022773090133274649.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Spirits",
+      "duration_ms": 905493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/92/34/2992345b-f9d9-19ad-a8a2-c3043412b4ef/mzaf_3078122932118706955.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Holy Family",
+      "duration_ms": 704787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/76/e9/3776e922-afcb-7437-4bb9-10399f61ab7a/mzaf_6049297459734841444.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Spirits Rejoice",
+      "duration_ms": 446773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/5a/0a/b75a0a88-78a5-d3c0-e8a4-df37d7165bb9/mzaf_11588225003109200320.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Truth Is Marching In",
+      "duration_ms": 490080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/37/22/9037223e-bfb7-1763-ce2b-f888372f4123/mzaf_10204737629814338062.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Universal Message",
+      "duration_ms": 497013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d6/8d/e8/d68de873-58b6-7437-bb45-db035ba1e177/mzaf_10595557302352283793.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Spiritual Reunion",
+      "duration_ms": 477160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/21/35/0d2135cb-37f3-730d-ff8e-73b3fc32c2ad/mzaf_17979925177755982745.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Music Is the Healing Force of the Universe",
+      "duration_ms": 600253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/b8/75/25b87583-45c0-32eb-021e-e5023adeea36/mzaf_8766382325133790202.plus.aac.p.m4a"
+    }
+  ]
+}
