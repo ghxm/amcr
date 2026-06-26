@@ -1,0 +1,35 @@
+{
+  "id": "303186091",
+  "artist": "OutKast",
+  "album": "The Way You Move / Hey Ya! - EP",
+  "year": 2003,
+  "apple_music_url": "https://music.apple.com/de/album/the-way-you-move-hey-ya-ep/303186091",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/00/16/3f/mzi.nzvuggst.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "9fb8c5",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "The Way You Move (Radio Mix) [feat. Sleepy Brown]",
+      "duration_ms": 236093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/d4/76/cbd476ea-1c5c-ad9d-f452-aa89ad5caa61/mzaf_1678387467964064190.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "The Way You Move (Instrumental) [feat. Sleepy Brown]",
+      "duration_ms": 237133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/72/0f/16720f6d-1959-24db-8f76-df347868371a/mzaf_3819117437969760268.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Hey Ya! (Radio Mix/Club Mix)",
+      "duration_ms": 239240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/7a/0a/767a0a4b-2f86-f29b-14f0-90d15e1345ab/mzaf_14468368447422805808.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Hey Ya! (Instrumental)",
+      "duration_ms": 236093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/a6/74/92a67471-09ba-b5e2-f3b2-b8eaf8b1f41f/mzaf_2874917146954682831.plus.aac.p.m4a"
+    }
+  ]
+}
