@@ -1,0 +1,53 @@
+{
+  "id": "1483156964",
+  "artist": "DJ Screw & Point Blank",
+  "album": "I Wanna Get High with Da Blanksta (feat. PSK-13 & Lil' Keke)",
+  "year": 1996,
+  "apple_music_url": "https://music.apple.com/de/album/i-wanna-get-high-with-da-blanksta-feat-psk-13-lil-keke/1483156964",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f4/d7/f7/f4d7f740-b7e8-5fea-b211-c04144f61676/743551113224_Cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "495688",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tight with Da Blanksta (feat. PSK-13) [Screwed, Radio]",
+      "duration_ms": 377227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/ed/ee/43edee48-fc92-ae02-5510-d4f71f20f52d/mzaf_12900335732137787768.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "If Tha World Was... (feat. Lil' Keke) [Screwed, Radio]",
+      "duration_ms": 267547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/3d/72/f93d7248-798b-4f1d-9af5-2774961a4b98/mzaf_13056951264782934395.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "If Tha World Was... (feat. Lil' Keke) [Screwed, Street]",
+      "duration_ms": 270453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/56/90/8e/56908ef5-d684-19bd-09f6-095bfbd19604/mzaf_3344167628485318944.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Tight with Da Blanksta (feat. PSK-13) [Radio]",
+      "duration_ms": 336533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/27/ab/1d/27ab1d9c-11ea-8112-6201-28c1adff8a7a/mzaf_11601769969441625233.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "If Tha World Was... (feat. Lil' Keke) [Radio]",
+      "duration_ms": 226173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/56/87/de/5687deef-1796-9255-3529-8153e8d827d1/mzaf_15997818785379983545.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "If Tha World Was... (feat. Lil' Keke) [Street]",
+      "duration_ms": 227693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/fe/de/92fede11-105d-5ba4-2579-81a556d3e4ec/mzaf_3261021605246583440.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Conversation Foe",
+      "duration_ms": 123000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/6f/d5/25/6fd525b5-54fd-ea50-81e6-95986976aa84/mzaf_17137005516066889141.plus.aac.p.m4a"
+    }
+  ]
+}
