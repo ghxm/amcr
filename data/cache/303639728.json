@@ -1,0 +1,65 @@
+{
+  "id": "303639728",
+  "artist": "Giuseppe Ielasi",
+  "album": "Aix",
+  "year": 2009,
+  "apple_music_url": "https://music.apple.com/de/album/aix/303639728",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/7b/21/f3/mzi.twzknnrz.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fbfcfc",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "1",
+      "duration_ms": 202360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/a3/d1/6ba3d1b6-2a0b-ad34-6261-a78451b6335f/mzaf_8145892933713188664.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "2",
+      "duration_ms": 230200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/ae/80/53ae80a2-425d-09b9-92a7-e7f2970e8273/mzaf_4031880891963314957.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "3",
+      "duration_ms": 215707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/6c/b6/7e6cb682-1c84-b4dc-008f-c188898dacb7/mzaf_3944270919786930698.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "4",
+      "duration_ms": 230573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/56/99/555699c4-c66d-4996-5f99-baf40e09dd8e/mzaf_5921612612506146683.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "5",
+      "duration_ms": 232240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/b7/f6/57b7f6a7-1c45-1e34-ce1e-c17095cd2fe3/mzaf_7235297749129573931.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "6",
+      "duration_ms": 180413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/7d/3c/9c7d3c31-8a82-4ab8-55ba-4111ce1fc217/mzaf_3753435834046801889.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "7",
+      "duration_ms": 146213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/37/6c/5f376c0b-223b-2731-861d-dabc47a594d9/mzaf_4431230870160038019.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "8",
+      "duration_ms": 198107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/9d/29/639d295f-22bb-3da2-77b1-f4cff004fb62/mzaf_1883125929935860931.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "9",
+      "duration_ms": 247827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/95/4b/b2954b74-2c19-04a2-79fc-30816d67c980/mzaf_17059361437817084857.plus.aac.p.m4a"
+    }
+  ]
+}
