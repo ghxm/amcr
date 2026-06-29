@@ -1,0 +1,65 @@
+{
+  "id": "958731756",
+  "artist": "Lightning Bolt",
+  "album": "Fantasy Empire",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/fantasy-empire/958731756",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/1e/92/f1/1e92f1fb-2471-6c73-e2f1-9896df0ebe30/380_1600.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "3f406b",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "The Metal East",
+      "duration_ms": 252657,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/72/cb/7872cb17-019c-93a8-efaa-0d93d15fd4c6/mzaf_18299529235856394738.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Over the River and Through the Woods",
+      "duration_ms": 391248,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/8d/1f/618d1f90-8acc-64ec-12a2-57e7d7d78243/mzaf_2456193441401574890.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Horsepower",
+      "duration_ms": 283105,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/22/32/3d/22323d04-3552-f32f-886d-a741d87fd2cc/mzaf_1928452562887806068.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "King of My World",
+      "duration_ms": 236829,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/a1/a5/d3a1a502-99e7-66a0-5604-b4007873b843/mzaf_6516933416043061203.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Mythmaster",
+      "duration_ms": 311272,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/d2/80/bdd28023-ccfe-39e5-4557-ce840e368db0/mzaf_10543039225202073629.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Runaway Train",
+      "duration_ms": 278674,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/39/46/db39461b-84a3-26d6-ec34-a90f4b449d89/mzaf_8617282507749985820.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Leave the Lantern Lit",
+      "duration_ms": 75719,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/41/fd/2d41fd52-15cb-38ce-fd7c-daf0a24faeb6/mzaf_13409609095149312261.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Dream Genie",
+      "duration_ms": 381191,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/86/75/888675bd-be3e-9fe4-3303-a4caf4a1820a/mzaf_12692438488404695600.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Snow White (& The 7 Dwarves Fans)",
+      "duration_ms": 680928,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/42/08/7c42083c-1bc1-5606-0ffd-33ecba43b6ee/mzaf_2427547741798567402.plus.aac.p.m4a"
+    }
+  ]
+}
