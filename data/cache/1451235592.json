@@ -1,0 +1,71 @@
+{
+  "id": "1451235592",
+  "artist": "Khotin",
+  "album": "Beautiful You",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/beautiful-you/1451235592",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a0/24/81/a024816f-2077-410e-2917-68589ae46ce4/810762033884.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "c0bfc0",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Welcome",
+      "duration_ms": 75429,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/22/16/e8/2216e8f3-6b59-220e-83e6-bdee919e4f96/mzaf_4155596658490639583.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Water Soaked in Forever",
+      "duration_ms": 370476,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/86/3e/39/863e39eb-1a69-e53d-6ec1-9a70a4a7eef0/mzaf_1327373076082056411.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Levi's Synth",
+      "duration_ms": 571705,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/d9/a5/18d9a566-4852-2898-5da4-8faa2df5edf4/mzaf_17593577957395872744.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Alla's Scans",
+      "duration_ms": 227097,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/00/27/680027d2-f1c8-e8b0-f974-eb986e482a84/mzaf_16466752779076874754.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Vacation",
+      "duration_ms": 353524,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/08/29/ae082964-40c2-d004-aade-11d12411eff5/mzaf_10713768389650673504.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Dwellberry",
+      "duration_ms": 283200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b0/ec/8c/b0ec8cfa-6ddc-4529-13a6-d4d3f88bb229/mzaf_3152416200247190296.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Looping Good",
+      "duration_ms": 505263,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/5f/ec/135fecaf-7984-6cb0-ec58-fb4b6bc28487/mzaf_2958217723834136318.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Merged Host",
+      "duration_ms": 276800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/63/37/5563379e-cd0c-abe9-3822-195e387d3c62/mzaf_2003383807888004474.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Somehow More Sad",
+      "duration_ms": 181333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/28/14/772814e8-fe44-4aa1-4da0-17504d88148c/mzaf_1434732677665789576.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Planet B",
+      "duration_ms": 336000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/3f/1c/203f1c8a-0b9a-ae12-da38-346b30375921/mzaf_13261096972485930909.plus.aac.p.m4a"
+    }
+  ]
+}
