@@ -1,0 +1,53 @@
+{
+  "id": "1623502361",
+  "artist": "Purelink",
+  "album": "Puredub",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/puredub/1623502361",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/5e/ca/785eca3c-e4f8-cdfa-8370-be7180e2f3f7/artwork.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "c3c2c1",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "At Nest",
+      "duration_ms": 300750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1a/c1/ea/1ac1ea15-192c-e00c-7eb1-916eb982e4af/mzaf_12907449618321761696.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "One For the Angels",
+      "duration_ms": 260060,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6c/82/84/6c82848b-3bdd-01c1-e8d8-7b48d420585e/mzaf_8839099158255346354.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Spirit & Sport",
+      "duration_ms": 278520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/77/94/a3/7794a3bb-0c5a-3b92-0e47-6195361cb805/mzaf_363382493912443079.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Cricket Dub",
+      "duration_ms": 210736,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b8/54/d0/b854d07a-dfe8-3f76-d8de-99c5ace22705/mzaf_4674239715400818384.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Rest Thru",
+      "duration_ms": 229789,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/21/9f/59/219f59b6-2779-9104-93c4-4fd27aa9cba2/mzaf_11519154555267357882.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Depression Dub",
+      "duration_ms": 145816,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/22/e2/6222e2f0-fc12-87cc-2fb9-97a3c772e057/mzaf_12155169932085621607.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Let's Make a Pact",
+      "duration_ms": 380937,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f0/55/55/f05555e0-f087-dc98-8336-6372fc98f6db/mzaf_5551733189533553370.plus.aac.p.m4a"
+    }
+  ]
+}
