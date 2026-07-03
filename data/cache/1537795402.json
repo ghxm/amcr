@@ -1,0 +1,89 @@
+{
+  "id": "1537795402",
+  "artist": "Angel Bat Dawid & Tha Brothahood",
+  "album": "Live",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/live/1537795402",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/18/8c/7f188ce9-d6ff-76e1-f9f8-391f511e87bc/0789993991105.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "350a0b",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Enlightenment",
+      "duration_ms": 202320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/5d/5a/505d5ad0-f709-47bb-d0f7-d183ca7d69c3/mzaf_5397948473908917616.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Destination",
+      "duration_ms": 166147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/1a/72/461a721f-5fc6-5246-5622-c4826a4bf93b/mzaf_2964115516997610049.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Capetown",
+      "duration_ms": 25333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/c8/7e/adc87ec3-9985-da7f-ece8-c46984889728/mzaf_4641281948968608584.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Black Family",
+      "duration_ms": 578773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/63/37/b1633772-73f5-7f27-d9dc-fac01d7545cb/mzaf_9279186787214523431.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "What Shall I Tell My Children Who Are Black",
+      "duration_ms": 299480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/93/42/459342c1-4e90-77b8-9bec-08cc7d3a54f3/mzaf_11115616208940186869.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "London",
+      "duration_ms": 598720,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/b7/dc/4ab7dc8f-dcff-b577-656d-20ff1eb58963/mzaf_17293830537968318043.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "We Hearby Declare the African Look",
+      "duration_ms": 557067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/26/89/43/26894368-d90a-603d-c752-b130ec5baf85/mzaf_3385575093327274078.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "We Are Starzz",
+      "duration_ms": 853653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/f6/63/dbf66319-5b68-d9d8-ed0c-7becb1cb1e8a/mzaf_1565881366689254562.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "VIKTORious Return",
+      "duration_ms": 64573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/bd/1c/9abd1caf-9383-0f12-6adc-b249aac09b4f/mzaf_5570575596932022057.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Tha Wicked Shall Not Prevail",
+      "duration_ms": 413640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/95/a3/8c/95a38c3e-7271-66e2-848c-c62f0a97e3dd/mzaf_9630709164224754544.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Melo Deez from Heab'N",
+      "duration_ms": 282733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/2f/17/7f2f1750-520c-2d84-5dc5-9256398378a3/mzaf_8890332192110571098.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Dr. Wattz n' em",
+      "duration_ms": 494493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/14/fa/c814fae3-dd1f-3706-4711-39d4ac210fc0/mzaf_9703886963644554371.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Hell",
+      "duration_ms": 211160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/bd/ef/56bdefb8-d79a-b09b-0cd1-33a41201f650/mzaf_15012959702493593944.plus.aac.p.m4a"
+    }
+  ]
+}
