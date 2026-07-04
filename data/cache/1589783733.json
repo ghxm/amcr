@@ -1,0 +1,167 @@
+{
+  "id": "1589783733",
+  "artist": "Yttrandet",
+  "album": "Yttrandet",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/yttrandet/1589783733",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/3e/6e/c13e6ec4-c96b-1b19-56b4-92f739b95135/196292653472.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "a82d2f",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Annihilation",
+      "duration_ms": 302400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/49/31/bc493115-21f2-0f4f-ed3b-7fbb34acdc30/mzaf_17104856193250978370.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Obfuscate",
+      "duration_ms": 196000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/0e/6f/d80e6f4f-72c9-125c-5f23-86ff8d7df722/mzaf_17779977204698471786.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Ishmael",
+      "duration_ms": 601565,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/c1/74/50c174db-f28d-b652-a52d-5a1de0307522/mzaf_1460767600695235635.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Abjection",
+      "duration_ms": 198261,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/e9/81/9de981e6-d45a-6973-ff9a-25ce73700e03/mzaf_15379490495919351381.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Anamnes",
+      "duration_ms": 252000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/cc/da/c2ccda61-8d1f-fa0e-d8e0-75a1bf741075/mzaf_9864243618985794300.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Tribunal",
+      "duration_ms": 209455,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/30/37/c23037fb-c0d0-6ca7-ed33-6eea410411f2/mzaf_8168813020038293936.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Capillary Wave",
+      "duration_ms": 264000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/a2/54/36a254fe-4dde-51af-dc3d-a0c3c8833bb2/mzaf_13810532562722040748.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Future Passing",
+      "duration_ms": 290400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/3f/f4/5a3ff4a2-f709-5dcd-4b34-825b3ddea52d/mzaf_5554522282880007810.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Älven",
+      "duration_ms": 326400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/9b/71/779b71b4-d8d0-e39f-6d81-82aff1009583/mzaf_13255367159260900634.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Arete",
+      "duration_ms": 336000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a4/dc/12/a4dc12c5-57ed-6274-0153-7ba5a4ecf1fe/mzaf_11606381200503766955.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Inbetwixt",
+      "duration_ms": 245333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/7f/40/d87f405a-51e2-a0ee-ae5c-d99fb9ac835e/mzaf_1483822136115217412.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Suspended in a Sunbeam",
+      "duration_ms": 211200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/85/46/c08546e9-3422-573b-c177-6d2797a5ecdd/mzaf_12481361906793957584.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Återkomsten",
+      "duration_ms": 264000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d0/e6/dc/d0e6dc16-5919-cc62-2977-99fb47284158/mzaf_16128748497961427702.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Hypogean",
+      "duration_ms": 297600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ab/31/c2/ab31c2f4-90d2-fa88-ddb7-5d46a375d966/mzaf_17824765254068074792.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Allt Brinner",
+      "duration_ms": 307200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/93/3c/26933cb3-5a9a-8dbf-bb43-d1c0cf597c37/mzaf_2620956308133999644.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Prosthetic",
+      "duration_ms": 249600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/52/b4/b852b472-b689-75b9-fd4e-787dc56a01bf/mzaf_1712715781536694388.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "King Williams Island",
+      "duration_ms": 340800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/c9/5d/9ac95de9-0594-c4c8-e905-51da43038d26/mzaf_8718051653240469790.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Astropath",
+      "duration_ms": 244800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/4b/2b/114b2b07-21d8-19f9-3e48-171605bb6b8e/mzaf_13406320524845258442.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Frozen Borderline",
+      "duration_ms": 19636,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/aa/2d/6baa2dc6-2787-92ac-9353-b3c9b59c745f/mzaf_12104404832536208591.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Unburied",
+      "duration_ms": 360000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/f9/3a/83f93a3c-3966-7ccc-2dfa-d30de2ad21a9/mzaf_15034724324336258075.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Linear Fractures",
+      "duration_ms": 304800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/ea/bc/7ceabc8d-a5b9-bc42-8889-de72f9832791/mzaf_17611356969322403606.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Jägaren",
+      "duration_ms": 604800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/64/8a/6a/648a6a9c-16b4-24a8-2ca0-5f391d5c3c83/mzaf_18356282473245616205.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Rotunda",
+      "duration_ms": 251294,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8a/97/83/8a9783fc-3003-d369-c36c-ba04719d9864/mzaf_11613765042086682778.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Sundr",
+      "duration_ms": 106435,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/6e/00/e26e0093-074c-8663-c01a-f165997af48e/mzaf_14633208748901354572.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Ecliptical",
+      "duration_ms": 254400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/dd/0b/f6dd0b1e-85b3-b231-beaa-8671c433c885/mzaf_4174582095095280927.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Methylene Blue",
+      "duration_ms": 244800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8b/60/7e/8b607eed-1c2b-4ecd-593b-905c2efa9a33/mzaf_10402234205098033457.plus.aac.p.m4a"
+    }
+  ]
+}
