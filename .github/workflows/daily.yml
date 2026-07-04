@@ -44,6 +44,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Sync to latest main
+        # Reruns check out the SHA of the original attempt, not the branch tip.
+        # If an earlier attempt already pushed today's pick, a stale checkout
+        # would pick again and hit a merge conflict in picks.csv on push.
+        # Fast-forwarding to the tip lets the already-picked guard (exit 78)
+        # in src.sample see the current ledger.
+        run: git pull --ff-only origin main
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
