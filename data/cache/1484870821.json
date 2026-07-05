@@ -1,0 +1,131 @@
+{
+  "id": "1484870821",
+  "artist": "Suso Saiz",
+  "album": "Nothing Is Objective",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/nothing-is-objective/1484870821",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/f9/32/8ff93252-318b-5702-2b49-5a65e2a9f041/0724165465435_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f9f7fa",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Meccano",
+      "duration_ms": 208008,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/69/27/69692733-7778-943d-a1da-53036b5f4ee6/mzaf_9713988725032046283.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Anti-stress For Babies and Families",
+      "duration_ms": 480515,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/df/f6/8cdff611-a1e6-6f25-4e7b-049059981853/mzaf_8779344606572199167.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Con Los Ojos",
+      "duration_ms": 234800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a2/23/e0/a223e0f6-d852-a2a7-9c2a-34c3a7410a3c/mzaf_12815230704372475034.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Abrazo Mirando",
+      "duration_ms": 314531,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/87/39/2487395f-1162-f7a4-bf7a-bd071d8b03b4/mzaf_13560071624980873618.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Mexican Bells (for Jorge Reyes)",
+      "duration_ms": 570382,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/13/21/451321d6-69f1-5497-2ad0-642f83d8c9a3/mzaf_12422188387059139507.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Grounded",
+      "duration_ms": 498269,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/4b/45/074b45ac-9d9e-0a1e-6541-b726a5a8c052/mzaf_4454580173259396045.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Minimal Distance",
+      "duration_ms": 182999,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/47/e4/4f47e40b-80fe-94f0-c63b-901826b9909e/mzaf_10981310961153123501.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Una Voz",
+      "duration_ms": 235873,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/01/a5/71/01a571a7-c35b-52db-8ee5-f6f017ee072e/mzaf_571669220201457192.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Objective Void",
+      "duration_ms": 207346,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/8f/e2/b08fe2f3-7ef2-0c8d-6e2a-85abd52e930a/mzaf_14776891274690473767.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Dulce (feat. Christian Fennesz)",
+      "duration_ms": 364000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/9b/ab/599bab16-bb90-4c1f-e34c-3e22b7b52809/mzaf_3647992818545802769.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Healthy Digestion",
+      "duration_ms": 185843,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/c6/d2/f8c6d29b-6dff-bcd8-d620-8e57e733471f/mzaf_6915756084900636478.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Scrub Your Ego",
+      "duration_ms": 114601,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/9c/23/5a9c23b2-cc4d-d3d2-348b-4a7dbd026862/mzaf_18238392959025465716.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Forma Horizonte",
+      "duration_ms": 179386,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/d0/42/94d042db-8339-8e9e-a5c4-10e808dac452/mzaf_14502688061712483257.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Frogs In Love",
+      "duration_ms": 386718,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/50/ea/43/50ea43aa-22f7-4f69-2d12-8511d5b8d78d/mzaf_16579911625945082639.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "From Memory",
+      "duration_ms": 463677,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/9a/64/0b9a64f4-4020-3f08-2096-73a8ccb017f1/mzaf_8072947950293765320.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Nothing Ends 2018",
+      "duration_ms": 386853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2e/ac/a5/2eaca572-ccbe-6b3b-98ed-6c10a2dcaea7/mzaf_9005563759041012517.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Solo En Calma (Digital Bonus)",
+      "duration_ms": 472260,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/a1/a6/9ba1a6ba-f13d-a5db-a89d-7bc51f9715ea/mzaf_12689517124525772252.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Shared Solitude (feat. Fennesz) [Digital Bonus]",
+      "duration_ms": 525461,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fd/ee/3e/fdee3ee9-70bc-f0c8-61b7-45eaf9845c1d/mzaf_903053859625173173.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Through (Digital Bonus)",
+      "duration_ms": 593277,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/6f/9d/576f9d0c-afeb-75bb-be5d-c59bc68890e5/mzaf_10553635417631088655.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Enzyme Exchange (Bonus)",
+      "duration_ms": 468218,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/db/f3/02dbf3a7-90eb-a009-0c2b-e6989bf392a4/mzaf_6770653756193001252.plus.aac.p.m4a"
+    }
+  ]
+}
