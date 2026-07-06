@@ -1,0 +1,53 @@
+{
+  "id": "1689466434",
+  "artist": "Heroin in Tahiti",
+  "album": "Remoria",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/remoria/1689466434",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/3d/5f/3f3d5fc9-598d-b1f8-c58a-51853f1da98f/8055323520669_Cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "4f3939",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "I",
+      "duration_ms": 595107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b8/6b/98/b86b98b1-6870-5a47-a41b-b7aa745d5b55/mzaf_10617169860741670355.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "II",
+      "duration_ms": 418404,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/c1/e6/87c1e66d-ff2e-8af3-b8ea-d53992e5e82f/mzaf_10063670631736507891.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "III",
+      "duration_ms": 210517,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2f/f5/1f/2ff51f25-b333-bc64-0cf0-c9be688fad99/mzaf_2268569223906773434.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "IV",
+      "duration_ms": 393221,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/02/60/b7/0260b790-bdf8-6e7a-ea99-bf6dd9b04260/mzaf_14506869093981047506.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "V",
+      "duration_ms": 405279,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ad/57/9a/ad579abf-aa4a-58ff-5fe5-45597ce2c9a6/mzaf_15893974030689374258.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "VI",
+      "duration_ms": 131613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4b/69/d6/4b69d6f0-6ebe-414e-fe6a-c7d3c018c5da/mzaf_17646630409536840714.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "VII",
+      "duration_ms": 208976,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/97/57/1f/97571f98-0a04-17c5-5906-0f961e051498/mzaf_15078987896928702310.plus.aac.p.m4a"
+    }
+  ]
+}
