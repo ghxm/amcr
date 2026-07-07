@@ -1,0 +1,95 @@
+{
+  "id": "1585842917",
+  "artist": "Shuttle358",
+  "album": "Chessa (2021 Remaster)",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/chessa-2021-remaster/1585842917",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/71/7e/f2717e4f-bf53-a7b6-c21c-807f2484ed16/880918255309.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fcf8e6",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Ash (2021 Remaster)",
+      "duration_ms": 426000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/cc/96/9ecc9612-449b-7e99-1277-7667c65b5e9c/mzaf_15412787176353148049.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Chessa (2021 Remaster)",
+      "duration_ms": 418000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b7/73/46/b773466f-f548-f8c7-1b39-7b4cb863ac42/mzaf_14338387862866382929.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Blast (2021 Remaster)",
+      "duration_ms": 184000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e8/98/46/e89846c6-aa49-4b23-333b-af1ef6ae5cb4/mzaf_216328295086977874.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Duh (2021 Remaster)",
+      "duration_ms": 220000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/06/13/d2061365-748f-41c7-9aea-5ac1cc7e0266/mzaf_2560351872435941187.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Marche (2021 Remaster)",
+      "duration_ms": 321000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/74/47/94744711-89d9-055b-7d6f-d1e1091c2b52/mzaf_5283937251495365041.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Nerf (2021 Remaster)",
+      "duration_ms": 221000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/1d/e9/741de9d4-daf8-e744-fb2c-bceaeb96e026/mzaf_5511408033810462936.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "West Nile (2021 Remaster)",
+      "duration_ms": 136000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b3/95/01/b39501cc-2e60-3431-52ff-e781f8291d47/mzaf_27854236066862681.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Melt (2021 Remaster)",
+      "duration_ms": 330000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/b8/37/feb837fc-8a8f-35c3-cb14-e4b7764c7e33/mzaf_3466959138705898014.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Logical (2021 Remaster)",
+      "duration_ms": 181000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/0a/51/ff0a5164-420b-a29d-9e17-3d8bf59a8c34/mzaf_9555596980339653568.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Dead Leaves (2021 Remaster)",
+      "duration_ms": 322000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/38/60/0f38605b-988b-9104-aada-698d6ba06340/mzaf_7432033084946412782.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Scrapbook (2021 Remaster)",
+      "duration_ms": 473000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/d0/e3/a8d0e3f6-a486-4be9-49fb-89fccea9fd4e/mzaf_10019854727824666416.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Habitat (2021 Remaster)",
+      "duration_ms": 424000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/1f/5a/0f1f5af4-9a61-7bdb-db5c-b1bcb43979a7/mzaf_15837259579750318946.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Bloom (2021 Remaster)",
+      "duration_ms": 211000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d1/df/e4/d1dfe418-54f7-f265-e3df-c037048da6c5/mzaf_8629006824164688449.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Angelic (2021 Remaster)",
+      "duration_ms": 219000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/79/64/577964c9-8c5c-5cb1-9885-9f481d68e2d8/mzaf_11003411274990539303.plus.aac.p.m4a"
+    }
+  ]
+}
