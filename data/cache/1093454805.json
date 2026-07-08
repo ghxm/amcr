@@ -1,0 +1,83 @@
+{
+  "id": "1093454805",
+  "artist": "Los Ovnis de Jorge Chambergo Porta",
+  "album": "Los Creadores del Ritmo Tropical Andino",
+  "year": 1984,
+  "apple_music_url": "https://music.apple.com/de/album/los-creadores-del-ritmo-tropical-andino/1093454805",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/c1/97/fec197a9-7fe5-8597-daef-bc3ed10ac168/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "bac1bf",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tres Amores",
+      "duration_ms": 216500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/33/61/4f3361e8-dcc1-7a6b-4c84-caf5d2725e6b/mzaf_10984410003370599174.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Triste Desengaño",
+      "duration_ms": 185500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/4f/52/9c4f521b-47e0-24fa-dc5a-f6efa48d2dce/mzaf_2896445791990929438.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "A Mi Ley",
+      "duration_ms": 208562,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/10/3c/c2103c75-2076-3ca1-b071-0d66839f7c27/mzaf_3997604195988854885.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Recuerdos de Amor",
+      "duration_ms": 212625,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/80/14/a1/8014a140-218f-66d6-4a8e-724d347e3d38/mzaf_6390063882071658713.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Caly Eres para Mí",
+      "duration_ms": 177188,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/2e/c8/942ec8b6-afd0-f099-0f12-fc50afaed693/mzaf_17724027551988997265.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Qué Seas Feliz",
+      "duration_ms": 237000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/34/d5/3534d565-105e-1b94-f724-761be80faae1/mzaf_13370577870079973982.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Gregorio",
+      "duration_ms": 239688,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/5b/12/a65b12ef-6f91-ab0e-8894-cf48bd985c47/mzaf_1624461584288220483.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "A Mi Madre",
+      "duration_ms": 207000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/20/99/eb209952-04ed-3938-76d5-0ec238a00376/mzaf_3087416670546447828.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "La Moda",
+      "duration_ms": 164000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/6c/42/9b6c42d0-aa56-80eb-5dd5-1b47fc3f78e4/mzaf_13944274959210202689.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "La Cervecita",
+      "duration_ms": 184125,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ef/2a/03/ef2a0310-6c2a-5240-6a4b-1a9a6ceb3645/mzaf_18034023676458667007.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Huerfanito",
+      "duration_ms": 205625,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/31/36/6e313633-c65f-d6d9-0379-b2286c9c92e0/mzaf_18125086064069097651.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "No Sé Qué Pasará",
+      "duration_ms": 170000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/14/86/dc/1486dcce-c788-5f03-d466-0bc2a0fd3029/mzaf_1123860593104577920.plus.aac.p.m4a"
+    }
+  ]
+}
