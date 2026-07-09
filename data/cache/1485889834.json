@@ -1,0 +1,83 @@
+{
+  "id": "1485889834",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "Tarantismo: Odyssey of an Italian Ritual",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/tarantismo-odyssey-of-an-italian-ritual/1485889834",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8b/6a/e5/8b6ae5b1-1e33-3cc1-f8fd-74f459b68f33/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "E Ballamu Tutti Ddhoi Ti Paru",
+      "duration_ms": 197958,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/52/f7/c5/52f7c501-05a3-173d-7684-4ddd09eddbc8/mzaf_10748117565379827664.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Pizzica Tarantata N 014",
+      "duration_ms": 43782,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/9d/fe/10/9dfe109e-6996-8643-d279-97056e93137a/mzaf_7900555901504260620.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Pizzica Tarantata N 015",
+      "duration_ms": 40202,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/40/a0/fc/40a0fc18-1f31-91b6-8b5f-70135a2c10e5/mzaf_5515297998403776089.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Pizzica Tarantata N 026",
+      "duration_ms": 376843,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d6/54/1e/d6541e93-bb9b-ee1a-f605-f40b1f5702f0/mzaf_4990877407556091937.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Pizzica Tarantata N 030",
+      "duration_ms": 183177,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/30/d2/40/30d24048-477f-8d84-172e-42fa09dc255a/mzaf_2593520954743712583.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Santa Paolu Meu de Galatina",
+      "duration_ms": 60163,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/69/75/34/69753438-3ef0-e644-23f6-89200845bba3/mzaf_5468136114468877027.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Pizzica Tarantata N 026 (Bjorn Torske & Trym Søvdsnes Rework)",
+      "duration_ms": 495124,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/6b/6c/2f/6b6c2f99-2298-25fc-341b-94fc4ed706df/mzaf_11044279492918571844.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Pizzica Tarantata N 015 (Uffe Rework)",
+      "duration_ms": 320211,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/4e/ae/ef/4eaeef75-4b62-3847-185e-2ee227e0c3f7/mzaf_14745409667208216012.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Pizzica Tarantata N 014 (Lns Rework)",
+      "duration_ms": 297434,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/2e/66/d8/2e66d824-3e09-0b42-a8f0-11f02a62053a/mzaf_6312589035319228688.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Santa Paolu Meu de Galatina (Bottin Rework)",
+      "duration_ms": 249718,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/47/4c/6f/474c6f60-274c-7b85-29e0-13fb2b362ee9/mzaf_16867367755726263811.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Pizzica Tarantata N 014 (Don't DJ Rework)",
+      "duration_ms": 341509,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/96/61/7e/96617eea-e014-9b96-57a2-3cb0a3e1bbde/mzaf_10565850651005822028.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Pizzica Tarantata N 030 (Kmru Rework)",
+      "duration_ms": 203012,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0a/ad/7b/0aad7b30-08af-7d75-54b1-3b30d4a966d1/mzaf_14439607526813909376.plus.aac.p.m4a"
+    }
+  ]
+}
