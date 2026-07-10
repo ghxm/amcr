@@ -1,0 +1,23 @@
+{
+  "id": "1299247672",
+  "artist": "Equiknoxx & Mark Ernestus",
+  "album": "Mark Ernestus Remixes - Single",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/mark-ernestus-remixes-single/1299247672",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5b/4b/6a/5b4b6a5d-7327-35a2-9d86-f25f5cf9b859/5060165483457.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "3c9f39",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Congo Get Slap (Mark Ernestus Remix)",
+      "duration_ms": 430172,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/89/7b/35897bfb-2554-14ac-4931-7eae8610a0b0/mzaf_11876489038335321726.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Flagged Up (Mark Ernestus Remix)",
+      "duration_ms": 576446,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e5/3b/4e/e53b4ec1-dd07-5265-cd20-b7cfb4602793/mzaf_3745815012143924341.plus.aac.p.m4a"
+    }
+  ]
+}
