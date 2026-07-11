@@ -1,0 +1,251 @@
+{
+  "id": "1016443815",
+  "artist": "Louis Prima",
+  "album": "BD Music Presents Louis Prima",
+  "year": 2007,
+  "apple_music_url": "https://music.apple.com/de/album/bd-music-presents-louis-prima/1016443815",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/94/88/90/948890e6-c2c2-6669-6369-1cf450a7441a/0826596072043_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Let's Have a Jubilee",
+      "duration_ms": 187013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/9e/b0/659eb065-4c03-a2bb-bd4b-e1f9393a5d9e/mzaf_14837435574881042696.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Swing Me With Rhythm",
+      "duration_ms": 173907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/63/49/6863492d-3cb8-eb02-ad03-6d48a006d574/mzaf_13399953955992179769.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Let's Swing It",
+      "duration_ms": 164613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a2/49/ca/a249caf9-b5c9-66f5-b207-010af97fece9/mzaf_14782443197594217321.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Rhythm On the Radio",
+      "duration_ms": 155013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cc/cb/a1/cccba145-06ea-77d4-4aa5-0d3c4be4387f/mzaf_1235448318909445485.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Say \"Si, Si\"",
+      "duration_ms": 172240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b4/ef/9d/b4ef9df0-16dd-09aa-8b35-dd74bb80d604/mzaf_17803891884417428130.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Robin Hood",
+      "duration_ms": 190027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/00/bc/6000bc59-0c44-6467-0af4-93ea277f9b57/mzaf_14453627647410346293.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Angelina",
+      "duration_ms": 191827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/87/9c/1b879ca4-76c2-6f6f-0dff-a51ff234f5f3/mzaf_13930887115579316659.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Oh Marie",
+      "duration_ms": 161027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/3e/49/873e49af-fa22-6b6a-762f-9865e1adc981/mzaf_12285178937152633002.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "The Very Thought of You",
+      "duration_ms": 157147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/5c/63/c45c63cf-4cec-7051-5cbe-ebb586a5cf3e/mzaf_10361973482193005915.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Way Down Yonder In New Orleans",
+      "duration_ms": 136160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/4a/6a/114a6a12-b0b7-9469-0508-53b615715c21/mzaf_7431720680610480908.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Rum and Coca-Cola",
+      "duration_ms": 191653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/05/b6/7005b604-dd2c-10d0-8e04-24b75134c7a8/mzaf_7748523825841978701.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Please No Squeeza da Banana",
+      "duration_ms": 186933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/42/b5/be42b54b-f70a-ec78-a746-fa29ade40aa7/mzaf_8791352102583193973.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Caldonia",
+      "duration_ms": 197240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6e/f3/9c/6ef39c00-7a19-a920-0e35-7bcf3587132b/mzaf_10592226568136454878.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Felicia No Capicia",
+      "duration_ms": 191493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/1f/bf/031fbf58-690a-a427-be80-e4db8ada4518/mzaf_10392029937698991684.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Sing, Sing, Sing",
+      "duration_ms": 185067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/82/ea/7782ea99-c1e0-806c-356e-c4c10613bd17/mzaf_4395585518824703735.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Just a Gigolo",
+      "duration_ms": 163093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/0f/a1/c40fa12c-a33e-f113-ab5a-08e491480f77/mzaf_15350616023924253071.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Hey! Ba-Ba-Re-Bop",
+      "duration_ms": 183573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/47/3f/52473fa9-9373-c4ef-bfa0-5b4d93068acb/mzaf_7537517253469199985.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "All Right Louis, Drop the Gun",
+      "duration_ms": 180293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/02/82/d9/0282d933-d42f-8ee8-5d96-5b3ff8d750ae/mzaf_9398968828775824416.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Civilization (Bongo, Bongo, Bongo)",
+      "duration_ms": 199520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/d3/80/69d38049-c277-976a-a7f3-17e60daa1bad/mzaf_14145738167442726767.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Heap Big Smoke (But No Fire)",
+      "duration_ms": 182280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/17/a1/4b17a1b4-7c71-c217-5142-74bb0067fe60/mzaf_3312742187109910111.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Anywhere In Texas R.F.D.",
+      "duration_ms": 167960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/92/72/78/9272788a-5565-e386-0951-8a2e4cf1d6d7/mzaf_8603677947970823068.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Betty Blue",
+      "duration_ms": 179640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/ea/47/13ea472f-b6d5-7b55-e588-bbee797c1abf/mzaf_9188847814512134475.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Abou Ben Adhem",
+      "duration_ms": 182107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f8/eb/ce/f8ebcefe-ebcc-80e3-460a-efa3f4084d91/mzaf_9593447656648433938.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "The Bee Song (He-Bee and She-Bee)",
+      "duration_ms": 171693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/85/98/79859810-ee73-357a-4dea-4865530b4f7a/mzaf_10236228779196001032.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "With a Hey and a Hi and a Ho Ho Ho!",
+      "duration_ms": 162440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/38/d7/7138d75e-7e77-25e2-9d5d-a47afc1820ed/mzaf_1303674887841646749.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Yes We Have No Bananas",
+      "duration_ms": 184907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/ef/12/fbef12dc-01d7-e872-9c6c-3b209920ab51/mzaf_11164973563307114665.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Over the Rainbow",
+      "duration_ms": 189693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/98/ea/e3/98eae3e3-6bc0-94d0-0b25-b997d59ecd19/mzaf_1765595230005576165.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "A Good Time Was Had By All",
+      "duration_ms": 158507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d6/7c/6d/d67c6d31-e0ca-49a9-f9a7-774e4be5f27a/mzaf_7427956332377437531.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "Here Pretty Kitty",
+      "duration_ms": 162907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/eb/67/48/eb6748ce-631b-ed95-ab8f-8cf66546d72b/mzaf_6672660557033617518.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "I Beeped When I Should Have Bopped",
+      "duration_ms": 183853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/6a/4f/68/6a4f6821-5937-add4-e1ec-3e48bda1f135/mzaf_5388895498690673535.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "(I'll Be Glad When You're Dead) You Rascal You",
+      "duration_ms": 194587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/cc/ce/ebccce43-84d7-dbd8-5ead-88f491da7e10/mzaf_5646816385502975200.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Basin Street Blues",
+      "duration_ms": 138387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/fd/6e/b6fd6e76-b4d6-8b65-f088-c1e4f43d3989/mzaf_2918954987006133612.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "When It's Sleepy Time Down South",
+      "duration_ms": 115627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/82/09/e18209cf-0716-0a89-503b-a210399ca186/mzaf_4837772268379163424.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "Night Train",
+      "duration_ms": 167493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/98/5e/af/985eafda-0632-8784-9f5b-fa6e2ce0dd26/mzaf_3569203445787646379.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Buona Sera",
+      "duration_ms": 179613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5f/a0/1d/5fa01dd2-4c86-7b00-e79a-10259f9a95f0/mzaf_4717984618641059603.plus.aac.p.m4a"
+    },
+    {
+      "n": 36,
+      "title": "Jump, Jive and Wail",
+      "duration_ms": 209533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2b/11/db/2b11dbf8-22e2-6f3b-2de6-8e29fe5c5b31/mzaf_18224843723109881125.plus.aac.p.m4a"
+    },
+    {
+      "n": 37,
+      "title": "Body and Soul",
+      "duration_ms": 203920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/54/45/bf/5445bf7c-738b-5a16-fdf1-1f25a315e728/mzaf_7499545397200186661.plus.aac.p.m4a"
+    },
+    {
+      "n": 38,
+      "title": "The Lip",
+      "duration_ms": 137840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/97/0b/d5/970bd5ce-ad4a-5d80-2c9f-c35adb50e61f/mzaf_7154567361153986595.plus.aac.p.m4a"
+    },
+    {
+      "n": 39,
+      "title": "(Nothing's Too Good) For My Baby",
+      "duration_ms": 158080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/0c/81/400c812d-0eea-5f68-040f-95809628f94e/mzaf_11794228139265093719.plus.aac.p.m4a"
+    },
+    {
+      "n": 40,
+      "title": "Just a Gigolo / I Ain't Got Nobody (And Nobody Cares for Me)",
+      "duration_ms": 282360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/3c/26/273c2674-dc05-b824-6a12-817615ce6eaa/mzaf_3802772938308232558.plus.aac.p.m4a"
+    }
+  ]
+}
