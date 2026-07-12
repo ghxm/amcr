@@ -1,0 +1,17 @@
+{
+  "id": "1536369641",
+  "artist": "C. Tangana, Niño de Elche & La Húngara",
+  "album": "Tú Me Dejaste De Querer - Single",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/t%C3%BA-me-dejaste-de-querer-single/1536369641",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/39/1c/4a391ca4-1cef-1f88-8287-aae2bcb8b85e/886448830405.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "958f84",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tú Me Dejaste De Querer",
+      "duration_ms": 198500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/7f/1f/827f1f12-91de-8b7b-4332-1e3d2f84f9ed/mzaf_9579174731942671902.plus.aac.p.m4a"
+    }
+  ]
+}
