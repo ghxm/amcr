@@ -1,0 +1,155 @@
+{
+  "id": "1449982632",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "90s Hip Hop",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/90s-hip-hop/1449982632",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/12/bd/e712bdd8-fc6e-3428-22b2-db6f5ce0bc8c/842474186978.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "020202",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Shimmy Shimmy Ya",
+      "duration_ms": 160666,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/f5/a7/faf5a7de-57ec-7f41-6d19-43ad58cabd75/mzaf_16250623362630672097.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Mistadobalina",
+      "duration_ms": 257333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/86/9f/b2/869fb213-929e-c023-cc27-581b090b56a1/mzaf_4041179395629689613.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Feel So Good",
+      "duration_ms": 203867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/6a/ef/f16aef4c-7075-8958-015f-d5657664bbbf/mzaf_4620403699131121206.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Real Hip-Hop (Pete Rock Remix)",
+      "duration_ms": 256920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/5b/86/ba5b8616-cb76-3180-fd31-e6bcbcc13602/mzaf_11799636162625023740.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Just a Friend",
+      "duration_ms": 238267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/bb/d9/4bbbd949-f9fd-2e50-9eab-da30323a0eab/mzaf_12631438099763261103.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Put Your Hands Where My Eyes Could See",
+      "duration_ms": 195427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/5d/b9/e95db9e3-7f5c-18c5-f472-66232db137cb/mzaf_12080812599597134470.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Crush On You",
+      "duration_ms": 275573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ec/63/bd/ec63bde3-b94a-3251-5f78-888a1f0a4e88/mzaf_2273508468464519531.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Cause I Can Do It Right",
+      "duration_ms": 249507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/25/99/e225991e-4f1e-133c-6b00-6f43dbf56047/mzaf_10306475973999636431.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Cold Rock a Party",
+      "duration_ms": 247307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/ec/5b/07ec5b33-f29c-667f-74e3-5d465ea70aac/mzaf_4657324609043083149.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Flava In Ya Ear (Club Mix)",
+      "duration_ms": 222773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/15/3e/74/153e7444-dfd0-a2d3-0788-570878678411/mzaf_15924208692476463148.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Get Money",
+      "duration_ms": 274938,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/e4/30/95e4305d-67fe-b8cb-9201-671fe57ba60c/mzaf_10721111255350605093.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "They Reminisce Over You",
+      "duration_ms": 286960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/15/3b/45/153b45a3-5396-c98c-e148-bf60b029af70/mzaf_2434935873497309804.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "C'mon Wit Da Git Down",
+      "duration_ms": 244307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/b2/05/cdb20529-f1e9-ec55-b16c-08b859e5d3c0/mzaf_2877470221352236325.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "New Jack Hustler (Nino's Theme)",
+      "duration_ms": 285053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/d2/f9/efd2f9c6-bf16-49d5-b445-638f30add538/mzaf_248859324877318358.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Back In the Day (Remix)",
+      "duration_ms": 303373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/1c/7e/df1c7eac-e895-5202-c063-a5804bfb9f81/mzaf_39393187363945116.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Adrenaline Rush",
+      "duration_ms": 223467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/8d/99/2d8d99d1-2ee1-e202-dac7-7f5893fd424e/mzaf_5808804856677211450.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "C'mon 'N' Ride It (The Train)",
+      "duration_ms": 451440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/9b/93/0f9b9379-f295-577a-85fb-1e6209532fc7/mzaf_15979822765042945812.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "The Nod Factor",
+      "duration_ms": 238107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/c6/85/42c685c9-4e0b-69e4-24c9-eece6bff74ac/mzaf_7821191192623444391.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Brooklyn Zoo",
+      "duration_ms": 217507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/9e/a0/909ea0bc-7b47-9622-e28c-5a3633cd791e/mzaf_15612165793633617458.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Stompin' to the 90'S",
+      "duration_ms": 247627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/68/b6/6c68b6c9-61b9-4640-fbcd-7b7a88a10fcd/mzaf_12255477791745452951.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Woof Woof",
+      "duration_ms": 271933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/43/fa/7943fa3e-33f1-aaa3-b0cd-f87a4f391a8e/mzaf_5596951781153988889.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Woo Hah!! Got You All In Check",
+      "duration_ms": 271973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/a6/6f/27a66f7a-7462-c905-cfea-21c2de02323d/mzaf_14466657253267263310.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Money",
+      "duration_ms": 334573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/df/56/1bdf56c1-1ddf-13e5-c342-a446657f88f1/mzaf_5030366496699557818.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Tequila",
+      "duration_ms": 243800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/68/eb/2c/68eb2cc4-cacb-5233-ca76-177c68533a1d/mzaf_2134775764881001535.plus.aac.p.m4a"
+    }
+  ]
+}
