@@ -1,0 +1,143 @@
+{
+  "id": "1177127841",
+  "artist": "Roberto Musci",
+  "album": "Tower of Silence",
+  "year": 2016,
+  "apple_music_url": "https://music.apple.com/de/album/tower-of-silence/1177127841",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/e9/a7/9ae9a7ff-2d1b-81cc-7adf-26402da0ef88/0670579630474_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "bfb4ae",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Improbably Musica",
+      "duration_ms": 172783,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/d8/af/e3d8af2c-d2da-5052-d056-f2a5c20f0bfd/mzaf_3798886878801429515.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Nexus On the Beach",
+      "duration_ms": 369766,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/50/d9/bb50d9e5-7add-32ca-0927-67c72f75c82b/mzaf_18059353610466866596.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Water Music",
+      "duration_ms": 122837,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/c3/cf/9ac3cf97-90da-f043-93fd-00e257031827/mzaf_15957345420381107080.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Woman of Water and Music",
+      "duration_ms": 318629,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/01/e6/37/01e637cf-0730-bc80-47e3-cb2903b64baa/mzaf_7948285927038613661.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Lullabies... Mother Sings... Father Plays...",
+      "duration_ms": 209458,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/92/a1/3092a1c1-ab1d-2e7d-e5cb-230d045902f5/mzaf_10589483777476451598.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Rack railway To",
+      "duration_ms": 227740,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/97/f2/be97f26b-1e76-f94e-e499-ae36bfb3e9ba/mzaf_15170522935497991893.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Tamatave",
+      "duration_ms": 258094,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/7d/a2/827da267-cd37-775d-0892-794142e390de/mzaf_16866443889445056986.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Semar",
+      "duration_ms": 325927,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/e3/96/c4e396ee-8063-7148-f25b-26e2e86e299f/mzaf_5542611339804386783.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Tower of Silence",
+      "duration_ms": 131723,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/78/e3/0978e364-d709-7577-db1c-d841d7609e4c/mzaf_11610637587167166741.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Claudia, Wilhelm R and Me",
+      "duration_ms": 177255,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/6d/86/5f6d869f-1bad-d300-4250-736337db33d3/mzaf_631997040220490566.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Voices of the Ancient",
+      "duration_ms": 128619,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/92/34/00923490-31e0-6106-af43-ca7e4942b088/mzaf_16238110953790615531.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Blue Garden",
+      "duration_ms": 276561,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/d1/81/1cd1814d-0975-8af6-2ee2-b67492a4f459/mzaf_11649115127408697992.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "When a Dolphin Saves a Baby",
+      "duration_ms": 209895,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/f8/fa/fff8fa9a-f600-e310-e885-bfa2cb1d8d7c/mzaf_12280741448292902205.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Katak Dance For H Partch",
+      "duration_ms": 163563,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/15/57/02/1557028f-fc6a-88f2-0bea-6c749083de47/mzaf_7380202077133861847.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Night Music",
+      "duration_ms": 259168,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a5/8f/42/a58f423b-ca2f-3af4-1a09-8f869e11dc9c/mzaf_10005325170636150991.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "The Way of Discreet Zen",
+      "duration_ms": 210775,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/60/a9/dc60a944-6d8b-9be5-d519-21e9fc694c39/mzaf_1391202214635069987.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Ghost Train",
+      "duration_ms": 183629,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3c/d7/a7/3cd7a7a2-a4c6-ff1d-702d-1338b6622e4c/mzaf_8927410608452045424.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Kioko's Deck",
+      "duration_ms": 354716,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b4/e5/d9/b4e5d938-54f8-a955-41a3-5e13d9cbd469/mzaf_10295714518220509582.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Shadow Player",
+      "duration_ms": 222963,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/ba/8b/83ba8b86-9bb7-4697-53bb-a4098d2c250f/mzaf_1775832518338876843.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "The Ups and Downs of Chewing Gum",
+      "duration_ms": 232000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/41/bf/4441bf5c-160d-bc4a-586a-08206fe949df/mzaf_8050140401822439457.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "A Tale For C",
+      "duration_ms": 208200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/46/f6/6946f694-a69c-fe24-05cb-31134fe8c43f/mzaf_739395244913169149.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Lidia After the Snow",
+      "duration_ms": 142530,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/33/46/a6334628-e2b9-4e9b-73c6-56c2a846e66c/mzaf_2685128257099113642.plus.aac.p.m4a"
+    }
+  ]
+}
