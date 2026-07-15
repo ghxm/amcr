@@ -1,0 +1,47 @@
+{
+  "id": "300932911",
+  "artist": "Jorge Reyes & Suso Saiz",
+  "album": "Cronica de Castas",
+  "year": 1990,
+  "apple_music_url": "https://music.apple.com/de/album/cronica-de-castas/300932911",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2e/9f/92/2e9f9254-458b-e45b-5c93-acb5a894f547/dj.zhusdpls.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "d9d5d4",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tente en el Aire",
+      "duration_ms": 975133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/8c/54/6e/8c546ec8-6c16-8174-0d3e-12d2be9eb3a7/mzaf_3822987711401664190.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Puchuela de Negro",
+      "duration_ms": 149467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/bd/31/0a/bd310acf-bdbb-50c4-cf30-31873c5c077c/mzaf_7122336817346564151.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Saltatras Cuarteron",
+      "duration_ms": 251493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/dd/d0/feddd029-4179-0ae4-c680-3eb4f45aeaac/mzaf_12531372639716822228.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "No Te Entiendo",
+      "duration_ms": 485373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/8e/78/9d/8e789d66-181c-a35b-34ba-f31222fd50d7/mzaf_6774136424421998383.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Ahí O Hay Te Estas",
+      "duration_ms": 147933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/b4/53/24/b453240c-e8eb-4b6c-3005-12b9110ad729/mzaf_3059078917518260489.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Lunajero",
+      "duration_ms": 218133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/6a/0f/ff/6a0fff63-334e-d994-870b-f10de9577ee7/mzaf_3363028569232590622.plus.aac.p.m4a"
+    }
+  ]
+}
