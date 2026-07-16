@@ -1,0 +1,83 @@
+{
+  "id": "1624653951",
+  "artist": "Gaddafi Gals",
+  "album": "Romeo Must Die",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/romeo-must-die/1624653951",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0e/09/1e/0e091e0a-9367-b18a-8d35-261dd0676f39/196626639691.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "030c0a",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Loop",
+      "duration_ms": 229722,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/16/01/28/16012838-5e9a-b6ee-b2ce-685067073a6e/mzaf_13774850138646132635.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Romeo Must Die",
+      "duration_ms": 193125,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fe/ce/19/fece19c9-4602-7eda-8a60-2b3459022a43/mzaf_15263921444709634506.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Bye Bye",
+      "duration_ms": 223615,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/78/54/cc/7854cc01-4e46-ce30-7013-be048f4d7e07/mzaf_809686671153167503.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Late Nite Drive",
+      "duration_ms": 226332,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4c/0a/1c/4c0a1cdf-e301-7dbf-1bc7-8d229ebef1d5/mzaf_17803866330567963063.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Slow Down",
+      "duration_ms": 192187,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c7/61/f3/c761f37e-f1d5-da65-87e4-d41320841adb/mzaf_18289423743339302574.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Knockdown",
+      "duration_ms": 183180,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d5/50/1e/d5501ef8-67f8-2d32-7232-f7cdea991b08/mzaf_370870783057543049.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Rendezvous",
+      "duration_ms": 227301,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1a/54/0f/1a540f4a-1202-964e-a06a-a296af93d88c/mzaf_5901783057362311814.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Numb",
+      "duration_ms": 193880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/17/aa/ff/17aaff18-86f1-95cd-64c9-377c74448cd0/mzaf_16053591282180428474.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Tearz",
+      "duration_ms": 186761,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/2f/66/de/2f66de2a-53dc-9a27-2a12-af8c4c8ddf0e/mzaf_7758862842774171000.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Chainsaw",
+      "duration_ms": 216716,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8d/55/aa/8d55aaa9-f12e-9a95-7cb0-ca785b161622/mzaf_5738133156621816783.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Mdlfgrs (Like That)",
+      "duration_ms": 148208,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/25/af/e9/25afe930-ba63-8e8c-9829-3e0166b3f32f/mzaf_17116111933249332850.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "21k",
+      "duration_ms": 193259,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a3/22/a5/a322a525-f1aa-a917-adb9-3fd94efceff5/mzaf_17292034860545741491.plus.aac.p.m4a"
+    }
+  ]
+}
