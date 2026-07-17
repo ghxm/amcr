@@ -1,0 +1,95 @@
+{
+  "id": "1597923236",
+  "artist": "Ali Whales & Smog",
+  "album": "AWN",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/awn/1597923236",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/ab/ba/91abba5a-f5fd-c970-9ab0-b815dd532acf/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Als wärs Nothing",
+      "duration_ms": 63237,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/59/fe/f4/59fef4ef-43da-6fce-1742-c64e32cff745/mzaf_11209806636363667437.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Nehmen und Geben",
+      "duration_ms": 190729,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/34/74/1c/34741cba-83f5-16a6-6f0c-3fe0d80c2a6f/mzaf_13436022844013088445.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Allein (feat. Doubtboy)",
+      "duration_ms": 187461,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/18/47/39/1847399d-b019-0f76-0198-cfb94be2b286/mzaf_13782908036730852360.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Flaschenpost",
+      "duration_ms": 209998,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/10/12/42101266-9d57-0236-0833-863b080554f1/mzaf_1223848756857013031.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Discoskit",
+      "duration_ms": 32000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/09/a6/20/09a620a4-e344-7378-6c19-cc042389623e/mzaf_6105347497205052006.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Wo bist Du",
+      "duration_ms": 204240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c9/5a/d7/c95ad73a-6d01-d42d-4042-c245a305a5bf/mzaf_11590326718111815091.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Schattenlied (feat. Young Meyerlack)",
+      "duration_ms": 164565,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a9/6c/a4/a96ca4e2-9829-c25f-afa5-47fab32263e3/mzaf_4502121964626022232.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Für immer",
+      "duration_ms": 118588,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8a/8d/e1/8a8de175-cb45-20c1-f205-dce31eb270a7/mzaf_1224934582696190169.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Ih Kuh (feat. Fubu)",
+      "duration_ms": 167441,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ac/bc/e3/acbce33d-ae50-9b54-d10c-26278337f563/mzaf_17622890035866003275.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Magnesium (feat. Nepumuk)",
+      "duration_ms": 170667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/77/4c/b5774cc0-44bb-4920-691c-eb993d79afa2/mzaf_17791970859609496005.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "O(h)ne Love",
+      "duration_ms": 144000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/48/35/37/4835373c-481b-dab0-bf26-f4f633183d5e/mzaf_4003068597670332000.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Spiegelreflex (feat. Indius F)",
+      "duration_ms": 172313,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d8/1b/d4/d81bd4a6-0d69-eaf5-c253-cd956866a4b8/mzaf_2219697294283000058.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "3 x gesagt (feat. Tightill)",
+      "duration_ms": 147692,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e6/bc/cf/e6bccff4-54d9-6143-c0ba-54d28025c10a/mzaf_4527604956863935059.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Alles wird nichts",
+      "duration_ms": 127224,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fd/74/28/fd74282a-79fb-e570-0016-97504efeec3a/mzaf_9508932039758320490.plus.aac.p.m4a"
+    }
+  ]
+}
