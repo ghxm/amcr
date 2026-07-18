@@ -1,0 +1,83 @@
+{
+  "id": "1728441952",
+  "artist": "Ludwig Wandinger, Kirke Karja & ETIENNE RENARD",
+  "album": "Caught in My Own Trap",
+  "year": 2024,
+  "apple_music_url": "https://music.apple.com/de/album/caught-in-my-own-trap/1728441952",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/96/ef/5796ef1d-75dd-a67e-0057-ba6af03dc38a/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "00060d",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Take My Tender Heart",
+      "duration_ms": 316947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/04/4b/d5/044bd5a5-5c8b-0338-f521-7aab694738a1/mzaf_10841639522468744991.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Sweat",
+      "duration_ms": 320333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0e/bc/29/0ebc29d5-0f2d-e0f1-8d6d-6b99d5ff75cb/mzaf_2575404925407239975.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Seiklus",
+      "duration_ms": 212013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/36/cf/dc/36cfdce4-85cf-f5c3-2250-212a47a54361/mzaf_18354289956181202372.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Foam",
+      "duration_ms": 415293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/23/65/7823655c-5f04-1a38-c867-9fa0112f882a/mzaf_5770381653265360997.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Soda",
+      "duration_ms": 143773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/26/aa/91/26aa91fa-6440-431e-068b-6b09a5aac0a0/mzaf_5973570686142921992.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Margaret",
+      "duration_ms": 331933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c6/5e/19/c65e19c3-2601-558f-b7ec-a6e9ffdbf4ae/mzaf_10910971172107961482.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Piano Interlude",
+      "duration_ms": 260827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ac/4c/88/ac4c8844-906c-d8d1-240a-6909ac340d54/mzaf_9820929046955701294.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Prelude",
+      "duration_ms": 462987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6e/4c/de/6e4cdeba-4942-4899-71b7-713a06f22c41/mzaf_6701244972960900119.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "First Last Dance",
+      "duration_ms": 202413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/73/2d/7d/732d7d08-f2a7-51b9-c5c4-35b962ee3ba4/mzaf_12285970087590759813.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Double Bass Interlude",
+      "duration_ms": 279080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/57/24/22/572422ae-9924-2bb6-e86d-a19e065bcc2f/mzaf_15954095076132257856.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Pollock",
+      "duration_ms": 124467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f0/da/69/f0da6957-7567-2cde-08a8-112d0f892ee8/mzaf_15692289488339950119.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Runder Sadness",
+      "duration_ms": 233280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3b/2b/ec/3b2becb6-0b5a-a8d7-df62-c79adb81cb50/mzaf_7800637687738421264.plus.aac.p.m4a"
+    }
+  ]
+}
