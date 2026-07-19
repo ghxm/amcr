@@ -1,0 +1,83 @@
+{
+  "id": "1465725380",
+  "artist": "Echo Collective",
+  "album": "Jóhannsson: 12 Conversations with Thilo Heinzmann",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/j%C3%B3hannsson-12-conversations-with-thilo-heinzmann/1465725380",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/fd/83/0efd833d-5c29-796f-4e18-d75921df6cb8/19UMGIM19211.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e9eaea",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Manifest",
+      "duration_ms": 371240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/04/7f/a3047fd0-f97d-8d75-a9da-d95732558605/mzaf_10407405481777013184.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Low",
+      "duration_ms": 326984,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/1b/88/551b88c8-15ee-9775-d895-a34100cc15ce/mzaf_17422479243266349321.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Stuk",
+      "duration_ms": 146630,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/49/2c/07492cbe-7cd8-754a-7df4-38699bf06794/mzaf_1523655676940207651.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Shell",
+      "duration_ms": 152813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/2f/b2/1f2fb2d7-399e-be5e-cb32-26798beaa34a/mzaf_5693055338301826162.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Zurich",
+      "duration_ms": 126226,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/22/fd/7022fdb2-f6eb-a01c-0b3e-16be42d1a97e/mzaf_16610333789378685738.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Harm",
+      "duration_ms": 202009,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/87/ce/8887ce97-dede-07a4-3284-ac6159a0a1b5/mzaf_4054440909750636730.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Lacrimosa",
+      "duration_ms": 245205,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/74/58/f47458e7-87f9-1440-b1c8-1b9c3735b4a3/mzaf_3820658842646699444.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Pol",
+      "duration_ms": 273553,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/64/64/336464fd-2e53-67e6-bcb4-4992fff36038/mzaf_10156388115270182812.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Form",
+      "duration_ms": 165820,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/85/7f/3f857f2a-e820-2058-6304-3e1810f7b79e/mzaf_16210150841575095213.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Arc",
+      "duration_ms": 121133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/ca/08/09ca08c4-316b-cffe-7224-da1b63c17a98/mzaf_13954967023725405834.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Danse",
+      "duration_ms": 158150,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/08/8a/21088a6f-72ed-21b9-8e75-b75d9cb12789/mzaf_10953837162448260401.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Gold",
+      "duration_ms": 192582,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/50/5c/6b505cf2-a0a3-87b5-84c0-ad807f6aacff/mzaf_3493570812551733226.plus.aac.p.m4a"
+    }
+  ]
+}
