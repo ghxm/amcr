@@ -1,0 +1,23 @@
+{
+  "id": "1107864932",
+  "artist": "Klaus Schulze",
+  "album": "The Dark Side of the Moog (feat. Pete Namlook) [Live Jazzfestival Hamburg 23.04.1999]",
+  "year": 2016,
+  "apple_music_url": "https://music.apple.com/de/album/the-dark-side-of-the-moog-feat-pete/1107864932",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/38/f1/08/38f108ec-c0ee-b411-fb6c-e25c0b1f94b2/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "111010",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Hamburg, Pt. 1 (feat. Pete Namlook) [Live]",
+      "duration_ms": 1544373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/0e/85/fb0e8500-fcd1-dfe5-953a-aa190bb793a6/mzaf_8647739967277675275.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Hamburg, Pt. 2 (feat. Pete Namlook) [Live]",
+      "duration_ms": 0,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/e0/bb/f9e0bbd8-0df9-a374-96e1-588838090c51/mzaf_17065667791664926214.plus.aac.p.m4a"
+    }
+  ]
+}
