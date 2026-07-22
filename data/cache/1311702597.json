@@ -1,0 +1,83 @@
+{
+  "id": "1311702597",
+  "artist": "David Thomas Broughton",
+  "album": "Crippling Lack",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/crippling-lack/1311702597",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/07/44/1d/07441d4d-d94c-b1fb-b53a-c8d7aa394fc6/37701.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b59444",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Crippling Lack, Pt. 1",
+      "duration_ms": 245739,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/e2/9e/00e29e09-f7a1-3b58-dcf8-45fb52eac387/mzaf_1272763217448314878.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Beast",
+      "duration_ms": 349321,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/7a/ae/857aae9f-b96d-89fd-844d-f7a52059265d/mzaf_11464233643130171521.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Words of Art",
+      "duration_ms": 439645,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/1e/51/f31e51f7-d0a2-0806-69c6-816098ade0d0/mzaf_9330131208090794000.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Silent Arrow",
+      "duration_ms": 559323,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/a0/fe/bca0fe45-c241-7b6c-0f32-b6a1ea78b399/mzaf_13305553639024804309.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Dots",
+      "duration_ms": 562824,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4b/bf/00/4bbf00de-2cbd-5c74-3830-0f15edc13222/mzaf_4288456408232060190.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "River",
+      "duration_ms": 232130,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/cb/5a/c2/cb5ac2ef-b0b2-4061-3c15-5e92066c41f9/mzaf_849429173673230474.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Concrete Statement",
+      "duration_ms": 814573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/16/de/75/16de7563-aa6c-b8cc-9053-38320dfc8bfd/mzaf_4840166509736891769.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "I Close My Eyes",
+      "duration_ms": 977679,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7a/54/25/7a5425d8-1ae6-a0fd-b704-41a3bf06d2a5/mzaf_6657526713926683021.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Crippling Lack, Pt. 2",
+      "duration_ms": 575807,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/b2/11/0fb21102-0b03-343a-cd6c-1fb7d85607df/mzaf_17583305138530055093.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Gulf",
+      "duration_ms": 339603,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/cc/b9/33/ccb93361-264a-06a8-4b7e-0821f81031d3/mzaf_1866989769114576539.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Beast Without You",
+      "duration_ms": 394395,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/38/d0/fe/38d0fe8e-1ef0-468f-be83-dcb9ec713c14/mzaf_8448956950927876513.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Plunge of the Dagger",
+      "duration_ms": 572907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e6/be/8f/e6be8f4f-a84f-9d1e-d705-ad8a487fc19d/mzaf_1435062617401255909.plus.aac.p.m4a"
+    }
+  ]
+}
