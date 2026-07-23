@@ -1,0 +1,71 @@
+{
+  "id": "1555866148",
+  "artist": "MikeOnaBeat",
+  "album": "MikeTheProducer Classics 2014 & 2015 Tribute",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/miketheproducer-classics-2014-2015-tribute/1555866148",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/de/f4/7ddef4f1-24b3-270c-24d6-e6b15a487a91/artwork.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "a99eb3",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tag Team Original (feat. DJ Telly Tellz)",
+      "duration_ms": 102896,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/31/fc/40/31fc4055-8513-7c6a-7d71-7e4a7952202a/mzaf_15828883531121776334.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Back It Up",
+      "duration_ms": 54987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/16/6b/37/166b3725-9b05-ee11-d607-d006e50b5f9b/mzaf_16164822261176614685.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "He Said I Got That Bomb",
+      "duration_ms": 68598,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/ec/34/56/ec3456f5-cf82-aba0-1ac7-aa2369abeed6/mzaf_13224411091484491867.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Freeze (feat. Miquel)",
+      "duration_ms": 110491,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b1/d6/4c/b1d64cb0-f19d-a6e9-35e8-f09660d688ee/mzaf_9440851920144905781.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Down Tanging Cypher DollarBoyz",
+      "duration_ms": 84428,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/9f/7e/74/9f7e74a8-1217-b43b-efe3-d16ab29bff66/mzaf_12056657492209693743.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Dive In 2k14",
+      "duration_ms": 89182,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c3/d4/88/c3d4886c-42d1-27f2-7ebc-7e28aaf00bb2/mzaf_413429783687071526.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Go off Tanging Cypher Dollarboyz",
+      "duration_ms": 62302,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/4f/bc/5d/4fbc5d9d-c031-2c30-d3ef-c47a690bd69c/mzaf_3113585990095391559.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Sexy Can I",
+      "duration_ms": 70113,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/33/5a/a9/335aa915-5fe5-23b2-0084-a7cfa2a093dc/mzaf_15770018119275608687.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Make It Drop (feat. DJBP609)",
+      "duration_ms": 71027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b7/df/a9/b7dfa93a-fb84-9284-3dd8-945400e61c45/mzaf_13889653124563768926.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Change Positions Miami Slide (feat. Miquel)",
+      "duration_ms": 126903,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/ed/ee/ac/edeeac5c-13d4-cc99-baa5-55bc6ad1987e/mzaf_9573659396028691911.plus.aac.p.m4a"
+    }
+  ]
+}
