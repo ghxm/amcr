@@ -1,0 +1,71 @@
+{
+  "id": "1855667518",
+  "artist": "Shane Parish",
+  "album": "Autechre Guitar",
+  "year": 2026,
+  "apple_music_url": "https://music.apple.com/de/album/autechre-guitar/1855667518",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/18/c9/9b18c9b4-ff6e-6e43-b844-b5d897c19032/195269398583.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e1e1e1",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Maetl",
+      "duration_ms": 130799,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/e1/ad/cee1ad21-c109-fd12-7320-0b8312a6e203/mzaf_8453218363850508135.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Eggshell",
+      "duration_ms": 314968,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/27/3f/d3273f1e-8bec-a46b-603b-bbc5d1725af0/mzaf_4962896233547296064.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Eutow",
+      "duration_ms": 311602,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/10/df/1310dfca-4c72-1bf4-8ce0-ea5906bcdbf2/mzaf_8309170288610244087.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Slip",
+      "duration_ms": 291631,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/82/b6/1c82b638-5299-b2a9-5900-7a32e991983f/mzaf_14104859984400074695.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Bike",
+      "duration_ms": 387132,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/04/bb/fd04bbd4-b591-1289-670b-5ca910466cc7/mzaf_4375283588657255337.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Nine",
+      "duration_ms": 283306,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/a7/5d/16a75d3f-8e4c-dacc-2f3e-0ab4f3c879b2/mzaf_11660220827348078836.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Yulquen",
+      "duration_ms": 375789,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/56/17/925617c2-c542-f3ee-f3fa-75eaaa2b837c/mzaf_482378030842730124.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Lowride",
+      "duration_ms": 364970,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/11/e4/2111e48e-6f36-1465-488b-00f07b0a5ac9/mzaf_1831899964785741913.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Corc",
+      "duration_ms": 394283,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/cd/04/41cd04d2-a572-e6a5-5448-76b379a60375/mzaf_5918540381825535960.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Clipper",
+      "duration_ms": 247960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/58/a8/9758a844-7b8c-b858-01b8-256516c9150b/mzaf_5500249196748843642.plus.aac.p.m4a"
+    }
+  ]
+}
