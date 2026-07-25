@@ -1,0 +1,83 @@
+{
+  "id": "1482642739",
+  "artist": "SSIEGE",
+  "album": "Fading Summer",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/fading-summer/1482642739",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/4a/19/3a4a19f9-dbb2-4e4e-4f18-0d0c6dcd1186/8718723132640.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "7e4930",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Turbe In Sviluppo",
+      "duration_ms": 176458,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/08/df/3f08df6d-820e-9574-3bb3-9b152fb68538/mzaf_17343519392829734219.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "A Man",
+      "duration_ms": 158250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d1/f5/8e/d1f58efd-6ecf-c94d-f3c6-c029180dba07/mzaf_10003445945855385976.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Angelo Azzurro",
+      "duration_ms": 215750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/b5/99/c4b5990d-bdf8-6b94-3e0f-e37b84672660/mzaf_7289662285242841785.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Biscotti 180",
+      "duration_ms": 154000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/f2/a8/8df2a868-4ce4-064c-afb1-6d929f737a00/mzaf_18049550600599601844.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Regina",
+      "duration_ms": 205000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/54/05/26/540526c0-6b95-cf62-55e4-2cbfdd499f3a/mzaf_15139648482005921363.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Boxe",
+      "duration_ms": 163625,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/00/8d/4d008d93-3f67-bc3d-a8bc-31138796991e/mzaf_11002355049055813917.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Chromatic",
+      "duration_ms": 272875,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/94/79/099479a9-d70a-718f-c81c-f7cd07ccb37f/mzaf_14780580707186224357.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Delete Instagram",
+      "duration_ms": 208000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/13/e4/7713e446-c3e8-186c-6e9a-04ed4db5a415/mzaf_8114252996746999182.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Swan",
+      "duration_ms": 268250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/d1/61/3ad161d5-de24-8d83-be67-2d6f3125eb37/mzaf_5036885308160172456.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Paradise Channel",
+      "duration_ms": 207500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/34/2e/eb342e4c-922c-ec87-3a0f-4947d5a2969a/mzaf_16062293414784809989.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Novo Eden",
+      "duration_ms": 269750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/c2/c0/b1c2c0e0-769e-1f7a-8426-dcfe90a7fbf5/mzaf_5721857974972128633.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Blind",
+      "duration_ms": 219229,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/6b/65/406b65f3-262f-0d44-de44-66717afd8767/mzaf_13858687421794393380.plus.aac.p.m4a"
+    }
+  ]
+}
