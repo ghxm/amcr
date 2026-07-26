@@ -1,0 +1,89 @@
+{
+  "id": "1560653786",
+  "artist": "Erika de Casier",
+  "album": "Sensational",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/sensational/1560653786",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/e2/df/10e2df8f-7bba-1cbd-86aa-2f4a269c399d/191400035478.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "3d2f2f",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Drama",
+      "duration_ms": 228817,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/6d/87/89/6d87892a-c255-bd94-4a7e-d41ad5a976ce/mzaf_11759615817204182448.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Polite",
+      "duration_ms": 204792,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/ae/bd/77/aebd7711-c75d-b13c-eb21-90ed53b31b20/mzaf_11893955574130720382.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Make My Day",
+      "duration_ms": 209125,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c1/95/b6/c195b640-c618-4437-b4cc-6345b8fdbfcd/mzaf_8264953169400076419.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "All You Talk About",
+      "duration_ms": 181435,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/8b/46/97/8b4697c4-4a50-a4c9-cf79-3cdaebfeaa0f/mzaf_7916326956787359783.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Insult Me",
+      "duration_ms": 198906,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/61/21/e3/6121e34b-aee6-ac3a-ee6c-173880c055fb/mzaf_18262551001921941061.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "No Butterflies, No Nothing",
+      "duration_ms": 179802,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/0e/1f/0c/0e1f0cc8-f0ca-5600-90e0-cfb354d37d52/mzaf_8987548653598534387.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Someone to Chill With",
+      "duration_ms": 199705,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/cf/51/52/cf515239-88b4-a77c-61e4-1dc5f82202e1/mzaf_9829639670837736377.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Acceptance (intermezzo)",
+      "duration_ms": 41497,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/91/d3/4b/91d34b9c-d67c-0b20-0f5d-a9e85699e406/mzaf_3952801584632064204.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Better Than That",
+      "duration_ms": 236728,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/39/ad/62/39ad62c6-a6c7-1c49-11b4-3bf7ba751ba0/mzaf_13514611409083724434.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Friendly",
+      "duration_ms": 180561,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e7/f4/bf/e7f4bf14-378f-fcef-6947-d2e7213706c9/mzaf_10472270287847483045.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Secretly",
+      "duration_ms": 184935,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/fe/81/98/fe819843-9f01-368f-ec0c-32675b2cc23e/mzaf_17024170187417633815.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Busy",
+      "duration_ms": 239500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/d3/04/fd/d304fde3-7dba-54b2-c37d-a71af84401cf/mzaf_12246782463509301173.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Call Me Anytime",
+      "duration_ms": 214667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/19/32/63/193263e1-a6d4-c1fa-b0e9-40988d831d88/mzaf_3355473740311938343.plus.aac.p.m4a"
+    }
+  ]
+}
