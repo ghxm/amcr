@@ -1,0 +1,41 @@
+{
+  "id": "1708894739",
+  "artist": "Aidan Baker, Tobias Humble & Ayami Suzuki",
+  "album": "Trio Not Trio - Yonbanme",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/trio-not-trio-yonbanme/1708894739",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/15/4d/25154d34-995c-2e78-3ff6-553da10c3800/4250101463211_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f8c5c5",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Ichibanme",
+      "duration_ms": 557743,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/42/3f/86/423f861c-ea7f-8e78-d456-2ae45f86e9b1/mzaf_16741299014749304202.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Nibanme",
+      "duration_ms": 636906,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9f/fb/23/9ffb23ed-b195-9af7-6912-a85fea13c46d/mzaf_18103371976907914934.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Sanbanme",
+      "duration_ms": 821283,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/56/20/7a/56207afd-f9d7-5c30-dfda-f1f047fc0f8c/mzaf_82888894401375634.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Yonbanme",
+      "duration_ms": 953052,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5f/7d/34/5f7d34ff-1d64-7c73-a4e5-5fc9d7bdd6a3/mzaf_803619946960177837.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Gobanme",
+      "duration_ms": 721137,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/6d/9f/1a6d9fb0-d0e7-aff1-b521-ae00d10294a6/mzaf_7211764293371619203.plus.aac.p.m4a"
+    }
+  ]
+}
