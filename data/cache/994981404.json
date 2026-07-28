@@ -1,0 +1,35 @@
+{
+  "id": "994981404",
+  "artist": "Galcher Lustwerk",
+  "album": "Parlay - EP",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/parlay-ep/994981404",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/2b/a3/de2ba3d9-1cb7-b3e0-6d05-e756f330f176/812388026882.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f8f8f8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Parlay",
+      "duration_ms": 407165,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/cb/7c/83cb7c60-0564-5058-d81f-79c749c7de59/mzaf_16686259952316294826.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Dockside",
+      "duration_ms": 180048,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/a1/db/4aa1db3a-f889-4f13-5ef3-c9efbe9d772c/mzaf_3330003675986700569.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Kaint",
+      "duration_ms": 201915,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/3a/35/d33a35ad-414d-9013-4e7f-6a23aca20077/mzaf_7776106099827428999.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Parlay (Dub)",
+      "duration_ms": 374831,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/7f/ea/0f7feadf-d45d-fad9-2480-ebe24d1a9575/mzaf_9914673587770218980.plus.aac.p.m4a"
+    }
+  ]
+}
