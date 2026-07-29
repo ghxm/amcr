@@ -1,0 +1,107 @@
+{
+  "id": "1435916471",
+  "artist": "JD Twitch",
+  "album": "JD Twitch Presents Kreaturen Der Nacht",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/jd-twitch-presents-kreaturen-der-nacht/1435916471",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/01/6b/49/016b49ce-0dca-75e6-1a41-16dd7f07eeb0/0730003319624_3000.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "797a7e",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Amanita",
+      "duration_ms": 259213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/3b/4a/783b4a98-bde0-9b33-0d4f-ee56d3c63d67/mzaf_10655037037438086967.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Your Turn to Run (I Will Be Your Only One)",
+      "duration_ms": 248253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/8a/9d/f88a9d46-c647-bb41-1b1f-ec13bed47680/mzaf_15773163015451383325.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Zeitzelle",
+      "duration_ms": 215093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/d5/c5/0bd5c5de-6841-d877-6007-c3f80ac505a9/mzaf_14798663922804106183.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Der Karibische Western",
+      "duration_ms": 330427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/a8/6a/8fa86a27-34a3-832d-b6f2-ddc38fbc215e/mzaf_17448279648212386074.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Pingelig",
+      "duration_ms": 180213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e6/4e/cb/e64ecbd7-51b3-e311-a4c1-26f1b62e9f30/mzaf_335691086111543520.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Track 4",
+      "duration_ms": 210187,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/34/89/5b/34895baa-bb06-d0b0-c8c4-4f78b1cf1469/mzaf_8742548667261008272.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Fakten",
+      "duration_ms": 233960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/1b/62/6d1b6290-6c43-f889-71f9-48b6c7b05e23/mzaf_9683772962311221998.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Wunderbar (JD Twitch Edit)",
+      "duration_ms": 372267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/95/53/1c/95531cc2-aa02-2727-9ec3-1319b5a53e37/mzaf_17290017433941914635.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Dub and Die",
+      "duration_ms": 252013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/20/30/fc/2030fc92-36d4-f1b5-6a99-7405eff6b467/mzaf_11497371670847521570.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Up and Above / Up and Above Dub",
+      "duration_ms": 403213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c1/2c/9e/c12c9ed2-5db7-1e02-a11b-54c6391b13a9/mzaf_1525339507782638439.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Öffnen Sie Mal Ihre Tasche",
+      "duration_ms": 151227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f6/99/7c/f6997cba-fd86-9ab2-e264-d55568574b23/mzaf_5646748571093653538.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Scharfer Schnitt (No. 1)",
+      "duration_ms": 153373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/bd/30/c0bd3031-4f0c-9a85-3812-860e0ab8396d/mzaf_14278779867348256923.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Fred Vom Jupiter",
+      "duration_ms": 160467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/cf/8a/b5cf8a50-4e71-b227-1af9-2b8a2037424b/mzaf_13530586608698781714.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Veb Heimat",
+      "duration_ms": 143800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4b/e7/21/4be721eb-67f6-d3ec-2d87-275ce4593a9a/mzaf_2636518972082766947.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Voyager One",
+      "duration_ms": 351667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/86/cc/6a86cc9a-7b41-9c8b-e1a2-4c92b42ad568/mzaf_7389832691665204783.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "An Rah Robeel",
+      "duration_ms": 335960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/51/ea/6f51eac7-9334-ae72-8c1a-f226ca660726/mzaf_14585692809116533753.plus.aac.p.m4a"
+    }
+  ]
+}
