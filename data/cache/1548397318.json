@@ -1,0 +1,35 @@
+{
+  "id": "1548397318",
+  "artist": "Kadodi & Bamba Pana",
+  "album": "Kadodi",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/kadodi/1548397318",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/00/23/f400230b-1849-b0b1-2673-3ed771cc1f93/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "971905",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Recording 1",
+      "duration_ms": 1129281,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/cb/9d/bdcb9d45-c0f1-6e8d-5eda-3c5725e7c890/mzaf_12453574748884754554.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Recording 2",
+      "duration_ms": 233622,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/0c/a8/4f0ca870-eb97-6a05-1eb9-9d83598a89ed/mzaf_3513804982011177363.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Kaad 4",
+      "duration_ms": 571111,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a5/5a/50/a55a5013-115f-8eac-055d-61c6b207bfba/mzaf_6760427214126259528.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Wateranga (Domadana Remix)",
+      "duration_ms": 407526,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/d6/fd/9cd6fd69-dc0d-e3e8-04c1-9771cf41094a/mzaf_8273982380951042689.plus.aac.p.m4a"
+    }
+  ]
+}
