@@ -1,0 +1,47 @@
+{
+  "id": "1456161367",
+  "artist": "Sova Stroj",
+  "album": "Transcend",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/transcend/1456161367",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/1f/ab/341fab36-cd6b-b223-b9e2-c6b11e6c74ce/4251648404088_3000.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e7e7e6",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Euclidean Space Interference",
+      "duration_ms": 708000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/f7/31/12/f73112eb-41e7-959a-b15f-86e43f95f52a/mzaf_1260191906576099385.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Beyond the Filaments",
+      "duration_ms": 407820,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/3f/70/ce/3f70ce69-d90c-de5e-1176-6dbc166db490/mzaf_7411899522125882332.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Sleep Tank I",
+      "duration_ms": 248727,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/da/79/cb/da79cb9b-fb2b-59f9-5cc1-c8d86482d618/mzaf_2061271285109863144.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "The Thinker In the Wall",
+      "duration_ms": 318045,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a2/ba/d7/a2bad762-4ffb-4e8c-91af-81188742298d/mzaf_3951467801988670266.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Sleep Tank II",
+      "duration_ms": 247218,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/82/72/42/827242e0-c175-1adf-c0eb-c67b529097be/mzaf_3822690727509845324.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Towards the Great Attractor",
+      "duration_ms": 522406,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b8/6c/f2/b86cf29b-52f4-28eb-5cfd-22096bf523ae/mzaf_8243570133793140402.plus.aac.p.m4a"
+    }
+  ]
+}
