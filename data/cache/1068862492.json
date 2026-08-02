@@ -1,0 +1,155 @@
+{
+  "id": "1068862492",
+  "artist": "Joint Venture",
+  "album": "Kleinti",
+  "year": 2002,
+  "apple_music_url": "https://music.apple.com/de/album/kleinti/1068862492",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/de/61/e6/de61e646-edc1-74ed-f5d0-fbed40024d95/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "5d3b2f",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Der Esel",
+      "duration_ms": 125267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/ec/6c/58ec6c26-33c4-1449-47d8-a652ef2d1acc/mzaf_16693132760597157338.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Ne Frau die sich mich leisten kann",
+      "duration_ms": 250653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/48/1d/9d/481d9d54-357f-dcb0-3a1c-329544979858/mzaf_6372508517475073931.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "A***h",
+      "duration_ms": 155747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2b/45/f4/2b45f4e3-585d-cf95-65dc-0fc9fa4b30a6/mzaf_6816289874467321538.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Tach, Herr Chef (Live)",
+      "duration_ms": 212000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/55/65/46556530-63b4-9081-5c3f-7bdc4e1a923a/mzaf_10282857874109650025.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Ich brauch Personal",
+      "duration_ms": 228293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/9c/6c/ff/9c6cff5d-b481-d547-cfa0-342904359b82/mzaf_5886031561619889259.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Wilde geile Nächte voller heißem Ying und Yang",
+      "duration_ms": 201467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/8d/d6/d9/8dd6d99d-a410-8055-1159-72580e5e6d98/mzaf_422668819947009635.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Spiegelbild",
+      "duration_ms": 174000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/f2/1e/28/f21e286f-03ad-bf69-f838-25fa9e4b0485/mzaf_2716415861140982740.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Freitag",
+      "duration_ms": 156200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/03/e9/4603e90a-d116-9d37-f511-58f7f4169fca/mzaf_4396836845829136743.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Süffelmann",
+      "duration_ms": 210840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/c4/5d/c9c45dee-7648-4c4e-b119-5e2917885ff0/mzaf_6819455043546503342.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Holland",
+      "duration_ms": 175093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/8a/7c/b18a7c40-99dd-95c0-0293-390eb3eae888/mzaf_10435581932809949956.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Und tschüss",
+      "duration_ms": 209200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/2c/6d/c42c6d9e-c562-32e9-7655-7db22a1cde0e/mzaf_6211881079850802069.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Er muss uns jetzt was singen",
+      "duration_ms": 195307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0d/60/15/0d60157a-f7ba-920e-206c-1c4c73603c9c/mzaf_11404249452431282026.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Mein Leben begann mit einem großen Sieg",
+      "duration_ms": 229827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/0a/e0/1c/0ae01c79-5dae-c812-00f5-8cbe0dbbe200/mzaf_8091889850528254654.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Schenk mir was von deinem Gras",
+      "duration_ms": 215867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/33/da/b6/33dab69a-8d7a-1f4b-cf95-5a1edba6ad80/mzaf_15934318321650728722.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Nicht zur Arbeit",
+      "duration_ms": 225867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/70/b8/09/70b8090f-17b5-3719-25e7-3f8003f1f51e/mzaf_2272592244555875218.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Mit den Augen zu",
+      "duration_ms": 171440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/2b/3e/eb2b3ee2-6516-e34a-330b-5faf86130aa2/mzaf_15630734283565936731.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Wenn ich zu mir ehrlich bin",
+      "duration_ms": 58333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/95/cc/58/95cc584b-8ef0-83ff-6bc1-70ba9f4d5c6b/mzaf_8690643356594660383.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Trink, Bruder, trink",
+      "duration_ms": 210627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/e0/2f/db/e02fdb20-823f-c9fc-e454-ff3872aea646/mzaf_5948080379268023710.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Blau und blau",
+      "duration_ms": 102373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/e6/7a/80e67a4b-7fe6-978f-30ca-4840a9173aea/mzaf_3143749589402168240.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Wir werden es bereuen, wenn die Jahre dann verwehn",
+      "duration_ms": 327267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/2f/70/62/2f70622f-56e2-ff65-420b-35f8d25c6271/mzaf_609139282096990007.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Älter als Kurt Cobain",
+      "duration_ms": 176867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/a6/da/0fa6daa5-acaf-4cbd-80cd-a72967ac9d5d/mzaf_16827161144196533308.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Tiefes Leiden",
+      "duration_ms": 187560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/fc/10/e2/fc10e25d-7996-4506-b357-c298be24e0b8/mzaf_8086099702406115373.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Orient-Express",
+      "duration_ms": 231773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/6d/8b/9b/6d8b9be7-6f4f-9437-e346-92c3495f3251/mzaf_9143033912874017387.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Schnuckitraum",
+      "duration_ms": 184493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/a2/f5/4d/a2f54de0-cda0-0329-f16e-4296bd006f26/mzaf_3547322645546084556.plus.aac.p.m4a"
+    }
+  ]
+}
