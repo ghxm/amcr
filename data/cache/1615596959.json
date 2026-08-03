@@ -1,0 +1,65 @@
+{
+  "id": "1615596959",
+  "artist": "Bladee",
+  "album": "Exeter",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/exeter/1615596959",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/1d/77/841d770b-f1ab-6086-1b55-5e3dc4ad0ce1/5054526644649.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fdfefe",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "MIRROR (HYMN) [INTRO]",
+      "duration_ms": 100797,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8b/09/19/8b091900-8ba5-c91a-6bb6-24c0ddf99023/mzaf_5442327776363290879.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "WONDERLAND (feat. Ecco2k)",
+      "duration_ms": 125313,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/56/01/b4/5601b407-8af9-0228-4fc5-9ce3a9d117d8/mzaf_18257257469704257988.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "MERRY-GO-ROUND",
+      "duration_ms": 124000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ad/81/c7/ad81c7f0-c31e-08b9-d7a6-f0dec1f58bb5/mzaf_15580230071523243318.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "RAIN3OW STAR (LOVE IS ALL)",
+      "duration_ms": 134127,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/21/5b/c4/215bc418-0c0d-6fc9-9449-a91d50e26027/mzaf_4338669172242860434.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "EVERY MOMENT SPECIAL",
+      "duration_ms": 123120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/63/8f/b2/638fb224-0370-31d0-b185-6b91d534c7ed/mzaf_124355234446993726.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "DNA RAIN",
+      "duration_ms": 107182,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2d/64/a1/2d64a1d4-fc2f-63ea-be3b-da386e6b2d78/mzaf_15291056841698451249.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "OPEN SYMBOLS (PLAY) BE IN YOUR MIND",
+      "duration_ms": 127781,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4d/80/99/4d80996a-ece5-a7d9-9526-0e21766e7ecd/mzaf_1805143902670758151.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "LOVESTORY (feat. Ecco2k)",
+      "duration_ms": 135417,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/93/5e/4f/935e4f2f-00d2-1ad6-4aba-1a13174bc2e0/mzaf_17409358106390562904.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "IMAGINARY",
+      "duration_ms": 126214,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a0/e5/f3/a0e5f375-38a2-f918-20df-3dfdb72c2d4c/mzaf_2225212366117378788.plus.aac.p.m4a"
+    }
+  ]
+}
