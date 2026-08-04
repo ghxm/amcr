@@ -1,0 +1,77 @@
+{
+  "id": "1444023621",
+  "artist": "Ernest Ranglin",
+  "album": "Below the Bassline",
+  "year": 1996,
+  "apple_music_url": "https://music.apple.com/de/album/below-the-bassline/1444023621",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3d/ec/98/3dec98f8-d1e9-1264-bb35-71e3597bdf2e/00731452429926.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b1b378",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Congoman Chant",
+      "duration_ms": 296133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/35/19/66351987-f93d-61ea-e531-0d26cf5582f4/mzaf_9525894647366172361.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Surfin'",
+      "duration_ms": 343600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/b0/0e/98b00e22-0554-f77c-9007-47ad6456072f/mzaf_9213698980402386112.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "King Tubby Meets the Rockers",
+      "duration_ms": 307093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c6/f6/39/c6f63953-b065-b44a-08e0-08e208e811e7/mzaf_6577700679106700893.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Satta Massagana",
+      "duration_ms": 279733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/6a/70/dd6a704f-6b3b-63e5-29f0-8fa524daf5f0/mzaf_8891499519022882157.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "54-46 Was My Number",
+      "duration_ms": 353640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/3e/81/d73e8116-d1de-eeee-d982-2e68dba57edd/mzaf_3581976101603618725.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Ball of Fire",
+      "duration_ms": 367000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/59/03/3f5903b9-e4e2-887b-32ee-b36928c93625/mzaf_8669319735407241290.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Black Disciples",
+      "duration_ms": 366027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/f4/d9/3df4d9c3-602f-e9e0-e884-69573a5fae4f/mzaf_2923480419251812341.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Bourbon Street Skank",
+      "duration_ms": 299573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/05/21/2405215a-17e8-b1d6-365b-9264a4a7674b/mzaf_11198713655647118005.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "None Shall Escape the Judgement",
+      "duration_ms": 192733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/f9/f4/21f9f4d4-274b-b37e-e09a-f420bff25424/mzaf_14360156589812091844.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Nana's Chalk Pipe",
+      "duration_ms": 221440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/36/4b/c3364b54-27d7-75df-8aa1-49fb01c3d093/mzaf_985944891265899785.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Below the Bassline",
+      "duration_ms": 278227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/5b/95/b85b958e-f45c-185b-c350-f51a94b1d5e9/mzaf_13478132101558813452.plus.aac.p.m4a"
+    }
+  ]
+}
