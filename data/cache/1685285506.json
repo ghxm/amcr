@@ -1,0 +1,47 @@
+{
+  "id": "1685285506",
+  "artist": "Malombo Jazz Makers",
+  "album": "Down Lucky's Way",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/down-luckys-way/1685285506",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/37/56/6d375625-9fc4-ccc0-9c2b-276484aeb89b/197188800796.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "8e8e88",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tribute To A Motjuoadi",
+      "duration_ms": 165149,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7a/f5/33/7af533c4-8b1f-c71e-c4ce-c8c1d756ee96/mzaf_17659147474758448710.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Bahula Dithabeng",
+      "duration_ms": 593697,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0f/d6/31/0fd6310e-5017-a687-2452-f3ad9e2ab83f/mzaf_1226972521924076694.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Gae Mamelodi",
+      "duration_ms": 632202,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a1/49/56/a14956e9-aee1-7e77-c9ae-1af2a16c74f2/mzaf_15403226972237532916.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Sefuralong",
+      "duration_ms": 474991,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9d/0c/97/9d0c977b-56dc-7324-a680-89f90758f4ae/mzaf_5686399681718197049.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Matshenyogo",
+      "duration_ms": 290454,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/73/35/ef/7335efc4-b442-7e18-9ee1-40fbcb4c9821/mzaf_14140380328715661139.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Lucky's Way",
+      "duration_ms": 380895,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/86/47/87/86478734-a2c5-c7d4-5fd2-f323022bda2e/mzaf_8487026004196014060.plus.aac.p.m4a"
+    }
+  ]
+}
