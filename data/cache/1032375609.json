@@ -1,0 +1,419 @@
+{
+  "id": "1032375609",
+  "artist": "Albert Ayler",
+  "album": "The Albert Ayler Story",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/the-albert-ayler-story/1032375609",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/e8/e4/74e8e4a9-a870-feed-0de2-eafda6c121c5/ESPDISK4072DI.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "000000",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Albert Ayler Interview: Early Childhood / The Army 1960, Pt. 1",
+      "duration_ms": 439000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/63/fb/50/63fb50d6-8c14-695e-6343-ddb61adb14e4/mzaf_4327472702642363332.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Tenderly",
+      "duration_ms": 270293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/9c/e1/f49ce1dd-c0d4-4968-e426-78914e8e1acb/mzaf_15865429615699391540.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "A. Ayler Interview: The Army 1960, Pt. 2 / Sweden 1962, Pt. 1",
+      "duration_ms": 174693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/69/f4/12/69f4123c-5af4-81fa-e1af-eb04e61b63f0/mzaf_3916166459606448093.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Summertime",
+      "duration_ms": 412467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ce/e9/1e/cee91e04-5343-f235-c854-2f06f0bc0ac6/mzaf_14532999193249946635.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Albert Ayler Interview: Sweden, Pt. 2",
+      "duration_ms": 32720,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/1e/60/2d/1e602df6-a3a9-3dfc-80a8-da86560bde93/mzaf_2898180059612482107.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Sunny Murray Interview: Europe 1962 / Cecil Taylor, Pt. 1",
+      "duration_ms": 212080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/1c/85/26/1c8526fa-5243-ec5f-12c6-1d3e2cdeff18/mzaf_3616399437568459397.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Four: Albert Ayler Solo Section",
+      "duration_ms": 175560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/e2/d1/ac/e2d1acce-901b-2637-0694-8b5a744cee5a/mzaf_676860816072345898.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Sunny Murray Interview: Cecil Taylor, Pt. 2",
+      "duration_ms": 38053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/41/fb/f0/41fbf0cf-3f37-f00c-4102-6e4cc537b352/mzaf_7592311081673848683.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Albert Ayler Interview: Playing with the Candy Greene Band 1962",
+      "duration_ms": 102547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/fd/9f/2a/fd9f2aae-1457-86dd-73f5-cccd6fe94f81/mzaf_6833448656715112671.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Bernard Stollman Interview: The Cellar Café 6-14-64",
+      "duration_ms": 71453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/23/f0/57/23f05711-d719-1702-75d0-307287a48d2e/mzaf_6089719276810926399.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Spirits",
+      "duration_ms": 476960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/a8/1b/e3/a81be32e-a7fd-1382-a842-ff5e99081651/mzaf_6584595850522950194.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Bernard Stollman Interview: Meeting Albert Ayler / Spiritual Unity, Pt. 1",
+      "duration_ms": 210587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/82/88/5b/82885b2a-7794-7a15-445a-c2d9c886a48b/mzaf_4350826945159213640.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Ghosts (First Variation)",
+      "duration_ms": 312400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/58/da/1858da19-d66e-a332-5cdd-13df4c81ca41/mzaf_5176332713932253514.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Bernard Stollman Interview: Spiritual Unity, Pt. 2",
+      "duration_ms": 108213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/7e/99/e5/7e99e54c-2c9e-d977-63d1-4e15d0a83dfe/mzaf_5565445416431065002.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Albert Ayler Interview: After the Spiritual Unity recording",
+      "duration_ms": 68173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/7b/bb/2b/7bbb2bdd-3e36-7527-1dc7-2a58f356de3c/mzaf_7871187529316976288.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Milford Graves Interview: The New Black Music",
+      "duration_ms": 329280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/58/66/6a/58666aa3-fa91-aa41-ca27-5a1b45970660/mzaf_8985326186508901137.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Milford Graves Interview: Bernard Stollman and ESP-Disk'",
+      "duration_ms": 56027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/15/49/d4/1549d488-0c95-acd5-5c94-8952abcbd9e8/mzaf_9126663449474613962.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Bernard Stollman Interview: Michael Snow / Film: Walking Woman",
+      "duration_ms": 49373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/02/47/d2/0247d248-c890-f2e3-1c55-e19d4edbe9bd/mzaf_4788873863062002167.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "I.T.T.",
+      "duration_ms": 1403160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/87/b9/ad/87b9ad85-414f-ad4f-bbc2-bd4a1fa76dcf/mzaf_9066970404928390882.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Sunny Murray Interview: Explains the film Walking Woman",
+      "duration_ms": 28040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/6f/c4/8f/6fc48ff4-d0e8-f249-ddc9-6f97c13450fb/mzaf_1209516428137732212.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Don Cherry Interview: Meeting Albert Ayler",
+      "duration_ms": 252133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/a8/82/36/a882363b-bab8-1e2f-4a93-5b606ee7cb38/mzaf_1188559606637135302.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Albert Ayler Interview: Ollie Vestegard / Denmark 9-30-64",
+      "duration_ms": 231853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/aa/f2/8f/aaf28f93-a752-2a1a-07b2-2b39233b673e/mzaf_7143657828673424579.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Vibrations",
+      "duration_ms": 494027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/95/e7/37/95e7377f-ff7b-1de5-0eac-1b27cb7c8d53/mzaf_4665682291278633968.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Albert Ayler Interview: John Coltrane and Eric Dolphy",
+      "duration_ms": 44867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/74/d3/ec/74d3ec35-e365-9c60-995d-966bba7e76d7/mzaf_10261199213105925667.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Ghosts",
+      "duration_ms": 448573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/7b/51/7b/7b517bb4-ce1a-102c-9331-c5f26ef6d560/mzaf_2880308458698590512.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Don Cherry Interview: Seeing Albert Ayler in 1964",
+      "duration_ms": 110280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/a1/08/d3/a108d330-d189-6974-dd7f-c7d1aa1aa0dc/mzaf_5301221707034086793.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Bernard Stollman Interview: Meeting Don Cherry and Albert Ayler",
+      "duration_ms": 46160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/94/75/57/947557e1-3007-da6f-421d-2b35367d77eb/mzaf_4830674045784398005.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "Albert Ayler Interview: Sympathy for Sunny Murray",
+      "duration_ms": 44707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/7a/60/6e/7a606e61-738a-6ad7-ac55-62c31ba3ebe6/mzaf_8526774658736638723.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "Milford Graves Interview: Hanging out with Albert",
+      "duration_ms": 106667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/19/2a/6e/192a6e0f-68f2-8965-6043-4695e9367d70/mzaf_713555768135286860.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "Albert Ayler Interview: Adding His Brother Donald Ayler to the Group",
+      "duration_ms": 261760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/d9/bd/7b/d9bd7be7-7c63-24fd-1024-e2017adea603/mzaf_2313130767893401833.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "Bernard Stollman Interview: The Town Hall Concert / Bells, Pt. 1",
+      "duration_ms": 51053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/dd/8b/c3/dd8bc32f-c1e9-4c6a-4bd1-8e5be897b781/mzaf_401510952365332284.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Bells (Excerpt)",
+      "duration_ms": 328400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/4a/0d/1c/4a0d1cda-c5ae-5e6c-bee1-ff4023b6e23b/mzaf_4602053997445079714.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "Bernard Stollman Interview: Bells, Pt. 2",
+      "duration_ms": 52867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/44/88/53/44885308-6043-2368-7303-e7ffa0490e76/mzaf_8102012817075381523.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "Milford Graves Interview: The Town Hall Concert",
+      "duration_ms": 34760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/ca/c0/d4/cac0d46e-c800-6bd9-9336-316701f60b73/mzaf_8962538132060106048.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Bernard Stollman Interview: Spirits Rejoice, Pt. 1",
+      "duration_ms": 61747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/63/34/9e/63349e52-ce3d-04ec-1b2b-08619609f16f/mzaf_7431249147256691567.plus.aac.p.m4a"
+    },
+    {
+      "n": 36,
+      "title": "Spirits Rejoice",
+      "duration_ms": 695867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/ae/a5/54/aea554e5-54b2-f18d-0546-53f9f7f7379f/mzaf_1175143030597719532.plus.aac.p.m4a"
+    },
+    {
+      "n": 37,
+      "title": "Bernard Stollman Interview: Spirits Rejoice, Pt. 2 / Play a Short Tune",
+      "duration_ms": 33733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/0f/a5/ea/0fa5eadd-472e-451a-c101-f2b333699d74/mzaf_3768453776989899758.plus.aac.p.m4a"
+    },
+    {
+      "n": 38,
+      "title": "Holy Family",
+      "duration_ms": 126640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/59/71/ae/5971aeac-bac0-daed-717b-678f3cecf4e8/mzaf_7329245104890859238.plus.aac.p.m4a"
+    },
+    {
+      "n": 39,
+      "title": "Bernard Stollman Interview: Spirits Rejoice, Pt. 3",
+      "duration_ms": 60627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/00/08/e9/0008e9b6-b00a-b7e2-3d93-d28672f02503/mzaf_7080064508397534740.plus.aac.p.m4a"
+    },
+    {
+      "n": 40,
+      "title": "Bernard Stollman Interview: Albert Ayler Introduces Patty Waters",
+      "duration_ms": 120627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/5b/8f/75/5b8f7565-72df-d7ed-f1cc-d641e52e55bc/mzaf_2105696933719193514.plus.aac.p.m4a"
+    },
+    {
+      "n": 41,
+      "title": "Bernard Stollman Interview: Albert Ayler Live at Slug's Saloon",
+      "duration_ms": 29667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/f1/80/d0/f180d0d4-8109-3033-0a20-e646d7619232/mzaf_787058837563233824.plus.aac.p.m4a"
+    },
+    {
+      "n": 42,
+      "title": "Truth Is Marching In",
+      "duration_ms": 608333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/4f/c3/02/4fc302f3-ab2e-d192-691b-ac087d7191be/mzaf_6187699586121576661.plus.aac.p.m4a"
+    },
+    {
+      "n": 43,
+      "title": "Burton Greene Interview: Albert Ayler Playing with Burton Greene at Slugs' Saloon, Pt. 1",
+      "duration_ms": 39787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/e5/3b/9a/e53b9a3f-16b0-c343-6ab7-1226f196fd42/mzaf_1395803828385734973.plus.aac.p.m4a"
+    },
+    {
+      "n": 44,
+      "title": "Untitled",
+      "duration_ms": 535107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/cf/54/69/cf54698d-7a81-b077-1f9c-bcbdca865577/mzaf_8450161364914588835.plus.aac.p.m4a"
+    },
+    {
+      "n": 45,
+      "title": "Burton Greene Interview: Albert Ayler Playing with Burton Greene at Slug's Saloon, Pt. 2",
+      "duration_ms": 48187,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/73/e6/91/73e69120-7806-6b26-cb14-3d49e313d8b8/mzaf_5552373975302385805.plus.aac.p.m4a"
+    },
+    {
+      "n": 46,
+      "title": "Milford Graves Interview: Albert's Sound",
+      "duration_ms": 83293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/a0/eb/64/a0eb6430-80b6-3138-d506-9e516d7baab5/mzaf_724107731993979158.plus.aac.p.m4a"
+    },
+    {
+      "n": 47,
+      "title": "Albert Ayler Interview: Playing in Clubs",
+      "duration_ms": 110573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/7e/ed/57/7eed571e-fc57-e685-82c6-f3494c314749/mzaf_3816003829969630910.plus.aac.p.m4a"
+    },
+    {
+      "n": 48,
+      "title": "Sunny Murray Interview: Musicians and Magic",
+      "duration_ms": 192147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/39/1e/97/391e9776-e751-56ce-3ec1-a6e47bc34b0f/mzaf_1178126126158658374.plus.aac.p.m4a"
+    },
+    {
+      "n": 49,
+      "title": "Albert Ayler Interview: Music and the Creator",
+      "duration_ms": 48787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/94/16/da/9416dae6-d72d-f172-1d56-002da2b46f3c/mzaf_5563454495560507723.plus.aac.p.m4a"
+    },
+    {
+      "n": 50,
+      "title": "Albert Ayler Interview: Performing with John Coltrane / Drummers",
+      "duration_ms": 71120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/db/1d/9a/db1d9a60-3704-ce02-fc5b-d2c5a96ddf6b/mzaf_5022254005030304707.plus.aac.p.m4a"
+    },
+    {
+      "n": 51,
+      "title": "Zion Hill (with Frank Wright)",
+      "duration_ms": 761480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/8b/92/7b/8b927b99-d6f7-d118-3053-f0247f9adccd/mzaf_7539893120248228946.plus.aac.p.m4a"
+    },
+    {
+      "n": 52,
+      "title": "Andrew Cyrille Interview: Being Possessed by the Music",
+      "duration_ms": 87080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/71/ad/d9/71add986-6267-ceaf-290e-97b4ce8f45bf/mzaf_5408782459674847766.plus.aac.p.m4a"
+    },
+    {
+      "n": 53,
+      "title": "Albert Ayler Interview: Michel Sampson and Bill Folwell",
+      "duration_ms": 59387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/6f/30/72/6f307214-0889-ef25-78f6-9e516e9cae20/mzaf_5584991655155581102.plus.aac.p.m4a"
+    },
+    {
+      "n": 54,
+      "title": "Burton Greene Interview: Albert Ayler Live at Newport / George Wein",
+      "duration_ms": 23013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/16/bc/52/16bc527a-ebb6-77a5-3fc6-da5a54660c8e/mzaf_7706499679066685744.plus.aac.p.m4a"
+    },
+    {
+      "n": 55,
+      "title": "Our Prayer",
+      "duration_ms": 495773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/a7/8e/b6/a78eb66c-02bc-d5b4-398d-779229caf610/mzaf_7275964241503839180.plus.aac.p.m4a"
+    },
+    {
+      "n": 56,
+      "title": "Albert Ayler Interview: The Passing of John Coltrane",
+      "duration_ms": 101987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/5b/9b/a0/5b9ba053-a7bc-01e4-979c-5354d83a12e2/mzaf_8001191233646633003.plus.aac.p.m4a"
+    },
+    {
+      "n": 57,
+      "title": "Love Cry / Truth Is Marching in / Our Prayer",
+      "duration_ms": 381533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/a7/67/91/a76791a3-34c6-af99-1cb9-178d8a279571/mzaf_8412712376157643899.plus.aac.p.m4a"
+    },
+    {
+      "n": 58,
+      "title": "Albert Ayler Interview: Signing with Impulse Records",
+      "duration_ms": 277373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/79/53/ba/7953ba83-3372-081c-e192-b887b10c00f2/mzaf_3356780167810544548.plus.aac.p.m4a"
+    },
+    {
+      "n": 59,
+      "title": "B. Stollman Interview: The Fondation Maeght Concert, Pt. 1",
+      "duration_ms": 28573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/17/ac/11/17ac1193-68cb-1078-1fc3-6845485f6eda/mzaf_5927982575670291427.plus.aac.p.m4a"
+    },
+    {
+      "n": 60,
+      "title": "Music Is the Healing Force of the Universe",
+      "duration_ms": 456627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/ae/38/a3/ae38a3c8-b663-c99e-34dc-2cea066f0c4e/mzaf_3742838065242238599.plus.aac.p.m4a"
+    },
+    {
+      "n": 61,
+      "title": "Bernard Stollman Interview: The Fondation Maeght Concert, Pt. 2",
+      "duration_ms": 5293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/0b/10/10/0b1010b0-ec5e-1b0e-3e3d-4b24cb22998b/mzaf_6292065477344510500.plus.aac.p.m4a"
+    },
+    {
+      "n": 62,
+      "title": "Albert Ayler Interview: The Fondation Maeght Concert",
+      "duration_ms": 228733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/86/c1/c4/86c1c471-90fc-7be9-2c00-5242d7317745/mzaf_3209041913067746304.plus.aac.p.m4a"
+    },
+    {
+      "n": 63,
+      "title": "Bernard Stollman Interview: The Fondation Maeght Concert, Pt. 3",
+      "duration_ms": 37573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/05/d4/32/05d43228-6ebf-805c-9b7d-40b3ae0a9d0a/mzaf_4543916442791586564.plus.aac.p.m4a"
+    },
+    {
+      "n": 64,
+      "title": "Sunny Murray Interview: Condolences for Albert Ayler",
+      "duration_ms": 25880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/2d/d4/c2/2dd4c205-f647-4fce-b7a7-16c92cfd4b49/mzaf_3683988332124287144.plus.aac.p.m4a"
+    },
+    {
+      "n": 65,
+      "title": "Milford Graves Interview: What He Misses About Albert Ayler",
+      "duration_ms": 60307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/4b/15/60/4b156025-bba0-49fc-bf2d-769b00dba543/mzaf_8697414522538804585.plus.aac.p.m4a"
+    },
+    {
+      "n": 66,
+      "title": "Don Cherry Interview: Condolences for Albert Ayler",
+      "duration_ms": 22813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/5f/cb/8e/5fcb8ec8-1673-4439-b395-ae614bf20825/mzaf_6272174062287668548.plus.aac.p.m4a"
+    },
+    {
+      "n": 67,
+      "title": "Vibrations AKA [tune Q]²",
+      "duration_ms": 538760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/b7/04/a9/b704a974-67ad-573f-50da-40d9fbda8eae/mzaf_255483653969819884.plus.aac.p.m4a"
+    },
+    {
+      "n": 68,
+      "title": "End Theme: Spirits",
+      "duration_ms": 84080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/03/44/29/03442939-1a8a-e6d2-013b-2567bb769f3b/mzaf_5435393539752028073.plus.aac.p.m4a"
+    }
+  ]
+}
