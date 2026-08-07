@@ -1,0 +1,23 @@
+{
+  "id": "1744400535",
+  "artist": "Against All Logic",
+  "album": "Illusions of Shameless Abundance - Single",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/illusions-of-shameless-abundance-single/1744400535",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/74/57/90745717-a35f-850c-2f5d-403973baed5c/4251648417064_AALsinglecoverpx.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fea26d",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Illusions of Shameless Abundance",
+      "duration_ms": 351327,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/68/42/9168422c-36aa-517e-3ec1-49f14d55d791/mzaf_3127004397713337693.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Alucinao",
+      "duration_ms": 546693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/7d/38/cc7d3874-a465-7ccf-91e8-bb80b22b5f9e/mzaf_4808923799412419967.plus.aac.p.m4a"
+    }
+  ]
+}
