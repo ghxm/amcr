@@ -1,0 +1,53 @@
+{
+  "id": "1755222903",
+  "artist": "Weird Of Mouth",
+  "album": "Weird Of Mouth (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+  "year": 2024,
+  "apple_music_url": "https://music.apple.com/de/album/weird-of-mouth-feat-ches-smith-craig-taborn-mette-rasmussen/1755222903",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/97/ec/d397ec66-0b20-5ec3-5907-3d83458b272c/198588139134.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "95bcd5",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Wolf Cry (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 293000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/66/12/046612b7-1de0-e3f1-e640-6380de3c965a/mzaf_17457081878739565446.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Dogs in Orbit (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 166000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/a6/30/f8a630d3-72a8-edb1-8e11-ed2e809bdd43/mzaf_3172827067214066796.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Existension (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 571000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/a1/16/6ca1164e-c9bf-8966-244f-e62f19bad383/mzaf_4139404282624525909.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Brooders of Joy (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 203000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/af/4d/2baf4dbc-cb97-15ac-a594-f74677aa9064/mzaf_16312419023091718138.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Planisphere (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 526000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/a9/b1/2ca9b11a-2087-6ff6-959f-d6ee1c29ba31/mzaf_17802016354565636498.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "In Search of Soul Pane (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 355000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/33/00/6233003c-439f-7d55-d575-68c69e340e1e/mzaf_13256129772076593762.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Proven Right, Then Left, Then Right (feat. Ches Smith, Craig Taborn & Mette Rasmussen)",
+      "duration_ms": 406000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/e5/01/5fe50103-3c35-4b0d-6427-0c87cb24b6fd/mzaf_8700131391837442087.plus.aac.p.m4a"
+    }
+  ]
+}
