@@ -1,0 +1,77 @@
+{
+  "id": "1642670451",
+  "artist": "Sofie Birch & Antonina Nowacka",
+  "album": "Languoria",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/languoria/1642670451",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2f/a9/7a/2fa97aee-cdf6-67e7-fe38-c18eb7db0c34/5050580792036.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fef2dc",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Lilieae",
+      "duration_ms": 229419,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1a/5a/de/1a5ade7f-8405-8dbd-1838-e0cc7f2a0364/mzaf_9164948696448449841.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Morning Room I",
+      "duration_ms": 256682,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c7/64/19/c76419ce-d966-c99e-e5b2-0a1205e414ac/mzaf_18193238214138835546.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Behind the Hill",
+      "duration_ms": 107016,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/92/d8/51/92d85161-16b6-7bf3-c012-5bd56b67f0ce/mzaf_18402638376037409421.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Sudany",
+      "duration_ms": 260199,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/02/98/e7/0298e765-2c9b-f33e-6b35-d752f3ebb563/mzaf_3784788443810530253.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "My River",
+      "duration_ms": 108845,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/53/41/68/53416867-d6ed-1e05-7ce0-281822b9553b/mzaf_1621725885661023127.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Geor Lu",
+      "duration_ms": 270004,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fa/f5/e6/faf5e61f-f045-e95f-7155-efb8c9cbceb2/mzaf_6301730100842810058.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Pripugale",
+      "duration_ms": 280647,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/cc/bb/41/ccbb41f2-abb2-70b6-2eb2-2717406f7d7d/mzaf_2378406518532055987.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Me of Ocean",
+      "duration_ms": 101776,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/71/6f/d4/716fd449-5dc2-2649-c0f4-d7e7dd171dbb/mzaf_16335485700547772175.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "The Journey",
+      "duration_ms": 295790,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d5/14/80/d51480b5-acdc-02b2-16b7-0aa5de91f834/mzaf_8161907527705257118.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Morning Room II",
+      "duration_ms": 228011,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/74/74/22/74742294-3b99-896f-b2a8-d96f8764a242/mzaf_8362771005789299481.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Outro",
+      "duration_ms": 110594,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d6/ba/4b/d6ba4b60-3d73-a485-fac2-c585e11786f9/mzaf_14713698992085111422.plus.aac.p.m4a"
+    }
+  ]
+}
