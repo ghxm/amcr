@@ -1,0 +1,65 @@
+{
+  "id": "1627977415",
+  "artist": "Trauma Bond",
+  "album": "Winter's Light",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/winters-light/1627977415",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/9b/0d/f89b0d32-e792-c255-4691-a533d64a62ca/5063072315637_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "d0d0c5",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "The Garden Has Gone to Sleep",
+      "duration_ms": 232084,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/39/bc/54/39bc54c0-f8f7-ac6f-2003-848551a3ddad/mzaf_2609447793028903682.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "A Hollow Bed Awaits",
+      "duration_ms": 79782,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/60/86/d1/6086d135-7428-f991-d054-a23b168a144d/mzaf_16228222291272719503.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Sea Saw What You Did",
+      "duration_ms": 140331,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8a/50/cb/8a50cb0e-670d-bb44-ad03-73c804a51be8/mzaf_11709450115940117798.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Engine Hum",
+      "duration_ms": 90372,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/67/39/42/67394250-ed8b-fbb5-0aa0-97078020d95d/mzaf_4950038377203941906.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "House of No Man",
+      "duration_ms": 133099,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e4/58/fa/e458fa18-f38f-7c7a-44d5-7c2af0137a9f/mzaf_13373857466682122134.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Nails on the Bedside",
+      "duration_ms": 45413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/46/d5/9c/46d59c21-6ccd-939f-4930-5fa8a5ca0977/mzaf_7779020667718675311.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Basking",
+      "duration_ms": 225674,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/59/ec/04/59ec0458-3193-3434-abce-4b1a241c6318/mzaf_4607142679789295075.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Don't Forget to Smile",
+      "duration_ms": 130705,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e7/cb/f5/e7cbf542-daa8-e8ad-9ab8-7f6057759557/mzaf_14541287277277157784.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Winter's Light",
+      "duration_ms": 190234,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/15/33/14/153314b8-a12b-be52-dbc5-a8f57721bbe1/mzaf_9916126050510739018.plus.aac.p.m4a"
+    }
+  ]
+}
