@@ -1,0 +1,53 @@
+{
+  "id": "1282816424",
+  "artist": "Surgeon",
+  "album": "Body Request",
+  "year": 2000,
+  "apple_music_url": "https://music.apple.com/de/album/body-request/1282816424",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/be/8b/70/be8b709b-690c-d634-282a-dacac472624c/5051142096593_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ea8052",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Hunger",
+      "duration_ms": 280091,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a0/70/2d/a0702dce-2983-4dc0-dc9c-265b494c2f8b/mzaf_1525629308256433725.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Setting the Scene",
+      "duration_ms": 327773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/0f/94/37/0f9437b4-ae04-77da-efb7-1bc545331434/mzaf_1427218840590549691.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Fight or Flight",
+      "duration_ms": 351946,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/57/5c/81/575c8124-b9d9-4859-6aca-82ce5b7c5d45/mzaf_5870512292325198624.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Discipline",
+      "duration_ms": 301816,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/fd/4f/22/fd4f2257-65f5-064a-5c26-238d8e89fe11/mzaf_9077562466372451099.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Instinct",
+      "duration_ms": 315115,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/56/d0/01/56d00155-9993-cb1b-e090-0cd33e4e347b/mzaf_6512667118273717992.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Stringent",
+      "duration_ms": 287463,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f7/b2/0a/f7b20a2d-3f6d-1ae0-4725-9a1aeabddeee/mzaf_4328103161362031099.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Sleep (Ultra Violet)",
+      "duration_ms": 470978,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/56/ad/dc/56addc46-c6d8-fd88-50c3-5d504d1f1860/mzaf_2143486251518858056.plus.aac.p.m4a"
+    }
+  ]
+}
