@@ -1,0 +1,221 @@
+{
+  "id": "1443150233",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "California Vibes",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/california-vibes/1443150233",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/a0/0f/6aa00f7c-9312-7322-15af-92ba0e1eb768/18UMGIM00402.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "California",
+      "duration_ms": 166293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/6f/ca/5b6fca9d-3165-43de-c748-1f2f1677ec0d/mzaf_2132800430931106777.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Walking On Sunshine",
+      "duration_ms": 233773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/05/bd/1405bd53-9eac-aad2-4249-f70c854cd150/mzaf_3240756346548380680.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Island In the Sun",
+      "duration_ms": 200733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/0a/27/590a27f8-73b3-561b-51fa-20417bf80dcf/mzaf_6568896233501208688.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Nobody Compares To You (feat. Katie Pearlman)",
+      "duration_ms": 232400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/59/ea/5e59eaec-fb5c-8eab-5e01-fe070e9073d4/mzaf_6368196397114228850.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "California Gurls (feat. Snoop Dogg)",
+      "duration_ms": 235107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/bc/6b/afbc6bda-97b2-8ffc-3c18-da38f074c69a/mzaf_10150225746488752926.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Sativa (feat. Swae Lee)",
+      "duration_ms": 278480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/6a/89/466a8959-8171-06d1-c60f-bdf01423a362/mzaf_7238139956593640617.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Love You Like That",
+      "duration_ms": 178067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/e4/9a/b1e49a0b-d3ec-f154-c975-6dc2589f9196/mzaf_11867724857680491911.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Wish U the Best (feat. Stalking Gia)",
+      "duration_ms": 154587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/f4/e0/a2f4e099-7468-3a96-0e8c-e9994fe1f80d/mzaf_14886094752897406072.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Los Ageless",
+      "duration_ms": 282947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/f9/a2/0bf9a238-7bc3-1669-526c-2bcebb7d6999/mzaf_13888553215919059356.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Highway Tune",
+      "duration_ms": 181560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/fb/db/a8fbdb92-9009-d4a4-79d7-c222ec1eaed7/mzaf_12155511633995577244.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Feeling Ok",
+      "duration_ms": 198000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/06/d6/7206d6c7-81b4-e257-bc47-f2d7f05401f0/mzaf_17847869269956650474.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "She Moves In Her Own Way",
+      "duration_ms": 169027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/f5/b1/f5f5b19d-a223-07c8-5121-48dac11af070/mzaf_14678596757848197259.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Love Myself",
+      "duration_ms": 218880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/50/1a/02501a1a-707d-ba09-e4ce-dd1dac7d4818/mzaf_12184593483496679925.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "LA Confidential",
+      "duration_ms": 174693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/15/3f/82153fe0-eade-fa5e-ae53-001bc197aef3/mzaf_2741127879045177910.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Just Dancing",
+      "duration_ms": 268440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/73/20/917320f3-a3ab-6885-8edb-a13c3d85558c/mzaf_12375318473207018213.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Beverly Hills",
+      "duration_ms": 200533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/0c/33/860c33ad-be33-0af5-5ed7-a12c06414913/mzaf_13377032230370591193.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "California Numb",
+      "duration_ms": 200240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/78/a5/7c78a5ec-2e21-f539-8689-b1225c16c693/mzaf_944895145018934965.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "It's a Trip!",
+      "duration_ms": 183520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/19/15/081915a9-a806-9f9d-8b47-059377e8e70b/mzaf_11219691045628553836.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "This Summer",
+      "duration_ms": 225160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/83/ae/5b83aec4-7916-b7b9-0e07-d4371f7092ca/mzaf_11472548155341644261.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Starlight",
+      "duration_ms": 180907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/6d/59/e06d59e7-c6f8-7ef9-3abf-c935a5be9abd/mzaf_7763766735886002276.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Love Is Mystical",
+      "duration_ms": 214933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/c2/61/bcc26198-01f0-9aca-07ce-2c2f60198b43/mzaf_5568450151795327917.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Golden Dandelions",
+      "duration_ms": 205867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/53/93/f45393b1-1e87-5910-d291-e305ee3ad82f/mzaf_2706839767045080465.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "San Francisco",
+      "duration_ms": 173480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/54/7e/d9547e8b-4d70-ee6d-2e36-446e9e58e2b2/mzaf_5338990508984845397.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "One Night Only",
+      "duration_ms": 256453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/d6/89/f4d689a2-b6b4-dd86-ac28-bba8d8c88fc0/mzaf_10535650623568803236.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "California Nights",
+      "duration_ms": 311680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/66/61/5f666190-162b-1e4d-462f-e7e1790620e5/mzaf_6967895813940442825.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "California Girls",
+      "duration_ms": 166520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/5d/2e/105d2ee5-b0b9-54c7-b693-eb78727647ef/mzaf_5162478482283003697.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Seaside",
+      "duration_ms": 99507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/1e/ad/111ead34-3d48-9125-1cdb-d4f1ff1f531b/mzaf_9586527870144110684.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "Leaving California",
+      "duration_ms": 203453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/d2/7c/79d27cec-1171-cf48-8a51-f4451f2cda7f/mzaf_4243934451629843612.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "Westside Love (feat. YG)",
+      "duration_ms": 292013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/0d/6d/5d0d6d77-c770-9b8d-7331-4de9da7aa3ee/mzaf_7314284002702499439.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "I Lost My Mind (In California)",
+      "duration_ms": 184280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/4d/85/d94d85d4-d77d-7149-b1b6-8df3c8e4cdec/mzaf_16002533133813985862.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "West Coast Smoker",
+      "duration_ms": 165800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/a3/d9/cfa3d9b1-3ee1-533e-bdff-a3fedd311f64/mzaf_5433059548835470.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Hollywood Freaks",
+      "duration_ms": 240320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/ea/f8/30eaf896-e060-48ac-3dd6-6dfee3cc6cb7/mzaf_15207361791741432516.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "More More More",
+      "duration_ms": 199507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/51/87/225187e4-df6d-6618-2823-154b0d95852a/mzaf_14975932768836632755.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "Sunshine",
+      "duration_ms": 260480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/12/59/21125969-a706-f4e5-c59f-b6735f3557c0/mzaf_6428830366522954631.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Cake By the Ocean",
+      "duration_ms": 218440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/f9/e6/02f9e65d-98a5-b423-aa21-c7291c7c9055/mzaf_10455223769286076163.plus.aac.p.m4a"
+    }
+  ]
+}
