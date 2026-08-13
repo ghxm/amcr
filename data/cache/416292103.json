@@ -1,0 +1,83 @@
+{
+  "id": "416292103",
+  "artist": "The Bug",
+  "album": "London Zoo",
+  "year": 2008,
+  "apple_music_url": "https://music.apple.com/de/album/london-zoo/416292103",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/e8/f1/3ee8f12a-73ef-f9f9-d865-cb49da22ca9a/mzi.hxkvwijn.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "131109",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Angry (feat. Tippa Irie)",
+      "duration_ms": 217200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/ec/4f/5bec4fce-36d9-4509-f4fb-0a4837ae942b/mzaf_16162908086579720482.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Murder We (feat. Ricky Ranking)",
+      "duration_ms": 233240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/01/35/f9013513-57d4-ef4f-e251-2da0b8a5bf9d/mzaf_690183731641346350.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Skeng (feat. Flowdan & Killa P)",
+      "duration_ms": 279733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/b5/69/e3b569d4-14d4-9e57-36e5-61389b2e6845/mzaf_999955016602441726.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Too Much Pain (feat. Ricky Ranking)",
+      "duration_ms": 236867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/48/98/e8/4898e88f-adb6-b66e-eb03-27e4694d64f1/mzaf_15388994568884074327.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Insane (feat. Warrior Queen)",
+      "duration_ms": 209427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/18/59/191859d8-37bf-20c9-720a-f82b5a674a5d/mzaf_13101637331073722059.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Jah War (feat. Flowdan)",
+      "duration_ms": 180600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/19/34/b21934b7-f9ee-7351-c0c3-017404e2f380/mzaf_11593262661172125506.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Fuckaz (feat. Spaceape)",
+      "duration_ms": 325973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/12/ce/e412cea0-6df4-ca45-9ade-49a597d89c59/mzaf_11312627332201555169.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "You & Me (feat. Roger Robinson)",
+      "duration_ms": 252093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/dd/85/0bdd85c7-4d0e-7883-222f-7e7014106015/mzaf_13734460705552689841.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Freak Freak",
+      "duration_ms": 300840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/6c/01/a36c0127-4b93-a04f-6dc8-21b717c45dab/mzaf_9563674259900618622.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Warning (feat. Flowdan)",
+      "duration_ms": 231027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/20/98/0c209858-c98c-9bf8-0c51-5931cd257c0c/mzaf_406415614337395248.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Poison Dart (feat. Warrior Queen)",
+      "duration_ms": 374373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/18/c2/e218c29b-5217-7f64-58df-b47d0275520e/mzaf_16186933936011030520.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Judgement (feat. Ricky Ranking)",
+      "duration_ms": 637133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/02/6b/c0026b64-62e7-d1d5-813f-029ab16f1e18/mzaf_18383389398451255151.plus.aac.p.m4a"
+    }
+  ]
+}
