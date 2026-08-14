@@ -1,0 +1,47 @@
+{
+  "id": "321974938",
+  "artist": "Grover Washington, Jr.",
+  "album": "Winelight",
+  "year": 1980,
+  "apple_music_url": "https://music.apple.com/de/album/winelight/321974938",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/2b/74/812b74f7-060b-7386-bb02-967cd2cdd78c/mzi.yfyaqhnz.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Winelight",
+      "duration_ms": 452573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/40/5f/6d405f58-0a0e-e9f9-b303-f56fda8243b4/mzaf_3235971784512634305.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Let It Flow (For \"Dr. J\")",
+      "duration_ms": 350600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6a/62/78/6a62784c-6f59-5d9f-3a4d-5dbf9cf87f98/mzaf_5704188228638994746.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "In the Name of Love",
+      "duration_ms": 326773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/fc/f1/34fcf1c2-fe0c-6540-19c9-058956b7963f/mzaf_14536449226442542320.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Take Me There",
+      "duration_ms": 374107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/26/7a/d5267a9e-8a07-d714-b798-c6751300d756/mzaf_14910001636937192203.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Just the Two of Us",
+      "duration_ms": 443773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/b7/06/eeb706c1-c8ef-bc2f-b1e7-9e7932230e79/mzaf_8132450407454153842.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Make Me a Memory",
+      "duration_ms": 392027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/ef/c9/8defc9db-1ac1-9907-3a80-da0e03add9ce/mzaf_2952556476853321102.plus.aac.p.m4a"
+    }
+  ]
+}
