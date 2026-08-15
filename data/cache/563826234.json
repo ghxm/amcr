@@ -1,0 +1,23 @@
+{
+  "id": "563826234",
+  "artist": "Rhythm & Sound",
+  "album": "Aground / Aerial - EP",
+  "year": 2002,
+  "apple_music_url": "https://music.apple.com/de/album/aground-aerial-ep/563826234",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/37/8d/67/378d6796-fffa-4d11-605b-f22950b79a12/827670745860_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "252127",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Aground",
+      "duration_ms": 756444,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/28/51/c5285135-ef08-2083-8d25-e00b118a6526/mzaf_14421994400774387933.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Aerial",
+      "duration_ms": 568940,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/58/ce/8058cea3-e4f5-3093-1a15-c36f4f510fa7/mzaf_168452788676634901.plus.aac.p.m4a"
+    }
+  ]
+}
