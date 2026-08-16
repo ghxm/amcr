@@ -1,0 +1,59 @@
+{
+  "id": "1443491454",
+  "artist": "Katrina Krimsky & Trevor Watts",
+  "album": "Stella Malu",
+  "year": 1981,
+  "apple_music_url": "https://music.apple.com/de/album/stella-malu/1443491454",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ee/73/f4/ee73f423-692a-d32e-8ac3-87f11caa41aa/00042283351622.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "060e1a",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Mial",
+      "duration_ms": 260667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/97/70/d1/9770d1e1-4805-fa4a-2c60-cc9c041a1f58/mzaf_2448577350885922155.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Stella Malu",
+      "duration_ms": 240440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/14/7d/ef/147def58-0577-26d2-1a99-e241016953b6/mzaf_4804976933551738425.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Duogeny",
+      "duration_ms": 694573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e1/f2/1e/e1f21eb8-3fa9-949d-2bae-26c5b53b3d15/mzaf_7848992172066976565.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Rhythm Circle",
+      "duration_ms": 129533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/33/bd/99/33bd995a-89a9-71da-790e-e8281addbfdd/mzaf_2144218787151226831.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Crystal Morning",
+      "duration_ms": 364160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/ef/b1/73efb1ba-411d-d849-032e-05699d4912bc/mzaf_120338200602843666.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Song for Hans",
+      "duration_ms": 175667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/69/86/01/69860182-2f2a-b55c-fbdd-3b4cae039c51/mzaf_2539534949382256162.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Moonbeams",
+      "duration_ms": 280667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/3c/2c/0b/3c2c0b64-c1f9-40a7-af06-2c2ee9023504/mzaf_2568666047085622471.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Villa In Brazil",
+      "duration_ms": 137000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/23/17/14/231714ba-0312-800a-3431-ae2847c4f646/mzaf_270285794506883526.plus.aac.p.m4a"
+    }
+  ]
+}
