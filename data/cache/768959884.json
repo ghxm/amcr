@@ -1,0 +1,53 @@
+{
+  "id": "768959884",
+  "artist": "Labradford",
+  "album": "Mi Media Naranja",
+  "year": 1997,
+  "apple_music_url": "https://music.apple.com/de/album/mi-media-naranja/768959884",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/33/65/fb/3365fb01-fab7-2e6d-143d-bdeb208d94dd/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "1b1b28",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "S",
+      "duration_ms": 379267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f7/3f/08/f73f08c2-7b25-937c-b8cc-9619344988cd/mzaf_17370965773434992027.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "G",
+      "duration_ms": 240000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/43/ec/1e43ec0b-9e29-748c-709f-63df25afd04b/mzaf_11248050691090882664.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Wr",
+      "duration_ms": 350227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/ec/0b/a8ec0b09-d68e-cd74-752d-ebb30087f7d2/mzaf_13801256276922591951.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "C",
+      "duration_ms": 379200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/3a/20/8f3a200a-ec6b-e8a2-d5d7-5dc7b9908a84/mzaf_5482669870652362750.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "I",
+      "duration_ms": 304667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3d/73/d2/3d73d207-d312-7e45-5dd0-c4e14585c3ee/mzaf_14796018849245368780.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "V",
+      "duration_ms": 384707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/48/20/dc/4820dc3d-7cde-2ff0-f173-4c5e5544a590/mzaf_1389357023020884070.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "P",
+      "duration_ms": 558333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/82/c8/9282c8ac-c618-962e-5d91-68bb2fdd1bcb/mzaf_7974795675385871663.plus.aac.p.m4a"
+    }
+  ]
+}
