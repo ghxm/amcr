@@ -1,0 +1,35 @@
+{
+  "id": "1483518780",
+  "artist": "Edmund Finnis, Galya Bisengalieva & Robert Ames",
+  "album": "Edmund Finnis: Brother - EP",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/edmund-finnis-brother-ep/1483518780",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/20/0b/d0/200bd024-9900-9129-c9e3-7ba11b793b19/5054526424906_1.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "6797c3",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Brother I",
+      "duration_ms": 153143,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/62/0e/1b620e57-a107-a88e-3892-e109a8ff40c9/mzaf_997415665261970942.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Brother II",
+      "duration_ms": 134633,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/43/c3/a743c338-7358-9dc6-cbc2-0bbcae283c52/mzaf_2304651848810866245.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Brother III",
+      "duration_ms": 149407,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/78/2e/70/782e7060-1c78-177c-6023-276da3f6cf39/mzaf_3957371806433695185.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Brother IV",
+      "duration_ms": 168392,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/ca/91/59ca91e3-c646-5abb-36ba-1cc6a1fe523f/mzaf_17751484897322527961.plus.aac.p.m4a"
+    }
+  ]
+}
