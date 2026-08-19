@@ -1,0 +1,143 @@
+{
+  "id": "1559244567",
+  "artist": "Cantabile Regensburg",
+  "album": "Gárdonyi Chorwerke - Kórusmüvek - Choral Works",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/g%C3%A1rdonyi-chorwerke-k%C3%B3rusm%C3%BCvek-choral-works/1559244567",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/eb/00/aaeb005d-30ff-f83e-6537-e8a476beda27/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "9dcab5",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Ende September",
+      "duration_ms": 316627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/87/27/32/872732a2-7367-443c-e1e7-11b7e32a9081/mzaf_11001826940358668781.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Reggeli hat ora",
+      "duration_ms": 99120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d6/2b/46/d62b46a6-312a-97ea-35c7-f6587fffd7bf/mzaf_8078106133559993242.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Du schöner Lebensbaum des Paradieses",
+      "duration_ms": 102893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/fb/ea/e1/fbeae15d-1960-518d-6073-a18c82e86b7b/mzaf_15135126341268762823.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Danklied der Erlösten",
+      "duration_ms": 182253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2a/fd/34/2afd3419-500e-aa77-3433-f3983918ea75/mzaf_12807550207898223063.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Singet dem Herrn",
+      "duration_ms": 65893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/f2/62/6c/f2626c56-b1ae-b90a-ed13-de1223cc50c9/mzaf_2106583487936299926.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Finnisches Bußlied",
+      "duration_ms": 147707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/fe/f1/06/fef10689-c865-66ad-95b8-a495ab8c7f7b/mzaf_12620221279315125239.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Der Herr ist mein Hirte",
+      "duration_ms": 212533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/25/2e/b8/252eb84b-a850-21c1-f2ab-21f61a9570a0/mzaf_296774784809361093.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "God Is Our Refuge",
+      "duration_ms": 264627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/9f/a3/70/9fa37042-aab3-efd2-296e-f2c5e57ad091/mzaf_2947957926132452946.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Szivemnek koesziklaja",
+      "duration_ms": 131133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/65/78/1f/65781fa8-c8aa-736d-f581-6a848a29d81b/mzaf_16399064253564156609.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Aldott legyen az Istennek neve",
+      "duration_ms": 220893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/d1/3e/8e/d13e8e91-3b60-f611-0cef-405987c8affd/mzaf_14102118184239013423.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Elet es bekesseg",
+      "duration_ms": 568987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/37/b0/08/37b00804-a239-b738-666c-ca61c126a189/mzaf_13240742215728550337.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Somebody s Knockin",
+      "duration_ms": 146093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/52/b3/b1/52b3b10a-2d05-1161-1052-c90a073edc94/mzaf_490378983310031296.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Just a Closer Walk with Thee",
+      "duration_ms": 171320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f5/f7/83/f5f783e2-2bc9-5c35-6da3-e6029eb779fc/mzaf_447912690904444076.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Erd und Himmel sollen singen",
+      "duration_ms": 130947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/16/74/11/16741124-d026-9947-d4a8-385e4d5afce5/mzaf_11025336431429327820.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Encore",
+      "duration_ms": 127507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/19/ca/99/19ca9961-1839-955d-7944-993d9212de82/mzaf_188755633268450282.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Singin wid a Sword in Ma' Han', Lord",
+      "duration_ms": 145893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/08/fa/b0/08fab02b-f357-2bcc-86ba-c9e4b1177a19/mzaf_1143084402546463251.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Valse triste",
+      "duration_ms": 176187,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/3c/0d/4f/3c0d4fbe-c944-39aa-cf90-6d693af96188/mzaf_11140796972416026985.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Erdő, erdő, erdő",
+      "duration_ms": 75893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/7d/8e/55/7d8e5519-e7ab-db52-fa75-524ecce387a3/mzaf_4047334848464423438.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Vom Himmel hoch o Engel kommt",
+      "duration_ms": 142000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/51/74/f9/5174f981-b3ff-3da0-2377-92a4b4cd3007/mzaf_15969196741762495186.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Ein Tag vor dem Herrn",
+      "duration_ms": 152867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f0/53/9d/f0539d6e-9370-baec-f4e1-f65022e745dc/mzaf_8896103155915215121.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Der Mond ist aufgegangen",
+      "duration_ms": 184640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/28/3d/d1/283dd13e-6513-cbf3-4b64-b14abbc13bed/mzaf_11279384271265591086.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Stille Nacht",
+      "duration_ms": 197560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/ae/bc/6c/aebc6c98-6a74-120e-f573-cb52693b59bc/mzaf_16744099709487936560.plus.aac.p.m4a"
+    }
+  ]
+}
