@@ -1,0 +1,41 @@
+{
+  "id": "298798984",
+  "artist": "Zeitkratzer",
+  "album": "Electronics - Electronics (2) [feat. Terre Thaemlitz]",
+  "year": 2008,
+  "apple_music_url": "https://music.apple.com/de/album/electronics-electronics-2-feat-terre-thaemlitz/298798984",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/84/05/bb/mzi.nppluhxz.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b0b1b2",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Down Home Kami-Sakunobe (feat. Terre Thaemlitz)",
+      "duration_ms": 516907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/d0/0a/ddd00ac7-d358-248e-b776-767126177b7e/mzaf_6734402467156141840.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "500 Year Orbit (feat. Terre Thaemlitz)",
+      "duration_ms": 440240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/48/fb/4e48fb9d-97d5-49c0-f052-0378c13d9632/mzaf_17097952402300942620.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Sloppy 42Nds (feat. Terre Thaemlitz)",
+      "duration_ms": 354960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/1b/2d/af1b2d67-4cd6-9fed-780f-5469531b5b0d/mzaf_6747737922622784739.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Hobo Train (feat. Terre Thaemlitz)",
+      "duration_ms": 463453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/96/d4/de96d427-e092-c063-45fb-deb33429eebe/mzaf_6460751625081083166.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Superbonus (feat. Terre Thaemlitz)",
+      "duration_ms": 1539267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/41/cd/e641cd6b-2751-3857-f1d2-83f897382b8d/mzaf_2019448458797012700.plus.aac.p.m4a"
+    }
+  ]
+}
