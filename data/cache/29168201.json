@@ -1,0 +1,113 @@
+{
+  "id": "29168201",
+  "artist": "Curtis Mayfield",
+  "album": "Curtis (Expanded Edition)",
+  "year": 1970,
+  "apple_music_url": "https://music.apple.com/de/album/curtis-expanded-edition/29168201",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-bad1-6aee-c672-a9a0bf37cdd4/081227847562.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "c78d64",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "(Don't Worry) If There's a Hell Below We're All Going To Go",
+      "duration_ms": 470507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/39/52/a6/3952a67b-fbd5-bcb0-7b4f-1e4ccc251a95/mzaf_17545950499715229382.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "The Other Side of Town",
+      "duration_ms": 241867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/73/ab/58/73ab58fd-7242-1b81-ff5c-7c7e6a3cc041/mzaf_5526790640364100205.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Makings of You",
+      "duration_ms": 223867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0e/be/5a/0ebe5a66-4b00-fd01-2b98-aba8e77eee08/mzaf_12172564657331339582.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "We the People Who Are Darker Than Blue",
+      "duration_ms": 365867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d3/c9/6c/d3c96c35-9819-1a4c-357f-d9735c4650ac/mzaf_1215917970226344290.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Move On Up (Extended Version)",
+      "duration_ms": 535333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/57/19/0e/57190e67-6b13-9f64-27d9-5bd87c6ff1cc/mzaf_14563433621983822523.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Miss Black America",
+      "duration_ms": 178533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fc/3d/c1/fc3dc186-89b3-7856-e6c9-545a19caaab5/mzaf_2839442627926394523.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Wild and Free",
+      "duration_ms": 196467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e2/7f/5c/e27f5c16-89e8-b836-603f-25a84c4e5ab6/mzaf_4775591516884644468.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Give It Up",
+      "duration_ms": 229333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/94/d6/c3/94d6c311-7ee0-7147-7f61-b8fe484a6767/mzaf_10466824393467743665.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Power To the People (Demo Version)",
+      "duration_ms": 167227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5d/aa/66/5daa6660-b4c4-ba97-e2f9-5ec4d4cbd9a0/mzaf_6461633999321059566.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Underground (Demo Version)",
+      "duration_ms": 191773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/99/33/2b/99332bba-5559-61cb-76f5-f9f4e644cc0d/mzaf_11028857167737781608.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Ghetto Child (Demo Version)",
+      "duration_ms": 310293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b6/bc/37/b6bc3775-ab46-a46a-a492-a3ea5d5d3553/mzaf_331364647309774346.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Readings In Astrology (Demo Version)",
+      "duration_ms": 211067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3a/aa/55/3aaa55fe-33ec-b7b3-65bb-e2161a56a49f/mzaf_5877161346042193181.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Suffer (Demo Version)",
+      "duration_ms": 151707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/86/b9/f4/86b9f4f3-e16f-b5bc-89c6-24d77bfe33cd/mzaf_4351384279365896056.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Miss Black America (Demo Version)",
+      "duration_ms": 142960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9c/4d/44/9c4d44f5-c7e5-07a2-5848-e075c3854c53/mzaf_11355992500026631589.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "The Makings of You (Backing Track Take 32)",
+      "duration_ms": 275173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1f/b4/ad/1fb4adac-a731-d948-7646-a740d70653e8/mzaf_8830953942264908418.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "(Don't Worry) If There Is a Hell Below, We're All Going To Go [Backing Track Take 1 & 2]",
+      "duration_ms": 258333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a5/81/a7/a581a711-128c-76d7-ae2f-13bafabfe009/mzaf_8107462868915418499.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "(Don't Worry) If There Is a Hell Below, We're All Going To Go [Single Version]",
+      "duration_ms": 206760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4b/e1/71/4be1717e-25f6-2767-1f50-203a19401aee/mzaf_10219501369710677705.plus.aac.p.m4a"
+    }
+  ]
+}
