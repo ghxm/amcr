@@ -1,0 +1,59 @@
+{
+  "id": "1792201481",
+  "artist": "Das Kinn",
+  "album": "Ruinenkampf",
+  "year": 2025,
+  "apple_music_url": "https://music.apple.com/de/album/ruinenkampf/1792201481",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/74/dc/4a74dc93-b777-1311-de0a-178ed46b9f2f/4015698592313.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Jamais vu",
+      "duration_ms": 214508,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/47/f5/ba47f526-08c9-1074-6113-cf14fd22a3e9/mzaf_14825557954773803531.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Oneironaut sei wachsam",
+      "duration_ms": 164076,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/e5/8e/9fe58e0f-432c-9f41-3a4d-363dbb820351/mzaf_2475217421008877834.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Ruinenkampf",
+      "duration_ms": 163691,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/7f/a1/8e7fa128-2c73-2321-a736-e0bf57b883d5/mzaf_10983181193944056547.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Alle rüsten auf",
+      "duration_ms": 147047,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/c3/85/4ac3859f-d85c-7ddf-7672-c0cd0d333ed7/mzaf_3242350350438328191.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Souterrain",
+      "duration_ms": 195067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/c4/27/a5c4275e-f9f9-6cf3-20ac-cbc71ed160ea/mzaf_1927243889654764626.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Die Ratten",
+      "duration_ms": 187716,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/46/8c/d6468c62-c706-e550-e8a7-574c3ad6fa27/mzaf_15667160810353515345.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Tempel des Todes",
+      "duration_ms": 207698,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/92/9f/82929ff0-a844-42ed-6c18-cbe4ab1f85a9/mzaf_4414004340579636584.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Nichts",
+      "duration_ms": 208960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/ef/6d/65ef6dfe-3081-0000-1056-837bc371e251/mzaf_393535951105215574.plus.aac.p.m4a"
+    }
+  ]
+}
