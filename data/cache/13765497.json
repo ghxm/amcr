@@ -1,0 +1,59 @@
+{
+  "id": "13765497",
+  "artist": "Monolake",
+  "album": "Gravity",
+  "year": 2001,
+  "apple_music_url": "https://music.apple.com/de/album/gravity/13765497",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/a9/fa/0b/a9fa0bd7-7867-5130-01c7-ea2ed5001b67/dj.krukddeu.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "35627e",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Mobile",
+      "duration_ms": 479880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/39/5f/62395f9a-0792-e16e-f937-4802d3326570/mzaf_10621134581699448796.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Ice",
+      "duration_ms": 509893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/0d/74/a90d74d6-c09f-78cd-1620-d66a4fb9732e/mzaf_17094797621115016558.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Frost",
+      "duration_ms": 410147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/49/41/564941cf-c2e6-4c5a-1f40-d03d4e955ead/mzaf_1921034023609651278.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Static",
+      "duration_ms": 574693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/81/fa/2281fa04-b737-6314-14ab-e2ba6bbd5068/mzaf_3771925430578354903.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Zero Gravity",
+      "duration_ms": 353173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/f5/bf/8ef5bfc2-831e-a992-e1e4-0a0e176bb102/mzaf_6823427416372448650.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Fragile",
+      "duration_ms": 720027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/2c/b8/c12cb828-63ca-94cb-e5d7-54de3ece128b/mzaf_15376066084701575402.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Aviation",
+      "duration_ms": 469453,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/6a/27/726a27a1-88d1-cc9d-c953-496f7efd7f33/mzaf_12859933924236497891.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Nucleus",
+      "duration_ms": 557347,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/a9/af/69a9afeb-9e0a-87d6-fbf0-96e101d6df93/mzaf_18032269443688452375.plus.aac.p.m4a"
+    }
+  ]
+}
