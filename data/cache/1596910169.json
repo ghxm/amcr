@@ -1,0 +1,77 @@
+{
+  "id": "1596910169",
+  "artist": "Nah Youn Sun",
+  "album": "Waking World",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/waking-world/1596910169",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/7a/58/187a58d4-3b33-34f0-0e91-c8ef22b77b61/093624876236.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "343436",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Bird On The Ground",
+      "duration_ms": 210587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/7a/82/7b7a8209-ab34-612a-625a-fb49d83d4959/mzaf_10839167916878054459.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Don't Get Me Wrong",
+      "duration_ms": 210840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/a0/9b/b9a09bf6-1141-0a9c-4720-22708c7ad667/mzaf_6383690516934918425.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Lost Vegas",
+      "duration_ms": 200427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/5a/2d/615a2de7-d811-eb09-0368-6ab9fc80f329/mzaf_384531572255826818.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Heart Of A Woman",
+      "duration_ms": 273640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/a6/9c/20a69c5b-5281-df01-8657-9aae9b92df2e/mzaf_8240073121777304751.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Round and Round",
+      "duration_ms": 251067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/53/a5/fb53a581-e1eb-0787-da69-0a47f9d8f249/mzaf_13815599142910578472.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "My Mother",
+      "duration_ms": 214040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c1/d1/dbc1d1b0-5882-25c4-9e6a-53a18d5a56da/mzaf_2558703768777567737.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Waking World",
+      "duration_ms": 212293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/66/23/036623c3-b3be-d53b-5cf5-960b405804c3/mzaf_10814251226464610570.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Tangled Soul",
+      "duration_ms": 193693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/c9/77/f2c9778f-9e80-3fca-9ad9-30cf535dcf10/mzaf_13137312566145497361.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "It's OK",
+      "duration_ms": 188987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/86/48/eb864880-6617-b2aa-5c43-9b806ea06f95/mzaf_14711832512596854451.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Endless Déjà Vu",
+      "duration_ms": 213547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/68/ab/f068ab4c-1880-daf4-a725-4f6b37e8a417/mzaf_13448995308342691210.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "I’m Yours",
+      "duration_ms": 243081,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/35/e3/8a35e332-dafe-7a43-859d-62e14ee67726/mzaf_10264925159432183540.plus.aac.p.m4a"
+    }
+  ]
+}
