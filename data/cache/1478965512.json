@@ -1,0 +1,65 @@
+{
+  "id": "1478965512",
+  "artist": "UCC Harlo",
+  "album": "United",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/united/1478965512",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/87/88/72/87887259-e9d3-3257-ee5a-08175dc106be/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "dcc900",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Ceres",
+      "duration_ms": 118000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/10/40/db/1040dbc4-96c9-ebf5-d60a-0edce8d63de4/mzaf_4405605996756906890.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Bach Gamba f*cked",
+      "duration_ms": 170385,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/0b/bf/cf0bbf27-c0c2-6aec-f29f-d5ee0b74fb17/mzaf_9986123478387284883.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Palimpsest / Too Near",
+      "duration_ms": 340578,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/e7/a1/58e7a1f5-c59f-2816-e8c9-870ad61eaf59/mzaf_2781792864323827126.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Lyricist of Panic",
+      "duration_ms": 327151,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/bf/cf/1fbfcf59-89af-b2db-670e-95031658a351/mzaf_16946093641735629861.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "The Secret Lives of Plankton",
+      "duration_ms": 150020,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d1/64/79/d1647931-37a2-bb0e-6f92-f4c9c647ea0d/mzaf_4616769016390032450.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "June 29th (The Third Space)",
+      "duration_ms": 263303,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fa/23/0d/fa230d9a-515c-532a-aa77-50a41031e5b0/mzaf_5621586235804503324.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Sumite Karissimi",
+      "duration_ms": 249416,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/12/2c/b0122cfa-489f-046e-8583-6dffbafc5474/mzaf_854233658893354857.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Queen Anne's Lace",
+      "duration_ms": 364603,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c5/9e/cb/c59ecbf2-1856-db4d-f880-bcf16df3ef64/mzaf_9323288553016277642.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Áve Giove",
+      "duration_ms": 388329,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ee/bf/6e/eebf6e2c-80da-6b97-0cd7-8a6e7455343f/mzaf_12423110914732953197.plus.aac.p.m4a"
+    }
+  ]
+}
