@@ -1,0 +1,65 @@
+{
+  "id": "1471681427",
+  "artist": "H",
+  "album": "H",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/h/1471681427",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/70/f5/12/70f51299-78a0-4923-5beb-3a1bdb04f5ea/194491061081.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "818183",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Vitamin",
+      "duration_ms": 257390,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d4/35/28/d4352829-d84b-1594-e139-1e297beb1229/mzaf_8687779582202579881.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Alpensee",
+      "duration_ms": 277958,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/74/16/8d/74168dc6-e149-9055-15c1-c5fad5d6d2ff/mzaf_4107000618161910603.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Am Zug",
+      "duration_ms": 273132,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/4b/b2/f1/4bb2f1c6-a2f4-fb0f-bcb8-41933263be4c/mzaf_13040693611697459241.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "So kommt man weiter (Vitamin B - Reprise)",
+      "duration_ms": 203048,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/29/e3/af/29e3af43-60f2-0d93-edf3-1f2c94e810b2/mzaf_17449977416846292885.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Im Keller",
+      "duration_ms": 282060,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/f5/84/e5/f584e57f-2749-ccf6-974a-e9a8d7b434da/mzaf_10736458588406750251.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "w ist f mal s",
+      "duration_ms": 272565,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/f5/b4/2b/f5b42b83-ad06-a299-ca32-68266555368b/mzaf_18383045009665756986.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Nebenan zieht's",
+      "duration_ms": 302069,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/01/92/1c/01921c48-41f1-b7ab-0400-c4932a3bfcf2/mzaf_13179609254493552954.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Internationaler Tiefbau",
+      "duration_ms": 247221,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/54/d1/5c/54d15c72-9bc6-cc5a-56c1-37e20aef3363/mzaf_1519776958273993125.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Alle 11 Minuten",
+      "duration_ms": 305778,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/5e/c7/0c/5ec70c21-ccc2-3c48-dc79-459ab97630ea/mzaf_2673727637329484147.plus.aac.p.m4a"
+    }
+  ]
+}
