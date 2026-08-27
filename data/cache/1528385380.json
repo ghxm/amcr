@@ -1,0 +1,59 @@
+{
+  "id": "1528385380",
+  "artist": "AceMo",
+  "album": "I Want to Believe",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/i-want-to-believe/1528385380",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/74/cf/9b74cff3-803a-3ea3-feee-887bc62fa906/810025349523_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "38577c",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Sequence of Life",
+      "duration_ms": 323815,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/36/74/16/367416ad-79d8-e909-dc48-a871cd77bc26/mzaf_16797179403024692354.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Follow the Light",
+      "duration_ms": 352793,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/27/9a/15/279a1532-8807-9b69-ef37-644a8ee23701/mzaf_6397571948660104606.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Time Travelin'",
+      "duration_ms": 274773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/7b/5d/697b5d50-a9ff-05bc-95b5-d65907f4c9c5/mzaf_11544846683958804574.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Just Want U 2",
+      "duration_ms": 375068,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/e6/33/bbe633d1-e9e6-9f5a-2e5d-1635a88b0b6d/mzaf_3802419556387149494.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "I Want, I Need (Your Love)",
+      "duration_ms": 285816,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/a7/54/46a754cb-ce29-6125-02cb-22e3d171a4d3/mzaf_16660597723132450812.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "I Don't Wanna See U Here",
+      "duration_ms": 199980,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/86/d9/b286d9c9-46d0-6613-a513-fdd77f0df9eb/mzaf_11271571059416868881.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Never Knew You Would Be Real",
+      "duration_ms": 114115,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c1/6c/0b/c16c0b5e-c32e-6df0-dcd1-d189d8f46870/mzaf_10161426560551874004.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "We Are the Music Makers (2020)",
+      "duration_ms": 185608,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/f5/f8/37f5f8b4-7c01-54b5-4cd0-d52b5431fffa/mzaf_6558762991206998146.plus.aac.p.m4a"
+    }
+  ]
+}
