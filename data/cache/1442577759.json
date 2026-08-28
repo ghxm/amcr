@@ -1,0 +1,371 @@
+{
+  "id": "1442577759",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "Partykeller-Knaller",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/partykeller-knaller/1442577759",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/3b/69/613b698e-3249-e48c-bc5d-09a164796f37/00600753633489.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ed5909",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Karamba, Karacho, ein Whisky (in Rio De Janeiro)",
+      "duration_ms": 168787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/8f/5e/a48f5e1e-0059-26f4-063e-be347f195bce/mzaf_5865922953438946850.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Wähle 3-3-3 (Remastered 2002)",
+      "duration_ms": 134333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/93/a2/ab93a2e9-7712-c919-e8f4-f392477eed1d/mzaf_13997738820311641183.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Ich will 'nen Cowboy als Mann",
+      "duration_ms": 160973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/da/88/acda883d-5931-07c5-bd9f-171f300d1287/mzaf_5174651959207198589.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Alarmstufe 1",
+      "duration_ms": 148747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e1/04/5b/e1045bf3-8853-169b-b336-3b21bf07ae00/mzaf_4673136522097403190.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Indianapolis",
+      "duration_ms": 157147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/5a/ca/21/5aca21ca-ac14-b506-c816-5ad51d4c8a17/mzaf_8370852903298362561.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Unter dem Schottenrock ist gar nichts",
+      "duration_ms": 198107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/40/d3/bf40d319-3fb3-24ac-8673-ee275c969ce1/mzaf_13714807723981960089.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Es war einmal ein Jäger",
+      "duration_ms": 193533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/96/d3/3d/96d33ded-a42b-a0f3-f951-ef843d735e13/mzaf_233746700086252172.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Tumba Tumbala",
+      "duration_ms": 216773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/69/fc/3d/69fc3d3c-6a4a-6bd1-891b-83cf03741bcc/mzaf_7742906166212509110.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "So ein Mann",
+      "duration_ms": 197533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/da/da/cb/dadacb94-9b27-07ca-17a6-997b345a420b/mzaf_4156799317585754745.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Flamenco Espanol (Remastered 2005)",
+      "duration_ms": 222920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/51/2a/77/512a77af-caa5-1229-7671-94c96cffa108/mzaf_4137169133255049480.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Du bist ein Casanova",
+      "duration_ms": 237000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/ce/51/81/ce5181e6-fdb1-6a67-5f9e-ed7c7c4cfd2b/mzaf_9039690710963899601.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Zucker im Kaffee (Remastered 2004)",
+      "duration_ms": 129387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/9e/12/0e9e123a-defd-ae91-270f-964e85de62c7/mzaf_2859449589914666008.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Komm allein",
+      "duration_ms": 149760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/71/2c/79/712c7952-2e6e-c89c-2bc7-67335448a30a/mzaf_1492349364527913661.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Motorbiene (Remastered 2004)",
+      "duration_ms": 152320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/83/43/54/834354f9-9f9c-92d7-4c23-5945649001ef/mzaf_7061448786773922771.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Beim Bossa Nova küsst man nicht",
+      "duration_ms": 132533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/33/26/77/3326775d-12c9-eb6b-dfc4-f23b2b71b676/mzaf_1071927128035396958.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Rhythmus 1920",
+      "duration_ms": 156920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/c5/ff/0d/c5ff0d67-9265-4248-ac13-d39e88244fc1/mzaf_3617447842676898293.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Yes, Mister Superman",
+      "duration_ms": 138360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/19/ba/45/19ba45a4-d2e8-c60c-a094-36ff8e7874d4/mzaf_8789423720978752635.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Dame Dame Ya",
+      "duration_ms": 151813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/ec/5d/02/ec5d02e8-9651-4868-c095-073e009002ac/mzaf_6579815346216365266.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Minikini",
+      "duration_ms": 146133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/9d/9f/68/9d9f6863-987d-66a9-80b1-91c53794fd30/mzaf_7917981047611394667.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Mañana, Mañana, Mañana",
+      "duration_ms": 129120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/9f/eb/bd/9febbd3a-cf34-d949-d3df-16e06c0b0c01/mzaf_492602411068646219.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Er hat ein knallrotes Gummiboot",
+      "duration_ms": 196213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1d/41/8c/1d418c9d-1030-f01e-715d-0881140cca61/mzaf_14350614649128765036.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Kesse Küsse",
+      "duration_ms": 156680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/98/a0/fb98a0da-217f-ddc0-62f9-5c8b604efb36/mzaf_7246475162070818974.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Schreib' mir eine Karte",
+      "duration_ms": 124960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7e/77/fa/7e77fa35-eb4a-ca73-94a3-4a00b067e174/mzaf_5741776246530870569.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Pigalle",
+      "duration_ms": 164560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/bd/43/f0/bd43f0fc-5c8d-b322-8b34-8834bf708b6f/mzaf_7901761552509800372.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Tschitschibum",
+      "duration_ms": 146040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/56/a9/ad/56a9ad2f-bf7d-6675-2665-0147f6796cfd/mzaf_3782888103602948400.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Fiesta Cubana",
+      "duration_ms": 141600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/99/b7/44/99b74416-f52e-bba1-dc68-e205b1f252a0/mzaf_9068228121002859149.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Cara-Caramel, Choco-Chocolat",
+      "duration_ms": 166973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/02/5e/5f/025e5f58-293e-8f63-4e4a-80cdb1cdaa0b/mzaf_6210829229156575966.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "Da sprach der alte Häuptling",
+      "duration_ms": 167813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/82/d7/ad/82d7ada5-dc44-4294-9a49-e4c4a1b6346c/mzaf_9069619282521229909.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "Hoppel-Poppel",
+      "duration_ms": 169987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/5a/95/18/5a951842-3ae2-eaaf-349a-20ba537bbe3a/mzaf_7707571391703641271.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "Wärst du doch in Düsseldorf geblieben",
+      "duration_ms": 154347,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/3b/54/1c/3b541c66-bb33-7e2e-17a5-1237c6734547/mzaf_7076980323843113554.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "Das schöne Mädchen von Seite 1 (Remastered 2001)",
+      "duration_ms": 139053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/92/a8/7792a846-aa7f-80db-dfad-4f32e49a5aad/mzaf_12575981492545338582.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Olé-Okay",
+      "duration_ms": 135027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/50/46/b2/5046b272-cc09-4c36-6733-00a4b99047b7/mzaf_3888156535865485647.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "Babysitter-Boogie (Remastered 2004)",
+      "duration_ms": 124053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/8f/68/a5/8f68a509-af85-010f-e4fc-99227fbf75af/mzaf_2100024855862351064.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "Mister Boyfriend",
+      "duration_ms": 127093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/41/11/fb/4111fba1-0685-b3a6-a305-d10edf38931d/mzaf_3625952570908187071.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Grünes Licht",
+      "duration_ms": 139400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/93/d6/7b/93d67bd2-a6b8-6b5e-75bb-887bf453e34c/mzaf_7694990067087976312.plus.aac.p.m4a"
+    },
+    {
+      "n": 36,
+      "title": "Bumba Girl",
+      "duration_ms": 131373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a2/75/27/a2752700-9628-4e66-48fc-f4109a0fabc1/mzaf_3507615981615801280.plus.aac.p.m4a"
+    },
+    {
+      "n": 37,
+      "title": "Carneval Brasil",
+      "duration_ms": 184013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/1c/30/af/1c30af17-6b15-692e-dd41-bc63ee25804d/mzaf_1793140313738081816.plus.aac.p.m4a"
+    },
+    {
+      "n": 38,
+      "title": "Tanze Samba mit mir",
+      "duration_ms": 158320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/09/27/630927f2-cb7d-ef13-ed75-c04a8f76dcf0/mzaf_12473996206979538100.plus.aac.p.m4a"
+    },
+    {
+      "n": 39,
+      "title": "Im Zimmer unterm Dach",
+      "duration_ms": 150147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/bb/c7/da/bbc7da44-7cc7-e039-f333-9cae186a92a9/mzaf_402759033757740566.plus.aac.p.m4a"
+    },
+    {
+      "n": 40,
+      "title": "Feuer (Remastered 1996)",
+      "duration_ms": 181080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/2d/6d/3b/2d6d3b7c-e232-aaa8-80fe-94cebc720f89/mzaf_85979393758480961.plus.aac.p.m4a"
+    },
+    {
+      "n": 41,
+      "title": "Schön ist es auf der Welt zu sein",
+      "duration_ms": 204733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/d4/7c/c2d47ced-631c-8e24-962a-7c833ce40f90/mzaf_6285368795367298119.plus.aac.p.m4a"
+    },
+    {
+      "n": 42,
+      "title": "Flower-Power-Kleid",
+      "duration_ms": 149213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/61/7a/75/617a75d5-5afa-207b-a498-869b58984fe4/mzaf_14052182546822308790.plus.aac.p.m4a"
+    },
+    {
+      "n": 43,
+      "title": "Sauerkraut-Polka",
+      "duration_ms": 126520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/44/64/c0/4464c0f4-d08d-39d7-dde6-88ca2933e18b/mzaf_8138653910573848022.plus.aac.p.m4a"
+    },
+    {
+      "n": 44,
+      "title": "Tipitipitipso",
+      "duration_ms": 154093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/39/9d/dc399d5d-82a7-f360-155d-fafccfcbb349/mzaf_9248326145457742068.plus.aac.p.m4a"
+    },
+    {
+      "n": 45,
+      "title": "Schmidtchen Schleicher",
+      "duration_ms": 174280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/98/5f/4f985f10-02e2-8069-2297-43ff055a0816/mzaf_7502711721066512586.plus.aac.p.m4a"
+    },
+    {
+      "n": 46,
+      "title": "Ich möcht' der Knopf an deiner Bluse sein",
+      "duration_ms": 167933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/cf/21/44cf2100-3842-5b1c-35cb-0ccc506ea580/mzaf_561207106153083719.plus.aac.p.m4a"
+    },
+    {
+      "n": 47,
+      "title": "Coffee Song",
+      "duration_ms": 116800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/ab/8d/a4/ab8da422-65e1-7233-6af2-e07d88c4eb27/mzaf_6006302172703888587.plus.aac.p.m4a"
+    },
+    {
+      "n": 48,
+      "title": "Samba Olé, Rumba O.K.",
+      "duration_ms": 225933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/48/e2/ef/48e2efd8-e22f-1301-9318-d5e185dca60b/mzaf_6713882175989816820.plus.aac.p.m4a"
+    },
+    {
+      "n": 49,
+      "title": "Mein Name ist Hase",
+      "duration_ms": 158787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/b2/7d/2a/b27d2afa-b0cb-fe78-53f4-477a161a24d1/mzaf_5408084377245666726.plus.aac.p.m4a"
+    },
+    {
+      "n": 50,
+      "title": "My Boy Lollipop",
+      "duration_ms": 116680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/57/fc/c2/57fcc2d2-4c89-442f-d663-d533f0457575/mzaf_5611037711930900703.plus.aac.p.m4a"
+    },
+    {
+      "n": 51,
+      "title": "Auf dich nur wart ich immerzu",
+      "duration_ms": 156520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/6e/59/d5/6e59d597-50d9-98c6-39e3-8bcee9f592ac/mzaf_2223358893698291761.plus.aac.p.m4a"
+    },
+    {
+      "n": 52,
+      "title": "Wumba-Tumba Schokoladeneisverkäufer",
+      "duration_ms": 147400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7d/38/ac/7d38ac13-6701-3be5-0bb0-26a80980bfff/mzaf_205625514759202181.plus.aac.p.m4a"
+    },
+    {
+      "n": 53,
+      "title": "Mr. Casanova",
+      "duration_ms": 131853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a6/56/87/a6568784-f095-dc21-3c47-450b0961996a/mzaf_2258795954176679519.plus.aac.p.m4a"
+    },
+    {
+      "n": 54,
+      "title": "Ich will keine Schokolade",
+      "duration_ms": 144827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/2f/37/09/2f370915-1f45-a8b8-07c2-f31c7c6f8795/mzaf_6908179175967896720.plus.aac.p.m4a"
+    },
+    {
+      "n": 55,
+      "title": "Konjunktur-Cha-Cha",
+      "duration_ms": 183680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/88/7f/c9/887fc9ab-278f-3233-c5a8-2e47fd1097ec/mzaf_2657957328056422605.plus.aac.p.m4a"
+    },
+    {
+      "n": 56,
+      "title": "Heja, Heja ein Sombrero",
+      "duration_ms": 144760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e7/42/8c/e7428cc4-9032-b26e-478b-f7e5527037cb/mzaf_8615970607098313564.plus.aac.p.m4a"
+    },
+    {
+      "n": 57,
+      "title": "Komm in meinen Wigwam (Regenbogen-Johnny) [TV Fassung]",
+      "duration_ms": 176133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/6c/00/1e/6c001e19-f31e-3d12-0c3a-642674863380/mzaf_2699807497550749345.plus.aac.p.m4a"
+    },
+    {
+      "n": 58,
+      "title": "Du, die Wanne ist voll",
+      "duration_ms": 188627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7b/04/d0/7b04d085-8054-e453-9ced-1a1c287e6412/mzaf_7973043513093745528.plus.aac.p.m4a"
+    },
+    {
+      "n": 59,
+      "title": "Stop Amico",
+      "duration_ms": 144333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/35/d5/a9/35d5a9b4-e8d8-b1da-da12-3a0d88ab1f7b/mzaf_7503558205878749353.plus.aac.p.m4a"
+    },
+    {
+      "n": 60,
+      "title": "Hab'n wir nicht 'nen klugen Hund (Edit)",
+      "duration_ms": 120680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/48/b5/46/48b54648-cf91-554e-7484-13d63ad98bb0/mzaf_4378586138958909535.plus.aac.p.m4a"
+    }
+  ]
+}
