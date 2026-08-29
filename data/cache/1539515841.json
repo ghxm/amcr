@@ -1,0 +1,41 @@
+{
+  "id": "1539515841",
+  "artist": "Ella Fitzgerald",
+  "album": "Christmas With Ella - EP",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/christmas-with-ella-ep/1539515841",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cd/0d/be/cd0dbe15-214e-caa6-c932-59ab653dfb7c/21UMGIM99037.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "dfcfb0",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Sleigh Ride",
+      "duration_ms": 175987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/c3/89/b8c38978-9a22-0779-51d3-89ac2064528b/mzaf_5365110446401079910.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Frosty The Snowman",
+      "duration_ms": 131733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/f2/48/1ef24821-77ac-091a-d202-410873a0a025/mzaf_10192913281346769584.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "duration_ms": 163040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/ec/ca/f2ecca01-0e72-78b1-80f8-09942560352f/mzaf_2887054592007852317.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Jingle Bells",
+      "duration_ms": 143093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/f7/aa/a7f7aa68-d63d-cf76-41ae-18565ef90309/mzaf_9949623747487386101.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Have Yourself A Merry Little Christmas",
+      "duration_ms": 175840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2d/bd/8c/2dbd8c78-779d-c0d6-ebab-b6c589f7fa27/mzaf_16271408821586498713.plus.aac.p.m4a"
+    }
+  ]
+}
