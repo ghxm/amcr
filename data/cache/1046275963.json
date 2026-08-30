@@ -1,0 +1,95 @@
+{
+  "id": "1046275963",
+  "artist": "Venetian Snares",
+  "album": "Songs About My Cats",
+  "year": 2001,
+  "apple_music_url": "https://music.apple.com/de/album/songs-about-my-cats/1046275963",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/41/d3/8241d317-611c-44b6-8132-16e8ad079e58/5036706000490.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "0d0e10",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Chinaski",
+      "duration_ms": 261173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/bf/39/43bf393a-b3cf-78c2-f96d-c7f012e30d02/mzaf_5859328386874366596.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Katzesorge Part 1",
+      "duration_ms": 51707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/6a/17/c36a1779-b043-5df0-728b-80457d5501df/mzaf_467484676255244336.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Nepetalactone",
+      "duration_ms": 267573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/71/fd/49/71fd4984-60ff-64c9-1d61-094ca63cf60f/mzaf_12362429573984662683.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Poor Kakarookee",
+      "duration_ms": 364053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/a3/da/21a3daf8-6a49-2cd1-fa99-06a8b190eb55/mzaf_16963961475437756577.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "For Bertha Rand",
+      "duration_ms": 127973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/58/d8/6458d886-53ae-ba2a-a600-9cce886bee6b/mzaf_15740025956634157845.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Breakfast Time for Baboons",
+      "duration_ms": 204827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/45/45/62/45456273-d68f-afb3-329a-135ad87719a3/mzaf_5609542080285744832.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Fluff Master",
+      "duration_ms": 372213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/75/07/74/750774aa-442a-7eea-8325-e6b2e5989ed1/mzaf_5978053455341972621.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Bobo",
+      "duration_ms": 236573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/96/56/1f965694-d78c-cad4-7ce2-cc182de9d61c/mzaf_15385521163071479855.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Katzesorge Part 2",
+      "duration_ms": 51760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/65/3b/a8/653ba839-4d91-89de-867c-4db854d013ae/mzaf_4568096781750315665.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Pouncelciot",
+      "duration_ms": 190227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/fc/63/d2/fc63d272-ec24-06ec-0781-2fb6ccc46415/mzaf_5538180665110772147.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Kakenrooken Stivlobits",
+      "duration_ms": 283013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/6d/d8/73/6dd87377-8824-858d-7c37-ba2ebb6108af/mzaf_3103744730593952269.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Lioness",
+      "duration_ms": 124067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/09/43/64/09436476-5d8d-db8b-f5ad-af4758a568e9/mzaf_5973881861563231662.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Cleaning Each Other",
+      "duration_ms": 231533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/65/2d/aa/652daa6e-e4b8-7f5d-4a51-d8738937849f/mzaf_928758108094200180.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Look",
+      "duration_ms": 31547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/a5/89/ab/a589abd1-571a-449f-1753-e6b0369ba599/mzaf_8167097927863119237.plus.aac.p.m4a"
+    }
+  ]
+}
