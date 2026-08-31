@@ -1,0 +1,23 @@
+{
+  "id": "1565032736",
+  "artist": "Panda Bear",
+  "album": "Surfer’s Hymn - Single",
+  "year": 2011,
+  "apple_music_url": "https://music.apple.com/de/album/surfers-hymn-single/1565032736",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/4d/53/1b4d534b-9d65-5290-53b5-3247a3384a76/194606012465.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b4aea4",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Surfer's Hymn",
+      "duration_ms": 269174,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/22/b5/a822b57e-1be2-c2ee-aa5d-2f4c20153d3c/mzaf_13589259647952424204.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Surfer's Hymn (Actress Primitive Patterns Remix)",
+      "duration_ms": 270476,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/08/53/4a/08534a8b-8e1c-a476-13ea-81609ce48337/mzaf_6922851998400791494.plus.aac.p.m4a"
+    }
+  ]
+}
