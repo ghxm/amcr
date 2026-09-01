@@ -1,0 +1,53 @@
+{
+  "id": "1651053277",
+  "artist": "Fling II",
+  "album": "Fling II",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/fling-ii/1651053277",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/08/e3/96/08e39640-8e78-3a7b-bad0-4fdcda0fb6e9/artwork.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "c3b5a8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Glint",
+      "duration_ms": 259973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d6/b5/10/d6b510e5-0262-130a-ee69-3b28f5bfb83d/mzaf_11694060450705768901.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Misk",
+      "duration_ms": 777573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fd/c3/63/fdc36320-a627-f9a3-e813-26a8f00ff5f6/mzaf_5952678905314970437.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Gliss",
+      "duration_ms": 341413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8c/52/99/8c5299cf-3cf3-300f-01ac-2f9025e4c7cb/mzaf_7874276843138286872.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Mithra",
+      "duration_ms": 393613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c4/39/07/c4390770-9618-6a1b-3cfa-b405ce01230d/mzaf_10345203390899794018.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Warp",
+      "duration_ms": 694253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/93/09/83/9309832a-9f30-a43a-56ed-bb81765b49b0/mzaf_14562095505922034781.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Weft",
+      "duration_ms": 440587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/57/b1/3b/57b13b8c-5ea3-0032-069f-260089afc29e/mzaf_5533647205262949396.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Tetra",
+      "duration_ms": 358173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/50/41/34/504134dc-3d01-e006-4c22-ec1a4f7bcff1/mzaf_6070959053281880295.plus.aac.p.m4a"
+    }
+  ]
+}
