@@ -1,0 +1,35 @@
+{
+  "id": "1701148137",
+  "artist": "Holy Tongue",
+  "album": "II - EP",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/ii-ep/1701148137",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/47/0c/6d470c23-8ba8-4953-6bf6-09713fd3786e/5054285984086_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "d0d0ce",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Curse Removing",
+      "duration_ms": 278098,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/40/f6/02/40f6029b-0d74-0648-ffa0-04b004ffde78/mzaf_10492328111673237344.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "May Your Camp Be Sacred",
+      "duration_ms": 349907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fa/db/1d/fadb1d08-5f8c-2ba5-7997-0a47f9fbdb79/mzaf_11532832596213974884.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Bracha",
+      "duration_ms": 217809,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8e/fd/ff/8efdffe5-35ee-c1c1-617a-34ca42678854/mzaf_13940413826408132656.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Breicha",
+      "duration_ms": 457640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/28/7d/4e/287d4ed5-1587-6871-c856-69c0a93ccba0/mzaf_7036748663452943679.plus.aac.p.m4a"
+    }
+  ]
+}
