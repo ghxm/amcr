@@ -1,0 +1,107 @@
+{
+  "id": "1440833211",
+  "artist": "Sonic Youth",
+  "album": "Dirty",
+  "year": 1992,
+  "apple_music_url": "https://music.apple.com/de/album/dirty/1440833211",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/97/34/87/973487bc-bd4b-3c15-8495-0d3ec5996194/00602547570024.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f4f5f5",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "100%",
+      "duration_ms": 149503,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/75/5c/39755c7b-892f-7a18-a8ff-6730f0afb92b/mzaf_4624095692872251227.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Swimsuit Issue",
+      "duration_ms": 179520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/38/aa/dc38aa8f-3d14-73c5-ee00-d75bef3d92b1/mzaf_18082238959759072132.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Theresa's Sound-World",
+      "duration_ms": 328893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/44/1a/32441a7b-7e0e-5e58-658d-2293c1bc37d0/mzaf_16913749119416933431.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Drunken Butterfly",
+      "duration_ms": 184227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/36/df/a636df38-dab4-7dcd-a1a1-61078a61d617/mzaf_9254610418159371278.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Shoot",
+      "duration_ms": 317320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/18/89/1418898a-5c3c-ebb3-3bb5-23dafe4e6e9f/mzaf_10246491960388929800.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Wish Fulfillment",
+      "duration_ms": 206707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/e1/fd/abe1fd1a-4570-d253-deca-81f5eb194246/mzaf_11976157924016022224.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Sugar Kane",
+      "duration_ms": 357667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/bf/b0/7bbfb0f4-58c2-605f-f4da-52bdf2f39d4e/mzaf_5465553365027136243.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Orange Rolls, Angel's Spit",
+      "duration_ms": 259493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/8f/5a/498f5a58-c874-dd72-5a69-dd364fc7365f/mzaf_4642696374520983773.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Youth Against Fascism",
+      "duration_ms": 216027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/38/40/ad384078-f8c5-2282-6b56-f95580caf939/mzaf_18062882829541122001.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Nic Fit",
+      "duration_ms": 59867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/60/7c/e5607cee-1a24-c4e2-79f2-65451648e8c8/mzaf_13457646444756065482.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "On The Strip",
+      "duration_ms": 342147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/40/cc/1840ccf9-29ee-4771-dd0c-1f7239024be4/mzaf_6899455337359896786.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Chapel Hill",
+      "duration_ms": 288467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/26/50/652650d8-e535-f5c3-1de0-96d0d3cf5557/mzaf_13984290088183944662.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Stalker",
+      "duration_ms": 181067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/98/00/16980040-b215-4491-a790-c5dde91c4cae/mzaf_3602307649501491107.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "JC",
+      "duration_ms": 243307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/6d/51/a06d513d-570b-c9ed-fc8d-da16a0507e8c/mzaf_16281968203000623335.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Purr",
+      "duration_ms": 261973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/fc/a4/23fca4f8-4723-5f9b-1d17-fadab64ef7a0/mzaf_17990180409023313367.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Creme Brulee",
+      "duration_ms": 155067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/69/19/05691915-2192-3bfb-77a5-7420e3fd458e/mzaf_15996620446912478299.plus.aac.p.m4a"
+    }
+  ]
+}
