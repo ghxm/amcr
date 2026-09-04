@@ -1,0 +1,35 @@
+{
+  "id": "1334012630",
+  "artist": "Chihei Hatakeyama",
+  "album": "Far from the Atmosphere",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/far-from-the-atmosphere/1334012630",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8c/e4/bd/8ce4bdd8-df5e-a59b-cd1a-70c7c200b412/4525118072856.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "080403",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Far from the Atmosphere",
+      "duration_ms": 1391987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/4b/2f/774b2feb-fb3c-2b82-9e29-3c4217bd5888/mzaf_13165049874944806436.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Far from the Atmosphereⅱ",
+      "duration_ms": 217253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/58/7f/9c587ff5-9e3a-47a8-3c41-95a22e76e05c/mzaf_1116199293489334209.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Far from the Atmosphereⅲ",
+      "duration_ms": 353653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/97/76/cf9776a2-5db9-2990-1b64-578120f82bb9/mzaf_16142385911917260340.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Far from the Atmosphereⅳ",
+      "duration_ms": 1152653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/c2/a2/70c2a275-abb5-4167-c125-f30a8dc7fc11/mzaf_18301880063968940707.plus.aac.p.m4a"
+    }
+  ]
+}
