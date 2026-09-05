@@ -1,0 +1,65 @@
+{
+  "id": "914307271",
+  "artist": "Sky Walking",
+  "album": "Sky Walking",
+  "year": 2014,
+  "apple_music_url": "https://music.apple.com/de/album/sky-walking/914307271",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/92/29/12/9229127e-4384-7242-8b1b-80df9bc2fde8/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2a2a2a",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Departures",
+      "duration_ms": 434169,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/30/28/b93028c3-6c5c-9487-3ede-28334355069c/mzaf_18256559322926824594.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Our Literal Speed",
+      "duration_ms": 209703,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/fe/96/3e/fe963ebe-1b60-d6d2-a823-28d641fd9f03/mzaf_3168115662960302473.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Sky Skye",
+      "duration_ms": 234551,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/fb/63/a2/fb63a2a4-bbed-9f3d-96ad-fea183c35cd4/mzaf_3782788041526899376.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Auroville",
+      "duration_ms": 138648,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/19/f5/92/19f59295-b45e-3e63-a872-4af3e31da86a/mzaf_1019800653254363892.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Pauline",
+      "duration_ms": 180814,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/87/2f/44/872f4469-2ef1-6b4b-8e74-452d2e825be3/mzaf_5685982608196201727.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Crystal Robe",
+      "duration_ms": 309397,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/55/0a/55/550a5554-1de1-e954-41e4-7868e8cf371c/mzaf_4826172666330809724.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Valentine Draft",
+      "duration_ms": 177846,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/2f/4c/d1/2f4cd160-d45b-1fa2-f571-05ba83099a12/mzaf_9095177605232450632.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Conversation Piece",
+      "duration_ms": 353989,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/d8/79/47/d87947d8-f91f-1f26-aebe-eb6ef7b66873/mzaf_8364867725940035504.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Paradise",
+      "duration_ms": 397000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/5a/39/79/5a39798f-03f8-2aa1-48de-272a289f2774/mzaf_1662248358032026949.plus.aac.p.m4a"
+    }
+  ]
+}
