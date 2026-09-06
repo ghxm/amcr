@@ -1,0 +1,29 @@
+{
+  "id": "1776140100",
+  "artist": "pq",
+  "album": "pq - granuals - Single",
+  "year": 2024,
+  "apple_music_url": "https://music.apple.com/de/album/pq-granuals-single/1776140100",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/37/81/0f378174-8231-3e28-d67e-b95acb340a86/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "93a468",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "dawn chaurus",
+      "duration_ms": 428853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/bc/b2/18bcb208-9b18-648a-c02c-f31b303f2333/mzaf_10439881609999799961.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "undercurrent",
+      "duration_ms": 461539,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/b1/54/51b154cd-c15d-6d82-fddd-34c21d8449b8/mzaf_16946865046504816730.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "granuals",
+      "duration_ms": 531379,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/5d/50/e15d504d-6655-3acf-973c-82efbcb99fe4/mzaf_7824874832826723218.plus.aac.p.m4a"
+    }
+  ]
+}
