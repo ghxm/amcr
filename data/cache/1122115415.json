@@ -1,0 +1,29 @@
+{
+  "id": "1122115415",
+  "artist": "Komeda Quintet",
+  "album": "Astigmatic",
+  "year": 1965,
+  "apple_music_url": "https://music.apple.com/de/album/astigmatic/1122115415",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bf/dd/9e/bfdd9efd-f059-a60c-a0fd-458f83b702fb/190295936761.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "23141b",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Astigmatic",
+      "duration_ms": 1382427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/18/dc/ee18dcb9-3d6b-2a68-2a09-b050a582fbc9/mzaf_15385607777043989319.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Kattorna",
+      "duration_ms": 450213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/ba/90/68ba90ae-639d-1e61-f54c-3834cea822bd/mzaf_9144783722964824478.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Svantetic",
+      "duration_ms": 956267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/b0/f2/b8b0f28e-93fd-5721-3c13-da7d3aa8ff7d/mzaf_10479692693200593992.plus.aac.p.m4a"
+    }
+  ]
+}
