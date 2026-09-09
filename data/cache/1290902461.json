@@ -1,0 +1,95 @@
+{
+  "id": "1290902461",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "Pearls - Two",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/pearls-two/1290902461",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/44/60/62/44606245-fe8f-b855-4956-bcb819ce6b34/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e5e1de",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Nightcall (Instrumental)",
+      "duration_ms": 411621,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/31/eb/99/31eb99aa-6546-79c2-5577-4468fffde65a/mzaf_1779136768948643733.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "The Self",
+      "duration_ms": 202105,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/79/38/48/79384868-122c-6b2f-2bad-8199bdc30d1d/mzaf_3073063196254475229.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Rain in All Familiar Places",
+      "duration_ms": 533407,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f8/5d/6c/f85d6cf0-b4d4-8eae-7e3e-ee471ce83581/mzaf_1341054595485687967.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Agfa Color",
+      "duration_ms": 238625,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/2c/c4/e4/2cc4e43b-2f08-5d5e-195e-175cab4bd13c/mzaf_6507387611258146697.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Flowers",
+      "duration_ms": 404000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/51/6e/d8/516ed8b3-06b5-16d0-85fe-7c43d8b738e9/mzaf_2629392377815902776.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Craft",
+      "duration_ms": 452616,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/08/3b/80/083b802b-c500-eb7e-5ecf-c83ebffec112/mzaf_3542840599703577947.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Painting 1",
+      "duration_ms": 182264,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/31/77/1a/31771a1f-387a-931c-67f9-e92113099066/mzaf_2654657121214120336.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Dark Flo",
+      "duration_ms": 421520,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/ba/53/46/ba53469f-8fc4-4a4b-2e3d-aad7240173e1/mzaf_6139490310996521764.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Perception",
+      "duration_ms": 312000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/ae/d5/c1/aed5c1d4-6132-572d-5ac5-bb38a395623d/mzaf_8807279535895368269.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Karamel 2",
+      "duration_ms": 414653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/ec/3e/02/ec3e02f7-7774-dadc-6cd9-31aab1091c58/mzaf_6092381044341738832.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Taniec (Lowtec Remix)",
+      "duration_ms": 350942,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/74/b7/5e/74b75e39-f92f-1a79-014c-d0158462dc5f/mzaf_7192614955148687189.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Toriton (Satoshi Fumi Ambient Mix)",
+      "duration_ms": 270968,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/54/25/50/54255065-e611-95f4-3635-9754508f9ca3/mzaf_1409866584040128927.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Lazy Friday",
+      "duration_ms": 293129,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/38/ee/d1/38eed1de-1e45-89d8-7142-2cf3edccd546/mzaf_8795550934064158312.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Circle3",
+      "duration_ms": 256000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e5/59/17/e559179f-0ad0-ec8b-09ff-81d23f428bbf/mzaf_727354416233537215.plus.aac.p.m4a"
+    }
+  ]
+}
