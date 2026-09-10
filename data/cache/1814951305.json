@@ -1,0 +1,371 @@
+{
+  "id": "1814951305",
+  "artist": "Markus Gardeweg",
+  "album": "Kontor Top Of The Clubs: Electric 90s (DJ Mix)",
+  "year": 2025,
+  "apple_music_url": "https://music.apple.com/de/album/kontor-top-of-the-clubs-electric-90s-dj-mix/1814951305",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/c7/a2/e2c7a2bf-da9b-94c1-584f-6f46cfeba19f/f14d42df-f147-45db-bbc8-9dac7afec85b.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "151515",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Needin' U (Club Mix) [Mixed]",
+      "duration_ms": 162489,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/ce/65/3dce65a0-f3b6-5e08-6d9c-bba92c51573a/mzaf_8068586943412839435.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Gypsy Woman (She's Homeless) [La Da Dee La Da Da] [Mixed]",
+      "duration_ms": 211915,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/f7/e6/c4f7e6c1-b047-3ea4-b8b5-b71592887853/mzaf_8238753258730908194.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Show Me Love (Mixed)",
+      "duration_ms": 198631,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/59/c6/7459c62f-0a24-6eb2-28db-f8a8b3e9be42/mzaf_7252215086077077891.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "I Luv U Baby (feat. Walter Taieb) [Dancing Divaz Club Mix] [Mixed]",
+      "duration_ms": 219323,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/bc/4a/9fbc4acd-0aa0-3d6e-5ea7-6dea3e027cec/mzaf_14253690416349824359.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Push the Feeling On (Mk Dub Revisited Edit) [Mixed]",
+      "duration_ms": 255124,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/05/74/6a05749a-d9b2-133e-747a-0b93c2be5b69/mzaf_14000855732991420690.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Finally (7\" Choice Mix) [Mixed]",
+      "duration_ms": 141627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/3e/8e/653e8eda-182f-8231-c068-e7538665aa90/mzaf_12807747800357832050.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Rich In Paradise (Going Back To My Roots) [Mixed]",
+      "duration_ms": 143483,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/01/67/af016716-434e-ec8c-2266-04b34a560569/mzaf_15328710895187383652.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "You Don't Know Me (feat. Duane Harden) [Mixed]",
+      "duration_ms": 240030,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/ef/89/30ef89ce-3198-68ea-9618-b2ac1fa341ce/mzaf_5976598517172140768.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "It's Like That (Drop The Break Edit) [Mixed]",
+      "duration_ms": 239179,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/34/65/983465c6-26c1-80e8-bef0-cb8965892aac/mzaf_18249979196131011689.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Want Love (Mixed)",
+      "duration_ms": 143081,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/ea/cf/fceacf9f-fa3f-53a8-4651-5ed9d48d02d9/mzaf_5140700677745665336.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Let Me Be Your Fantasy (Dancing Divaz Club Mix) [Mixed]",
+      "duration_ms": 186150,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/2e/ea/7a2eeacf-7e5a-9044-86e7-3d7e1eeec516/mzaf_3155621706370733022.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Beachball (Mixed)",
+      "duration_ms": 189769,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/e0/20/ece02077-a753-7682-3fe5-af03f7583e3d/mzaf_15407917318344156306.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "You're Not Alone (Mixed)",
+      "duration_ms": 76721,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/c1/78/dfc17862-df5d-19dd-9fa9-67b3984077f5/mzaf_2809108743984336304.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "(I Wanna Give You) Devotion (Mixed)",
+      "duration_ms": 220653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/2e/97/a42e97db-3b46-7591-7b65-0ca5601e4a74/mzaf_6231368689089113841.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Dreamer (Mixed)",
+      "duration_ms": 176253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/1a/93/1c1a934f-115a-4deb-f954-b9cfc6564b8e/mzaf_5616599961198889878.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Turn Around (Mixed)",
+      "duration_ms": 227751,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/15/22/55152283-0f58-628a-6905-135c11f8a957/mzaf_7265644300808441021.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Magic Carpet Ride (Son of Wilmot Version) [Mixed]",
+      "duration_ms": 103475,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/73/0a/a5730a43-cdba-e666-8587-bc949569b6a4/mzaf_17133071463127426599.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Give It Up (Batucada Refrescante) [Mixed]",
+      "duration_ms": 137946,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/19/35/f0193521-a351-c2c5-6800-d08b98c1fb83/mzaf_12003268780273726171.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Professional Widow (Armand's Star Trunk Funkin' Mix) [Mixed]",
+      "duration_ms": 195646,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/30/ac/4330acb3-4722-9f5e-5257-91b943793f9e/mzaf_15062848049693970333.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Plastic Dreams (Mixed)",
+      "duration_ms": 189877,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/6e/d6/126ed6ae-02c2-afe2-20a1-a0954f67e324/mzaf_14840876839495016782.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Toca Me (Mixed)",
+      "duration_ms": 193635,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/86/17/7d861739-e9a7-d61c-d14a-bb65670aa76f/mzaf_17020911153998925538.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Reflect (Mixed)",
+      "duration_ms": 170778,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/0f/be/2b0fbead-737e-49b5-ac83-35ebd30cf20f/mzaf_7061965511031472782.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Seven Days and One Week (Mixed)",
+      "duration_ms": 263181,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/c6/e9/6fc6e9c4-90e4-cfde-a02e-16a9295823c4/mzaf_14777912890465414620.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Café Del Mar (Three 'n One Remix) [Mixed]",
+      "duration_ms": 170902,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/ad/d7/29add756-e449-8cd2-7890-c8291354b61b/mzaf_4838176019885522870.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Children (Dream Version) [Mixed]",
+      "duration_ms": 233241,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/f9/2c/7df92c4b-5e92-f96a-fc7d-52632e8a46d0/mzaf_15325861269796515249.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Saltwater (feat. Moya Brennan) [Mixed]",
+      "duration_ms": 175557,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/b2/48/d6b24846-8d8c-8303-ee96-3741384ab9b7/mzaf_13018570020066043666.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Pulverturm (DJ Tomcraft Remix) [Mixed]",
+      "duration_ms": 171227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/a3/f9/fca3f9e8-28fb-b4f3-03b2-0faa56eaa1d4/mzaf_15828220699343387415.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "For An Angel (PVD Angel In Heaven Edit) [Mixed]",
+      "duration_ms": 241917,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/96/68/54966856-d337-66a1-53da-63a55e9a1c46/mzaf_9249717034627815499.plus.aac.p.m4a"
+    },
+    {
+      "n": 29,
+      "title": "Silence (feat. Sarah McLachlan) [Fade's Sanctuary Edit] [Mixed]",
+      "duration_ms": 210353,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/b5/b8/b4b5b8a8-69bf-252d-1258-f76ea813f635/mzaf_17896761096448597557.plus.aac.p.m4a"
+    },
+    {
+      "n": 30,
+      "title": "I Believe (Mixed)",
+      "duration_ms": 219802,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/73/5b/fd735b0d-3824-00fe-9749-d6781761136e/mzaf_5925739861503577042.plus.aac.p.m4a"
+    },
+    {
+      "n": 31,
+      "title": "Cream (Mixed)",
+      "duration_ms": 192800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/e2/51/5ce251d2-c709-32f3-ded6-2cb149fb16b4/mzaf_7510451049828431324.plus.aac.p.m4a"
+    },
+    {
+      "n": 32,
+      "title": "Loops & Tings (Fruit Loops Remix) [Mixed]",
+      "duration_ms": 189831,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/c9/95/55c99540-58aa-a80a-eeb1-01d33a727a73/mzaf_16715654204329104941.plus.aac.p.m4a"
+    },
+    {
+      "n": 33,
+      "title": "Sweet Harmony (Mixed)",
+      "duration_ms": 227689,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/89/64/8a8964d2-c344-208a-b417-faad12c8adc8/mzaf_16713976530036657671.plus.aac.p.m4a"
+    },
+    {
+      "n": 34,
+      "title": "9 PM (Till I Come) [9 PM Mix] [Mixed]",
+      "duration_ms": 188857,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/ec/97/74ec9768-a396-1efc-7cbc-f7f1e9c53983/mzaf_17619852159469455736.plus.aac.p.m4a"
+    },
+    {
+      "n": 35,
+      "title": "Das Glockenspiel (Mixed)",
+      "duration_ms": 191378,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/e9/a0/25e9a02a-0adf-00f0-33ef-dcf1a7a94eb3/mzaf_13128764346714134690.plus.aac.p.m4a"
+    },
+    {
+      "n": 36,
+      "title": "Schöneberg (Mixed)",
+      "duration_ms": 199373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/b9/0a/05b90ae9-eabc-e30c-32b3-161c1f00d65f/mzaf_13620345596313418822.plus.aac.p.m4a"
+    },
+    {
+      "n": 37,
+      "title": "Klubbhopping (Mixed)",
+      "duration_ms": 169742,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/28/ab/1928ab21-4b39-f525-d8b8-fbd4b4ba2a4c/mzaf_3010697226481567294.plus.aac.p.m4a"
+    },
+    {
+      "n": 38,
+      "title": "20 Hz (Mixed)",
+      "duration_ms": 147705,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/c8/f5/98c8f5f1-8255-5717-2f9b-2dab268b3081/mzaf_13599251850683172505.plus.aac.p.m4a"
+    },
+    {
+      "n": 39,
+      "title": "Waterfall (Mixed)",
+      "duration_ms": 153458,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/d7/33/7bd73372-2824-d99a-16c7-b8de9d164e0d/mzaf_3382005553847803368.plus.aac.p.m4a"
+    },
+    {
+      "n": 40,
+      "title": "It Feels so Good (Mixed)",
+      "duration_ms": 219091,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/2f/2c/8f2f2c0b-b82c-a311-15d3-5b80fe5bea1f/mzaf_1917525268227698480.plus.aac.p.m4a"
+    },
+    {
+      "n": 41,
+      "title": "Groove Is In the Heart (Mixed)",
+      "duration_ms": 220482,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/67/78/1467784c-302d-aa0e-c117-419aa86de13b/mzaf_13287590506335771979.plus.aac.p.m4a"
+    },
+    {
+      "n": 42,
+      "title": "Praise You (Mixed)",
+      "duration_ms": 221194,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/52/c0/2352c06d-0f98-e3a0-96d0-2cbfc823c490/mzaf_15923969657203131575.plus.aac.p.m4a"
+    },
+    {
+      "n": 43,
+      "title": "Dooms Night (Timo Maas Remix) [Mixed]",
+      "duration_ms": 115399,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/cb/5e/52cb5eec-c914-d838-2ad3-147c02afafb6/mzaf_15876350830894239323.plus.aac.p.m4a"
+    },
+    {
+      "n": 44,
+      "title": "Killer (Mixed)",
+      "duration_ms": 242999,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/8d/9b/b48d9bbd-ad89-9ab5-8d8d-838b7cce9de9/mzaf_1863148081805480147.plus.aac.p.m4a"
+    },
+    {
+      "n": 45,
+      "title": "It's A Fine Day (Mixed)",
+      "duration_ms": 176933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/6d/4a/a56d4a0a-0eb7-2c87-75bc-4dd926f84773/mzaf_5825086755289157788.plus.aac.p.m4a"
+    },
+    {
+      "n": 46,
+      "title": "No Good (Start the Dance) [Mixed]",
+      "duration_ms": 174768,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/8e/30/9c8e304d-301c-adee-88ad-b6ee89c8ef0b/mzaf_3496910730913060020.plus.aac.p.m4a"
+    },
+    {
+      "n": 47,
+      "title": "Sonic Empire (Mixed)",
+      "duration_ms": 230334,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/09/cd/6709cdcb-5716-c937-2d59-dad5b3f9f78a/mzaf_7018874150449415888.plus.aac.p.m4a"
+    },
+    {
+      "n": 48,
+      "title": "Kernkraft 400 (DJ Gius Mix) [Mixed]",
+      "duration_ms": 164824,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/9b/57/3e9b5775-ff92-0f1e-d737-1d6974c2857c/mzaf_17811193648783228310.plus.aac.p.m4a"
+    },
+    {
+      "n": 49,
+      "title": "Insomnia (Monster Mix) [Mixed]",
+      "duration_ms": 207399,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/5e/4f/4e5e4fb9-33b1-98eb-24a1-16e11e57bf11/mzaf_4250795517008757097.plus.aac.p.m4a"
+    },
+    {
+      "n": 50,
+      "title": "Gonna Make You Sweat (Everybody Dance Now) [Mixed]",
+      "duration_ms": 109816,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/9c/7a/939c7a8a-e905-93f5-6410-8dce90f8fb92/mzaf_14701292355012258529.plus.aac.p.m4a"
+    },
+    {
+      "n": 51,
+      "title": "Rhythm Is a Dancer (Mixed)",
+      "duration_ms": 215333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/c0/9d/a2c09d3b-fd75-633b-71b9-56b0d6dcad5e/mzaf_4192360529804841480.plus.aac.p.m4a"
+    },
+    {
+      "n": 52,
+      "title": "Don't You Want Me (Hooj Mix) [Mixed]",
+      "duration_ms": 170747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/44/6c/7e446c47-7181-a243-3ddf-6641fcaecefd/mzaf_16473183637771122024.plus.aac.p.m4a"
+    },
+    {
+      "n": 53,
+      "title": "Hey Boy Hey Girl (Mixed)",
+      "duration_ms": 148231,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/64/85/08648583-d7d3-1fd3-75b8-d0ad3d8437e7/mzaf_649339153537929924.plus.aac.p.m4a"
+    },
+    {
+      "n": 54,
+      "title": "Anthem (Mixed)",
+      "duration_ms": 160788,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/5e/20/0b5e203f-72f4-bb19-fc58-af216be382ab/mzaf_14464421254594743503.plus.aac.p.m4a"
+    },
+    {
+      "n": 55,
+      "title": "Pump Up the Jam (Mixed)",
+      "duration_ms": 203456,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/46/f0/7246f0e8-0128-1744-1085-024233ef4e9d/mzaf_9658907484625842425.plus.aac.p.m4a"
+    },
+    {
+      "n": 56,
+      "title": "Open Your Mind (Mixed)",
+      "duration_ms": 138658,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/6b/60/ae6b60af-29e0-fe76-f8f0-4212dcea68d8/mzaf_12519834871888132469.plus.aac.p.m4a"
+    },
+    {
+      "n": 57,
+      "title": "Kinetic (Orbital Mix) [Mixed]",
+      "duration_ms": 112368,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/e3/00/ebe300a3-b166-f763-14d4-fa5c7ecfab10/mzaf_10083957523959845469.plus.aac.p.m4a"
+    },
+    {
+      "n": 58,
+      "title": "Pacific (707) [Mixed]",
+      "duration_ms": 221704,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/75/0a/ad750a3f-00e6-286d-f60a-595ff79b5475/mzaf_13125735443103550884.plus.aac.p.m4a"
+    },
+    {
+      "n": 59,
+      "title": "The Age Of Love (Jam & Spoon Watch Out For Stella Mix) [Mixed]",
+      "duration_ms": 251072,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/eb/c7/3debc7cd-7684-94b1-b76b-5575f0f1c000/mzaf_13003316133837684449.plus.aac.p.m4a"
+    },
+    {
+      "n": 60,
+      "title": "Higher State of Consciousness (Tweekin Acid Funk Mix) [Mixed]",
+      "duration_ms": 221738,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/c6/de/19c6de9c-a2ad-c7d6-7772-09521b8b6258/mzaf_12741301734601111303.plus.aac.p.m4a"
+    }
+  ]
+}
