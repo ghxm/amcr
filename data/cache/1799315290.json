@@ -1,0 +1,41 @@
+{
+  "id": "1799315290",
+  "artist": "Pita",
+  "album": "Get On",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/get-on/1799315290",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/a6/66/f4a66640-700d-afcd-4ac4-db6a1277c275/880918270746.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "363538",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "AMFM",
+      "duration_ms": 290499,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/17/07/121707b2-a508-44b3-b31b-1a3008563efa/mzaf_13498510649111701894.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Frozen Jumper",
+      "duration_ms": 394000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/70/8e/16708ed7-b664-2a4d-02d4-10855fa42ab2/mzaf_3122808023115761379.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Two Top Five",
+      "duration_ms": 358000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/92/a3/b892a3d9-80ec-6d61-e8e7-63513c272231/mzaf_13789210628445863994.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Aching Moth Pool",
+      "duration_ms": 181967,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/07/29/380729f0-0353-a39b-a647-b82b64053048/mzaf_8470921458295664489.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Motivation",
+      "duration_ms": 938000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/11/36/5b1136cc-3a3b-aaff-7cfb-c289ad9eea25/mzaf_18099597208876183447.plus.aac.p.m4a"
+    }
+  ]
+}
