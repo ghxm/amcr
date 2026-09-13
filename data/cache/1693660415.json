@@ -1,0 +1,89 @@
+{
+  "id": "1693660415",
+  "artist": "Nouvelle Vague",
+  "album": "3",
+  "year": 2009,
+  "apple_music_url": "https://music.apple.com/de/album/3/1693660415",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/e1/13/8ae113e3-2309-35ee-4d2a-db178ed5b24c/5400863143817_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Master and Servant (feat. Mélanie Pain & Martin Gore)",
+      "duration_ms": 199200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/65/72/74/6572748a-9323-3886-aeb1-e49875c6d710/mzaf_8371667226011777586.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Blister in the Sun (feat. Eloisia)",
+      "duration_ms": 191680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d9/be/01/d9be0110-b4d7-a35b-e183-b81e6f972666/mzaf_10815031762095569238.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Road to Nowhere (feat. Sandra Dee)",
+      "duration_ms": 191107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/35/d5/37/35d53770-8e36-7f45-36cf-64818cd2e6f1/mzaf_10190924460105414072.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "All My Colours (feat. Mélanie Pain & Ian McCulloch)",
+      "duration_ms": 237880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/74/39/b0/7439b056-88d6-ec51-8992-2b2a0046fe4d/mzaf_12370216853758466676.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "The American (feat. Silja)",
+      "duration_ms": 223027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b4/f7/72/b4f77276-6c71-2476-064d-f53afb335fe9/mzaf_10087267867110226649.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Heaven (feat. Karina Zeviani)",
+      "duration_ms": 248507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/aa/13/7c/aa137c70-a64e-8f59-4c02-a0f57a1d986e/mzaf_15634869492095748463.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Parade (feat. Nadeah & Barry Adamson)",
+      "duration_ms": 243787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6d/8a/e9/6d8ae987-f9ff-4c9d-ae37-6cd9cd144d5f/mzaf_6958126389500881441.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Metal (feat. Eloisia)",
+      "duration_ms": 226920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/26/b4/e3/26b4e34b-3546-f22e-637d-3d31c431a649/mzaf_6212387698087249595.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Ca Plane Pour Moi (feat. Leelou)",
+      "duration_ms": 202027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/72/49/ed/7249edc4-89d3-ea67-e2f3-74c0082cb911/mzaf_5830267282734389422.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Our Lips Are Sealed (feat. Marina Céleste & Terry Hall)",
+      "duration_ms": 209787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2d/6d/0d/2d6d0d11-a342-cdde-70f7-a1c5786d5ac3/mzaf_15720197929905019176.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "God Save the Queen (feat. Mélanie Pain)",
+      "duration_ms": 165587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d1/3f/33/d13f33f6-c193-500a-ea7c-aabc974e6ffb/mzaf_4905468145225128148.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Say Hello Wave Goodbye (feat. Sophie Delila)",
+      "duration_ms": 300307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5b/59/48/5b594868-e245-dcde-9439-054767a7caf3/mzaf_16982386840297381587.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "So Lonely (feat. Nadeah)",
+      "duration_ms": 232200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4d/b5/d5/4db5d5a0-6f8c-8e29-7b17-630e5e60c384/mzaf_1577306557986587795.plus.aac.p.m4a"
+    }
+  ]
+}
