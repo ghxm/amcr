@@ -1,0 +1,89 @@
+{
+  "id": "487828913",
+  "artist": "Drexciya",
+  "album": "Journey of the Deep Sea Dweller, Pt. 1",
+  "year": 2012,
+  "apple_music_url": "https://music.apple.com/de/album/journey-of-the-deep-sea-dweller-pt-1/487828913",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9b/5e/1a9b5e64-d380-cd33-f2cb-2d06c56a17c6/mzi.sgumzzka.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Welcome to Drexciya",
+      "duration_ms": 135335,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/72/07/35720700-9277-1d9b-01fb-29f16d0574eb/mzaf_10499111554151597394.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Wavejumper",
+      "duration_ms": 400201,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/25/00/c4250059-620d-1e59-8e82-7a1cda34f09a/mzaf_1795713156754093160.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Lardossen Funk",
+      "duration_ms": 236439,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/05/32/92053201-7c4d-ea0a-99d3-f6a9c9f796f0/mzaf_4289413434525900413.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Bubble Metropolis",
+      "duration_ms": 354475,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/5d/0c/705d0c7f-1387-3ebd-ef9f-e4bd826ad8a6/mzaf_13268960426095938814.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Hydro Theory",
+      "duration_ms": 408993,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/a4/38/7ca43886-ee9a-43e0-62d0-51ac30be4247/mzaf_614769270638334706.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Beyond the Abyss",
+      "duration_ms": 137849,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/da/73/61da73cd-297e-5373-0abd-cdb91683c27f/mzaf_14981420528691557027.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Unknown Journey, Pt. 1",
+      "duration_ms": 285818,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/e6/89/7de689b3-e04e-85d4-9d05-9ac3d1e3a53e/mzaf_9569625930678922155.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Aquarazorda",
+      "duration_ms": 352810,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/ac/c8/5cacc899-2127-12b6-0091-0d31981961d1/mzaf_9109574435680096034.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Rubick's Cube",
+      "duration_ms": 383024,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/2d/73/562d739a-92de-2b8b-0783-af7e548a0d00/mzaf_8575923823663264834.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Sea Quake",
+      "duration_ms": 273320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/96/5e/c8965e03-dbde-e2a7-ef16-41c3914841c6/mzaf_5047836160898902082.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Take Your Mind",
+      "duration_ms": 162695,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/77/24/9877249e-fc6b-ac32-623b-4b22a0e915d6/mzaf_10149856338169121022.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Darthouven Fish Men",
+      "duration_ms": 173697,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/cc/45/fccc452e-b911-0aae-efd3-e8d42a46b767/mzaf_17823869253528368667.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Dehydration",
+      "duration_ms": 175591,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/06/2e/72/062e729d-6a08-7a63-047f-1a469c7be85d/mzaf_13215749271560440148.plus.aac.p.m4a"
+    }
+  ]
+}
