@@ -1,0 +1,23 @@
+{
+  "id": "1475450483",
+  "artist": "Flame 2",
+  "album": "Dive / Rain - Single",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/dive-rain-single/1475450483",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/1a/95/391a9595-c4f4-5982-4f28-86ac8f93dc0b/5056321602770.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "828181",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Dive",
+      "duration_ms": 336499,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/9b/6f/009b6fda-a1cc-94d5-3554-e4315c02e3d6/mzaf_2212612144377796231.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Rain",
+      "duration_ms": 222143,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1b/2d/b1/1b2db1ba-6592-2807-d780-684314ddba3a/mzaf_9943567593105605843.plus.aac.p.m4a"
+    }
+  ]
+}
