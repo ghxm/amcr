@@ -1,0 +1,77 @@
+{
+  "id": "1543412334",
+  "artist": "Mirah",
+  "album": "C'mon Miracle",
+  "year": 2004,
+  "apple_music_url": "https://music.apple.com/de/album/cmon-miracle/1543412334",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/a7/b7/b7a7b7a6-17ea-c7b8-526c-bbcb399377c8/644110407191.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "948883",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Nobody Has to Stay",
+      "duration_ms": 166613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/64/52/b5645207-7a26-afbd-8130-7b305cce08f3/mzaf_9894531397562674856.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Jerusalem",
+      "duration_ms": 140933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/fd/14/88fd147b-5274-54e1-5fe3-796400baaff0/mzaf_17849204614328577765.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Light",
+      "duration_ms": 198920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/4e/c5/d44ec5ad-0e0e-6777-8cd9-967e1f5e7515/mzaf_7082569186120068654.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Don't Die in Me",
+      "duration_ms": 228240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3d/82/94/3d8294a8-9183-d585-e4f9-08cd1b77e909/mzaf_6857624984677633383.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Look Up!",
+      "duration_ms": 145773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/ec/f4/35ecf44f-3e10-de1c-4d51-1a9998daeba6/mzaf_11285906749410281487.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "We're Both So Sorry",
+      "duration_ms": 276933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/c6/ee/e5c6eecc-46ad-a21b-4cc7-7903f1c57509/mzaf_13370508121372947724.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "The Dogs of B.A.",
+      "duration_ms": 272000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/0a/13/570a1313-16d2-34ca-7ee5-a9b4229261b1/mzaf_1221086753523439136.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "The Struggle",
+      "duration_ms": 159000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/da/3b/bbda3b91-7a2d-e073-c7cd-32236acd23cc/mzaf_867580049725960925.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "You've Gone Away Enough",
+      "duration_ms": 188760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/5b/bb/a35bbb89-f428-628e-3cc9-4cf1321fe396/mzaf_13643209967130944063.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Promise",
+      "duration_ms": 194373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/c4/81/afc481c5-086c-5678-a0bc-e262ba38e53f/mzaf_16703575301945352460.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "(Exactly Where We're From)",
+      "duration_ms": 201640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/d9/60/80d9600b-8282-2ff7-9da6-18e16a3b9e80/mzaf_4549442710658058605.plus.aac.p.m4a"
+    }
+  ]
+}
