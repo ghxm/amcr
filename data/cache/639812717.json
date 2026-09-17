@@ -1,0 +1,71 @@
+{
+  "id": "639812717",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "Helical Scans",
+  "year": 2013,
+  "apple_music_url": "https://music.apple.com/de/album/helical-scans/639812717",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/ec/26/50/ec26501d-6429-6279-d653-224da5d98822/5050580593695.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "d7d7d7",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Overr Area",
+      "duration_ms": 343086,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/04/a5/38/04a5380d-ebd2-9760-6a68-f0fbe422de17/mzaf_8514572833603732274.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "It's Almost Over",
+      "duration_ms": 199000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/c0/75/fa/c075fa2b-4203-4240-62a4-d8d468609374/mzaf_3941814218746929935.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Hehee",
+      "duration_ms": 170706,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/48/35/1b/48351b1f-df54-d8fa-723a-9216f6668573/mzaf_973431561143501457.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "3001Ab",
+      "duration_ms": 326000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/61/58/16615893-8a6b-aef9-def5-8595212b2cf0/mzaf_11178381169905475679.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Sigh",
+      "duration_ms": 239512,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/03/06/a5/0306a59e-7bf2-f796-12f9-c0ea3e2d60ab/mzaf_5120338990326339948.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Carousel",
+      "duration_ms": 382500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/f3/73/a0f373fb-95e3-244b-746a-ee7ce902dc1a/mzaf_17591880956363314750.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Uked",
+      "duration_ms": 222000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/fe/9b/eb/fe9bebb9-f9c8-c386-5a35-91dd57130a30/mzaf_7297256331885317133.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Caves",
+      "duration_ms": 215000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/37/1e/de371e70-16dd-8c49-25ff-d632c9494747/mzaf_1788309284339542187.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Ravenz",
+      "duration_ms": 253000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/67/d1/15/67d1153b-16ed-93dd-a3e0-b5c73d0994df/mzaf_8947483343642499133.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Hoping You Will",
+      "duration_ms": 215000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/f2/a6/3d/f2a63dca-b8ff-93d4-555c-f784b7239e08/mzaf_2762005781082287751.plus.aac.p.m4a"
+    }
+  ]
+}
