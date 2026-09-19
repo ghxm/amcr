@@ -1,0 +1,47 @@
+{
+  "id": "1678307568",
+  "artist": "Caterina Barbieri",
+  "album": "Myuthafoo",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/myuthafoo/1678307568",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/01/48/b001489d-fefd-2d75-ab02-ae84063123c5/4062548064230.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "09090a",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Memory Leak",
+      "duration_ms": 78250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/61/a2/33/61a23370-c26d-70f5-ccf4-4f953506bc02/mzaf_6131195669308205166.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Math of You",
+      "duration_ms": 339609,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/00/8a/78008a45-c4a4-f22d-862e-9a26de8682e5/mzaf_17890484613895089305.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Myuthafoo",
+      "duration_ms": 420370,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/72/c9/d8/72c9d80e-ad71-9a72-a429-1186d4009b5b/mzaf_16324223504989056035.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Alphabet of Light",
+      "duration_ms": 410931,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/91/07/51/91075136-0f87-8d00-7fed-c5e683cb6679/mzaf_76161785450109456.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Sufyosowirl",
+      "duration_ms": 353072,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d6/a5/a3/d6a5a3ec-b7a3-a096-1394-62831ebe3622/mzaf_13326040954986130095.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Swirls of You",
+      "duration_ms": 334506,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/38/81/e5/3881e5c1-8a2e-550f-a4e0-b656b2c05c3e/mzaf_4965648961355369708.plus.aac.p.m4a"
+    }
+  ]
+}
