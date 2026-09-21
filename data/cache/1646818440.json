@@ -1,0 +1,47 @@
+{
+  "id": "1646818440",
+  "artist": "Actress",
+  "album": "Dummy Corporation",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/dummy-corporation/1646818440",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/79/1e/65/791e6556-0163-b76f-e0d2-6cbbd4567254/dj.ulrpmazt.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "a39fa0",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Dummy Corporation",
+      "duration_ms": 1134950,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f6/8a/9d/f68a9d89-55d9-a9a5-0b5b-d48351df8672/mzaf_12709329696959859560.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Futur Spher Techno Version",
+      "duration_ms": 309806,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8d/f2/ed/8df2ed9a-4403-7b4f-60c2-96f94cacf70c/mzaf_14497205142983074769.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Fragments of a Butterfly’s Face",
+      "duration_ms": 418558,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/dd/49/97/dd499764-5a54-b070-a3fd-06e1f86e64ea/mzaf_11910486354788834132.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Dream",
+      "duration_ms": 560048,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/39/a3/f2/39a3f2f4-5138-df47-f099-ba8fe27df56f/mzaf_17969363310459724867.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Fragments of a Butterfly’s Face (Edit)",
+      "duration_ms": 208275,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/78/57/9f/78579fe2-76ee-1d78-c39f-96c35777346c/mzaf_17611761828434168868.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Dream (Edit)",
+      "duration_ms": 246333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d3/d5/20/d3d520bf-2c7c-995c-7bdf-347f31758b45/mzaf_2638607308028221894.plus.aac.p.m4a"
+    }
+  ]
+}
