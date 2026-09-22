@@ -1,0 +1,23 @@
+{
+  "id": "1880437348",
+  "artist": "Hiss Is Bliss",
+  "album": "7hz005 - Single",
+  "year": 2026,
+  "apple_music_url": "https://music.apple.com/de/album/7hz005-single/1880437348",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/18/25/6b18251f-962d-072b-5baa-021513f8606d/8721466055688.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "d6c6a8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Word Sound and Power (feat. Ras Tweed) [Ft Ras Tweed]",
+      "duration_ms": 274617,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/0f/a6/b10fa6eb-e2ac-26c9-473d-51adc91a9f0c/mzaf_14273207900244567537.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Sound and Power",
+      "duration_ms": 281642,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/52/08/745208c3-2590-3845-02bd-b4eb355c5781/mzaf_5696785007052968037.plus.aac.p.m4a"
+    }
+  ]
+}
