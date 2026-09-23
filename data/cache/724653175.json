@@ -1,0 +1,71 @@
+{
+  "id": "724653175",
+  "artist": "Brian Eno",
+  "album": "Ambient 2: The Plateaux of Mirror",
+  "year": 1980,
+  "apple_music_url": "https://music.apple.com/de/album/ambient-2-the-plateaux-of-mirror/724653175",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/34/cb/7734cb44-688f-0a0f-6d09-ed12977f4c5e/00724386649751.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ccd697",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "First Light",
+      "duration_ms": 426533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/b2/16/a0b21614-0fd5-6093-7105-9c8512288efd/mzaf_6258386317828197630.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Steal Away",
+      "duration_ms": 89813,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e2/44/68e2444b-e322-4091-ce68-b1a4111a0fec/mzaf_17045762441585971836.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Plateaux of Mirror",
+      "duration_ms": 253893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/fe/fc/cbfefc46-9566-3bee-ebfb-813e67a56e0e/mzaf_14219020754629386735.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Above Chiangmai",
+      "duration_ms": 175747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/6c/9a/fa6c9aca-4f7a-3158-5114-e6a4c83181f4/mzaf_4928641665435874296.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "An Arc of Doves",
+      "duration_ms": 389133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/4e/7f/184e7fea-d907-37ca-6085-fe2d9aaa0bcc/mzaf_9879134068917325289.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Not Yet Remembered",
+      "duration_ms": 230853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/c3/a6/1bc3a624-3b96-8adb-f336-b8ed18660d29/mzaf_5675767281640221277.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "The Chill Air",
+      "duration_ms": 133707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/ae/40/e1ae408a-73fc-7d64-c679-8bed0c4ff023/mzaf_13673373833070390463.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Among Fields of Crystal",
+      "duration_ms": 204680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/8e/f8/1b8ef832-ee07-e96a-fe52-1e993255d238/mzaf_18316563953690683370.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Wind In Lonely Fences",
+      "duration_ms": 238240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/8b/fe/898bfeca-2fe5-f6fa-5822-6e41dc32d048/mzaf_16749920690493967814.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Failing Light",
+      "duration_ms": 254000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/29/d9/a829d9ed-0a8c-9d2c-615a-c74d4ee0371f/mzaf_302068902699191657.plus.aac.p.m4a"
+    }
+  ]
+}
