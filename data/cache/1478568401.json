@@ -1,0 +1,59 @@
+{
+  "id": "1478568401",
+  "artist": "Ale Hop",
+  "album": "Apophenia",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/apophenia/1478568401",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/95/07/73/95077312-d31d-81e9-556d-b104a971dd7a/artwork.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "1e1e1e",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Augury",
+      "duration_ms": 240000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/55/4a/2d/554a2d4e-934e-d89f-5572-fd0f5f3c2321/mzaf_11701348316447839293.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Side Effects",
+      "duration_ms": 213750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/e6/64/9b/e6649b6a-d8b2-70ca-ed18-2af4c48698f9/mzaf_5019340408268763100.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "El Beso",
+      "duration_ms": 159429,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/71/c1/f0/71c1f072-56d8-f4a4-b517-0de53308cbed/mzaf_5636937100481021182.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Lima",
+      "duration_ms": 414000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b0/9e/2b/b09e2bb6-cc8f-9a33-d661-f50c2ec2d2b0/mzaf_1724109799425823073.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Onomatopoeia",
+      "duration_ms": 244088,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/1c/5a/df/1c5adf84-6542-6a8c-01ba-f86c4dc31866/mzaf_16875957635167266143.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Puñales",
+      "duration_ms": 208800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/09/36/41/09364132-5e34-a751-0515-1e446861925b/mzaf_15132763887048150033.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Apophenia (Cielo Azul)",
+      "duration_ms": 284000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/8f/a9/23/8fa92325-ea69-889f-2fe2-6be76a66c003/mzaf_3097241159016409827.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Marches",
+      "duration_ms": 258462,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/19/09/06/19090615-5245-12b0-fc47-de061d88fc3c/mzaf_11199615078643017915.plus.aac.p.m4a"
+    }
+  ]
+}
