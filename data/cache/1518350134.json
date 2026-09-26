@@ -1,0 +1,89 @@
+{
+  "id": "1518350134",
+  "artist": "SPARKLE DIVISION",
+  "album": "To Feel Embraced",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/to-feel-embraced/1518350134",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/08/a1/88/08a188c5-2517-2b27-601b-f380c3427905/656605334561.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "9f306e",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "You Go Girl!",
+      "duration_ms": 84307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b4/3d/50/b43d50ce-720c-f0cf-272d-2ee4ee0ca7ea/mzaf_13842214454112370892.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "You Ain't Takin' My Man",
+      "duration_ms": 254307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/de/34/52de3497-43f0-3a82-fecd-47dde0a3ba81/mzaf_14981163660800008415.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "For Gato",
+      "duration_ms": 186107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/4d/fd/084dfdbf-4aaa-5ed7-2772-8b592e2fbf7d/mzaf_890945060964283608.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Oh Henry!",
+      "duration_ms": 259680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/71/3a/74713a9f-8d36-71f7-e0da-650c695f6194/mzaf_6691737353998699364.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "To the Stars Major Tom",
+      "duration_ms": 166333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/15/83/ae1583bf-7a62-d6fb-c5b1-ec0b0ee91744/mzaf_14102203165456605693.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Oh No You Did Not!",
+      "duration_ms": 244164,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5f/e8/91/5fe891d3-50c1-bfc9-e396-108bd05e79f2/mzaf_15629543442079497967.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "To Feel",
+      "duration_ms": 367067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/96/3e/39963e09-84b4-fdca-f6e7-f1f554e0b918/mzaf_11233976908977595167.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "To Feel Embraced",
+      "duration_ms": 188280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2e/d8/34/2ed834a5-f68b-a903-f90f-d2d1d974c217/mzaf_10229265598815181083.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Slappin' Yo Face",
+      "duration_ms": 86573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7a/2d/53/7a2d5356-b427-b703-a704-280cb85e8478/mzaf_8275574697303008625.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Mmmmkayy I'm Goin' Out Now and I Don't Want Any Trouble From You!",
+      "duration_ms": 204493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/c1/fc/fcc1fcb0-4b53-c2c9-7504-be27096a1658/mzaf_18361110980309926691.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Queenie Got Her Blues",
+      "duration_ms": 66440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/61/17/7b61171e-9313-2d76-d44a-60432ab1addd/mzaf_4012647593873610575.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Sparkle On Sad Sister Mother Queen",
+      "duration_ms": 106080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/71/02/e5710224-6918-3281-b23d-691f82e32de4/mzaf_6709693964542356800.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "No Exit",
+      "duration_ms": 271653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/82/56/948256c3-be6f-5c8f-55b0-b630d4a42a76/mzaf_17428969962996112956.plus.aac.p.m4a"
+    }
+  ]
+}
