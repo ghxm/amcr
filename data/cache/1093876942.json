@@ -1,0 +1,59 @@
+{
+  "id": "1093876942",
+  "artist": "Ustad Mohammad Omar",
+  "album": "Robab - The Soul of Sound",
+  "year": 1970,
+  "apple_music_url": "https://music.apple.com/de/album/robab-the-soul-of-sound/1093876942",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/a4/23/46/a4234652-45c1-284a-a20b-149881ab67bd/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "060101",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Rag Ahir Bairow",
+      "duration_ms": 401427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/f3/da/8f/f3da8f08-855e-2b41-0fcb-9212d541f5f9/mzaf_6642421324698497302.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Folkmelodie",
+      "duration_ms": 214787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/37/5d/d9/375dd993-d2af-77ae-f33b-a31bea6fe283/mzaf_443518331469636292.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Rag Bhopali",
+      "duration_ms": 440467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/56/bd/70/56bd70a3-e3ab-bfd6-d503-9573aea98d74/mzaf_1630861387712133351.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Naghma Tilang",
+      "duration_ms": 294947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/11/eb/0c11eb3b-63bf-901b-fd28-95b88b9d68e6/mzaf_7726194077106531367.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Rag Puria Kalian",
+      "duration_ms": 588587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/89/4b/2f/894b2f2b-e370-3cb5-99ef-a706743a2430/mzaf_3012154387220555524.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Rag Pahari",
+      "duration_ms": 504667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/94/24/ef94244f-6ab1-add7-7a13-00e1a033c105/mzaf_12433946377154873859.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Robab and Tambur (Folk)",
+      "duration_ms": 704587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/43/80/00/438000c3-62f7-3a0d-cf1c-1f3c9e54e6cf/mzaf_7504421505298742894.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Rag Bhairawi",
+      "duration_ms": 258160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/5c/3c/3f/5c3c3f59-b1bf-c1e8-c9a2-f516d6581784/mzaf_5051439742858107373.plus.aac.p.m4a"
+    }
+  ]
+}
