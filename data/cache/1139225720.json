@@ -1,0 +1,167 @@
+{
+  "id": "1139225720",
+  "artist": "µ-Ziq",
+  "album": "Tango N'vectif",
+  "year": 1993,
+  "apple_music_url": "https://music.apple.com/de/album/tango-nvectif/1139225720",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f1/21/f8f12185-aa80-2698-dca6-d9091b3058b5/5027238001321.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Tango N' Vectif",
+      "duration_ms": 250307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/82/fd/7a/82fd7a74-d73a-eea0-f3f6-3b6ec091a8ce/mzaf_17625964055201266734.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Swan Vesta",
+      "duration_ms": 369573,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/99/b4/3699b4a8-943d-2164-68b2-bb5774fa33b1/mzaf_3653045047163225009.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Burnt Sienna",
+      "duration_ms": 486893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/d9/a1/17d9a142-b9fd-b982-8b78-6f78f32eadf6/mzaf_12884768414942825050.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Iesope",
+      "duration_ms": 356267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/e7/cc/fbe7cc6f-d429-eb27-a148-deb088523167/mzaf_7902370048982181689.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Μ - Ziq Theme",
+      "duration_ms": 276640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/ca/dc/29cadcf0-6eae-28f2-dc31-05e9f75ab244/mzaf_1446893776630248077.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Auqeam",
+      "duration_ms": 238240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/7f/8c/997f8c7c-704c-78d1-24ea-6b177fd6eeb0/mzaf_8544444662082587729.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Vibes",
+      "duration_ms": 234627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/b8/81/43b881eb-5d47-b6d7-3420-2324653aae6b/mzaf_3687934488933898080.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Ad Misericordiam",
+      "duration_ms": 209427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/b5/79/3eb57930-fa7d-58fd-b377-9d82b06395bc/mzaf_11558613775842499119.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Beatnik #2",
+      "duration_ms": 336760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/33/3a/a8333aea-286a-dd7d-529e-a89a7ef85985/mzaf_9759113642579670250.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Die Zweite Heimat",
+      "duration_ms": 331560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ee/6b/de/ee6bdebc-30fd-d114-ba69-8fb0cce7e880/mzaf_18435021983428459478.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "The Sonic Fox",
+      "duration_ms": 333293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/af/5d/c7af5dfc-4f3b-337f-f24d-9d2492ac0cba/mzaf_12271421085416992833.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Caesium",
+      "duration_ms": 339013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/98/f5/3b98f5a2-4c2d-fd8b-cecd-f0210a29309f/mzaf_9822155094222779369.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Phi*1700 [U / V]",
+      "duration_ms": 490653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/07/30/a4073000-d286-c6ce-f115-44024c766248/mzaf_4897584154480571981.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "4 Time Egg",
+      "duration_ms": 351893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cb/89/9b/cb899b9d-d9ae-d517-65ee-afdf2bba10bb/mzaf_8284372562461592817.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Phragmal Synthesis Pt. 1",
+      "duration_ms": 332760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/fb/e8/6efbe872-8bd4-d127-2849-62aa8a1322f8/mzaf_10583577344902127787.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Phragmal Synthesis Pt. 2",
+      "duration_ms": 364400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/a3/b4/fea3b4ff-406a-d7fd-617a-39083e76a257/mzaf_8668530756903748074.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Phragmal Synthesis Pt. 3",
+      "duration_ms": 291053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/c4/ee/66c4ee28-c965-0800-2338-cf40339efee1/mzaf_7281447650491491104.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Xenith Filigree Anus",
+      "duration_ms": 465587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/2f/55/fe2f5536-fbfa-22c3-fb55-cc5f57f3d907/mzaf_7160932519229692194.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Whale Soup",
+      "duration_ms": 201440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/58/de/0e58de52-2a70-8684-dd97-52158220a8b7/mzaf_2109913600311906869.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Amenida 2",
+      "duration_ms": 334587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/51/af/b1/51afb1ef-6944-d1ef-c38b-c5cb6825187f/mzaf_15113796136391195590.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Paco",
+      "duration_ms": 243347,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b6/fd/86/b6fd86cf-0ac2-d01b-91fe-23771652fae6/mzaf_10876325299156270078.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Crosstown Traffic",
+      "duration_ms": 364800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/b3/2d/31b32d78-12e3-23d3-9463-9d2f600dafb1/mzaf_12882123529481989293.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Xolbe 2",
+      "duration_ms": 434853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/19/4d/43194d1d-bc5f-41dc-dbb6-dee76a3ddeb3/mzaf_7710526914662546656.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Driving Is Easy",
+      "duration_ms": 301707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/7b/d5/1e7bd569-cf83-2209-6c15-026b23e57f00/mzaf_4234820574521605091.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Methyl Albion",
+      "duration_ms": 215587,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/02/76/57/02765712-1fc6-8eab-8ac6-8012a619a5d0/mzaf_14309607054759855133.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Glink",
+      "duration_ms": 441987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/84/d6/6e84d661-e190-1ccd-1cf2-0d00b020505d/mzaf_2077183384965467489.plus.aac.p.m4a"
+    }
+  ]
+}
