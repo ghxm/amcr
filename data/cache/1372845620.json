@@ -1,0 +1,65 @@
+{
+  "id": "1372845620",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "10 Jahre Ein_Klang Records",
+  "year": 2011,
+  "apple_music_url": "https://music.apple.com/de/album/10-jahre-ein-klang-records/1372845620",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/eb/14/37eb14cb-fe00-582a-f1d7-acab63c80ce8/9005321090397_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ababad",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Entnähert_Adieu Karl Heinz Füssl - Relokation",
+      "duration_ms": 298080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/37/68/2e/37682e0c-8d18-b6a7-68dd-4dcef6a59e67/mzaf_8463018001091748074.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Triplemurder",
+      "duration_ms": 363067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a4/70/04/a470044f-6319-be95-1337-209ad174a0dd/mzaf_5473219892303490316.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Immediationrmx",
+      "duration_ms": 222373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e6/9e/0e/e69e0e99-629c-0b8b-4dc1-2a8be0438fd3/mzaf_2070203464973948681.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "2B Dog",
+      "duration_ms": 423147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4f/66/19/4f661963-87aa-b87b-4eb0-4fa46628f06b/mzaf_315388262876029368.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Kommt unverhofft und endgültig",
+      "duration_ms": 96680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/2f/27/58/2f2758dc-c8f3-b36f-e520-371e244739fc/mzaf_4922913079513704616.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "2B1 Dog",
+      "duration_ms": 418173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e3/78/48/e3784851-df1e-da08-8648-d4a337b47e65/mzaf_3932754490876446193.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Discozma X Roundabout",
+      "duration_ms": 315893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/02/f3/32/02f3321b-66d8-07aa-25a5-1a0407541e56/mzaf_8614797870399823239.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Sound of Line 3",
+      "duration_ms": 331560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/b7/da/cd/b7dacd2e-71ea-fbe9-0dda-a11b65c48552/mzaf_7939029568334880474.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "M31fioko",
+      "duration_ms": 650507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/9a/b9/41/9ab941e3-c634-f52b-030d-c1ce685ff437/mzaf_4332899078195574303.plus.aac.p.m4a"
+    }
+  ]
+}
