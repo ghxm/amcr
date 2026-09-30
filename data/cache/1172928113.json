@@ -1,0 +1,53 @@
+{
+  "id": "1172928113",
+  "artist": "Taso",
+  "album": "New Start",
+  "year": 2016,
+  "apple_music_url": "https://music.apple.com/de/album/new-start/1172928113",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/74/e9/a074e9d4-775f-ae5e-cbea-26d459343bc1/5055869544504.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "000000",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "New Start (feat. DJ Rashad & DJ Spinn)",
+      "duration_ms": 270960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bf/3a/e4/bf3ae484-9604-0943-f339-9f265b60dffc/mzaf_13254367516936240606.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Don't Get Mad (feat. Gant-Man)",
+      "duration_ms": 274400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/57/85/4d/57854dac-bf68-fcec-2aef-12b47484660a/mzaf_16442146661293526202.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Bussin (feat. DJ Manny & DJ Tre)",
+      "duration_ms": 269907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/52/15/03/52150353-1f8c-5254-3794-6d0e3fa66cbf/mzaf_11223617759132375151.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Am Track (feat. DJ Rashad & DJ Spinn)",
+      "duration_ms": 176773,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b1/2c/9f/b12c9fd2-1269-cf37-148c-8c1d53ad1855/mzaf_920281243044994876.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "In the Green Room (feat. DJ Taye)",
+      "duration_ms": 268680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b6/79/99/b67999be-ec4f-bf36-4e7d-8701da2c3e0f/mzaf_9428134609841331888.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Murda Bass",
+      "duration_ms": 221707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b6/16/27/b6162745-aaa6-5495-d587-a3e3bbd889d4/mzaf_15276389322407499749.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Da Capo Al Coda (feat. DJ Earl)",
+      "duration_ms": 174093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4d/6e/12/4d6e125a-d4ef-1d39-4b8e-7653ef5ef480/mzaf_1248201081070189816.plus.aac.p.m4a"
+    }
+  ]
+}
