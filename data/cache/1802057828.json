@@ -1,0 +1,53 @@
+{
+  "id": "1802057828",
+  "artist": "Galya Bisengalieva",
+  "album": "Polygon",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/polygon/1802057828",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/c6/3a/05c63ab5-3247-127f-1291-b1f03bb83608/5016958102951.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "040609",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Alash - Kala",
+      "duration_ms": 224987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/a4/07/0fa40750-ec9a-087d-6e72-3d11f4872289/mzaf_10929473191178734904.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Saryzhal",
+      "duration_ms": 163347,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/2c/57/062c5789-ad72-1494-673b-8abada708db8/mzaf_1085284808040979292.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Polygon",
+      "duration_ms": 441027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/98/dc/5b98dcfa-890b-6bba-4648-4930acd2f818/mzaf_4338905869512198498.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Sary - Uzen",
+      "duration_ms": 118120,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/c6/e5/cec6e5a4-a765-874e-45ae-9a5114b1d2db/mzaf_18317909858274938109.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Chagan",
+      "duration_ms": 302027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/a6/48/77a648ff-9ea5-a066-1d30-9ce669fd0c94/mzaf_6039887915572057093.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Balapan",
+      "duration_ms": 313933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/d2/1a/14d21a48-22a3-5f6b-463e-2f7de0993cfb/mzaf_12382149535536608968.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Degelen",
+      "duration_ms": 458560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/e8/0a/1de80aad-6643-1ed1-888e-18c4200a883b/mzaf_11736786152421815523.plus.aac.p.m4a"
+    }
+  ]
+}
