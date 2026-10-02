@@ -1,0 +1,53 @@
+{
+  "id": "1678895539",
+  "artist": "Dear Earth",
+  "album": "Gone Solid Gone EP",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/gone-solid-gone-ep/1678895539",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/3b/3e/213b3ea1-7da5-5522-7b16-cde3f854d989/5060519686398.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "010101",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "The Day We Left The Solar System",
+      "duration_ms": 318357,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ca/6b/c7/ca6bc753-dfd1-a788-334b-011aec562e85/mzaf_1646886089621439201.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Attacked The Church",
+      "duration_ms": 211288,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/45/91/6245917a-5a14-40cd-d202-bdc61937fb8e/mzaf_8518037893393959077.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Forget The Necklaces",
+      "duration_ms": 113078,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/09/03/c6/0903c6ef-a3c2-7271-0076-e271106fc632/mzaf_5056059077802632714.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Saw You",
+      "duration_ms": 181565,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6b/22/1e/6b221e90-cc9e-a5d6-b3c4-54a2f1bd96a8/mzaf_15983035151553524759.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Stop Biting Wires",
+      "duration_ms": 122539,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/07/7f/af/077faf35-1200-8c65-5326-29c3aecbd33c/mzaf_1866394454341509362.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Free Biggie Free 2pac",
+      "duration_ms": 182560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/eb/fe/f1/ebfef15b-4bb4-7826-f498-99465e967cc9/mzaf_2634337280838201564.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Dickhead (Live)",
+      "duration_ms": 572901,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7c/ab/d5/7cabd5c8-c9f2-9041-7444-cf9be57f0146/mzaf_15172097605904633201.plus.aac.p.m4a"
+    }
+  ]
+}
