@@ -1,0 +1,179 @@
+{
+  "id": "1483137268",
+  "artist": "Miles Davis",
+  "album": "Music From and Inspired by the Film Birth of the Cool",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/music-from-and-inspired-by-the-film-birth-of-the-cool/1483137268",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/48/46/f0484611-6a8e-c10c-aacd-0d77a54fea1b/886448046387.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "040e11",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Commentary: Herbie Hancock, Jimmy Heath",
+      "duration_ms": 22551,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/bf/88/43bf880b-b5d0-fdb6-cf78-6d8acb9a7b72/mzaf_2981676195583832964.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Milestones",
+      "duration_ms": 342347,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/21/90/fe219046-a50e-d777-f146-f4298366bfd8/mzaf_3882347856091782759.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Commentary: Greg Tate",
+      "duration_ms": 19875,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/b2/08/efb208b6-dace-73fe-8924-8b05de49a8e7/mzaf_10795611469935588804.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Donna Lee (with Miles Davis)",
+      "duration_ms": 152166,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/9b/1c/329b1c55-4685-8386-9ca4-f39151ad8b86/mzaf_12983237751113222818.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Commentary: Ashley Kahn, Symphony Sid Introduction",
+      "duration_ms": 37128,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/c2/84/cdc28418-e3d7-bbc1-20ec-6a427b2cea52/mzaf_10293583372146594787.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Moon Dreams",
+      "duration_ms": 196955,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/0a/99/d70a9938-533c-10b9-f0e8-04a6f236c298/mzaf_4982596668377413843.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Commentary: George Wein",
+      "duration_ms": 28824,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/83/4c/b8834c8d-1c06-fe50-8a9d-105bd2e26e65/mzaf_11449634314039864205.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "'Round Midnight",
+      "duration_ms": 355113,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/bf/cf/c2bfcf6f-c677-0932-45ed-148c2bfdefa6/mzaf_1162736414105660685.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Commentary: Carlos Santana",
+      "duration_ms": 20412,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/07/19/4c07198a-cc7d-0527-7579-8881683669d6/mzaf_10571400165926138355.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "It Never Entered My Mind",
+      "duration_ms": 322419,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/e2/35/95e23507-5d5b-dc86-a228-526c4f40744c/mzaf_6743806063070211166.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Commentary: Vincent Bessieres",
+      "duration_ms": 44524,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/4b/0a/004b0a61-4546-afb5-6381-3bb0bd10faad/mzaf_1411721386514904617.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Générique (Mono Version)",
+      "duration_ms": 167613,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/ac/b3/2aacb353-9fa3-77da-eb26-d27d9d413d3b/mzaf_10862363033949997212.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Commentary: Jimmy Cobb",
+      "duration_ms": 21096,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/41/ba/6a41ba88-6e65-ccdf-acc3-f7cf584ad8ee/mzaf_3057816868546988363.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "So What",
+      "duration_ms": 545274,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/7c/37/457c3781-1e10-5f14-7396-0c891a43b3e8/mzaf_7453026633974418500.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Commentary: Gil Evans",
+      "duration_ms": 11684,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/2b/af/282bafff-4b2f-4b95-0187-09fc65401b51/mzaf_16963146428211489505.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "New Rhumba",
+      "duration_ms": 275301,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/3f/a4/fe3fa448-934e-dcf0-b38a-4a8b679a1c12/mzaf_7198715700247365206.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Commentary: Frances Taylor Davis",
+      "duration_ms": 37824,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/3d/2a/483d2ae4-190b-e8be-c61c-ab15fd09acf1/mzaf_10812133017776608741.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "The Pan Piper",
+      "duration_ms": 235036,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/9a/6d/479a6d2d-44b7-7323-a7e9-11f76c20fb1a/mzaf_9039664479841182157.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Commentary: Jack Chambers",
+      "duration_ms": 22500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/a7/c4/22a7c413-c4a3-138e-76ab-cc47982c1b2f/mzaf_17685709580704193027.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "Someday My Prince Will Come",
+      "duration_ms": 542695,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/bf/ee/51bfee0b-8871-125a-89f5-2345b01f447e/mzaf_17501054240295368928.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "Commentary: Wayne Shorter",
+      "duration_ms": 34660,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/a7/4d/c9a74d65-a72d-b9f0-2f0f-8cac8a845161/mzaf_12669272750465738089.plus.aac.p.m4a"
+    },
+    {
+      "n": 22,
+      "title": "Footprints",
+      "duration_ms": 585918,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/d8/f6/02d8f64d-b612-0e48-f855-5ad9bc4aa168/mzaf_4071430494670007315.plus.aac.p.m4a"
+    },
+    {
+      "n": 23,
+      "title": "Commentary: Carlos Santana, Quincy Troupe",
+      "duration_ms": 27930,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/ee/0d/0bee0df2-2114-d344-c8ac-722050ba914c/mzaf_15515330072382221513.plus.aac.p.m4a"
+    },
+    {
+      "n": 24,
+      "title": "Miles Runs the Voodoo Down (45-rpm Single Edit)",
+      "duration_ms": 169905,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/9f/dc/b89fdce2-f745-164c-10c4-dfbd89331c3b/mzaf_11725383437058146754.plus.aac.p.m4a"
+    },
+    {
+      "n": 25,
+      "title": "Commentary: Marcus Miller",
+      "duration_ms": 17886,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/12/d9/cf12d94b-b1ad-2f18-a234-b5d98f88c4b2/mzaf_1483783593164317387.plus.aac.p.m4a"
+    },
+    {
+      "n": 26,
+      "title": "Tutu",
+      "duration_ms": 314316,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/97/90/059790ef-ee3f-ed64-574a-3a2ada34d13f/mzaf_11545357860685977447.plus.aac.p.m4a"
+    },
+    {
+      "n": 27,
+      "title": "Commentary: Erin Davis",
+      "duration_ms": 13500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/8b/1d/e18b1dc0-9bb5-c7e3-b4b6-031133545645/mzaf_16633362018242216773.plus.aac.p.m4a"
+    },
+    {
+      "n": 28,
+      "title": "Hail To the Real Chief",
+      "duration_ms": 220119,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/a0/a5/23a0a526-ea96-d2d6-66ed-1b7676f1375a/mzaf_11850643843339388037.plus.aac.p.m4a"
+    }
+  ]
+}
