@@ -1,0 +1,59 @@
+{
+  "id": "1035481596",
+  "artist": "Laurel Halo",
+  "album": "In Situ",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/in-situ/1035481596",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/41/27/1e/41271e31-5865-1f38-5208-3374e22f23cf/mzm.gwsxnfzl.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "5d6063",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Situation",
+      "duration_ms": 269100,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/0f/eb/a70febb0-1687-bf33-b151-0863b11436ca/mzaf_6509201233030787450.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Leaves",
+      "duration_ms": 199142,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/55/b7/1655b7fd-4165-a3c5-ffce-6facb41a146f/mzaf_16238781853621663311.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Nebenwirkungen",
+      "duration_ms": 300592,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/92/61/419261ac-2655-e70e-4d1c-bfc3856d09a1/mzaf_14219530699563308153.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Drift",
+      "duration_ms": 302977,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/8a/b6/e48ab65d-3843-540b-f9c5-fb1e523948f5/mzaf_11382480332230695239.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Nah",
+      "duration_ms": 229700,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/01/87/590187fa-b695-e35a-6bda-e4320ea6ea10/mzaf_11747710056142490069.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Shake",
+      "duration_ms": 245933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/89/ef/cc89ef29-8085-900d-9e94-bcda159c1e73/mzaf_14575127379033041783.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Nimrud",
+      "duration_ms": 101267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/88/c4/ca88c417-8ef2-76f7-5107-1b2f8176d4ef/mzaf_18058059482847378888.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Focus I",
+      "duration_ms": 503867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/57/37/465737be-501a-e683-8e1a-3bde22779bd4/mzaf_8608807202792431003.plus.aac.p.m4a"
+    }
+  ]
+}
