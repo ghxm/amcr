@@ -1,0 +1,17 @@
+{
+  "id": "1722137405",
+  "artist": "Hong Thong Dao Udon",
+  "album": "Hey Abanibee - Single",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/hey-abanibee-single/1722137405",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/37/a0/1937a059-1ee5-be53-3415-62dade8f9498/196922769382_Cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "171917",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Hey Abanibee",
+      "duration_ms": 365572,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/5a/57/e85a5741-86a4-a939-019a-5e595568f213/mzaf_5809757685655252044.plus.aac.p.m4a"
+    }
+  ]
+}
