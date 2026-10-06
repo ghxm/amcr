@@ -1,0 +1,77 @@
+{
+  "id": "193532145",
+  "artist": "Sade",
+  "album": "Lovers Rock",
+  "year": 2000,
+  "apple_music_url": "https://music.apple.com/de/album/lovers-rock/193532145",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/d9/05/85d9053a-565b-723d-0823-c0c2a0dbff87/mzi.ifrkjjuc.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e2cc8d",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "By Your Side",
+      "duration_ms": 274600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/9f/11/749f11b3-e2e6-1a56-5617-55f3168cf111/mzaf_11144361815339635021.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Flow",
+      "duration_ms": 274467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/0a/79/d90a797b-d478-3ac5-27cb-d4bed883f753/mzaf_5003181466620897111.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "King of Sorrow",
+      "duration_ms": 292800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/eb/21/74eb2163-766b-b370-de57-ed732b5a2424/mzaf_12082483999326439466.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Somebody Already Broke My Heart",
+      "duration_ms": 301267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/7f/31/f87f3147-78bf-7ce4-82fe-b66d24dd7bdf/mzaf_8768797852135654643.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "All About Our Love",
+      "duration_ms": 160627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/f4/f4/6df4f45b-9f6d-5516-5627-131a74c06e68/mzaf_17390652154008083504.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Slave Song",
+      "duration_ms": 252467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/f9/1c/cbf91c47-3d91-367e-8460-4254dbddbd60/mzaf_3392816140903865335.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "The Sweetest Gift",
+      "duration_ms": 138827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/06/ab/6106abae-dd7b-6515-d0c7-89a63b75ad8d/mzaf_8565489870111075706.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Every Word",
+      "duration_ms": 244507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/cc/fc/99ccfc84-29c6-1d37-eba7-d4e9b73d56f8/mzaf_7843718146880846965.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Immigrant",
+      "duration_ms": 228027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/d2/4e/b2d24eba-073c-e2fc-ae5a-1b562c01157b/mzaf_10186308653621373607.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Lovers Rock",
+      "duration_ms": 253107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/7d/46/0c7d46e8-bf2a-6674-ebf5-8fad138eb2bd/mzaf_2440491307064560729.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "It's Only Love That Gets You Through",
+      "duration_ms": 233533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/bb/b9/d0bbb934-bb8c-a6a6-2045-4b76b5e5ea16/mzaf_15463312344864701262.plus.aac.p.m4a"
+    }
+  ]
+}
