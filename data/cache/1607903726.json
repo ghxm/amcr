@@ -1,0 +1,23 @@
+{
+  "id": "1607903726",
+  "artist": "Wild Terrier Orchestra",
+  "album": "Even the Chimera",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/even-the-chimera/1607903726",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/60/8a/6e608a1c-cf4f-1736-2fd3-5c8e6cce72ff/5056321667236.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "626062",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Κάθε Φορά Που Εν Εκστάσει Συντελλείται",
+      "duration_ms": 1344000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/48/fd/71/48fd7143-6716-b65e-f706-49a7a57ecd2a/mzaf_14061949295198441977.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Σώμα Περικαλλές Και Έμψυχον Και Σφύζον",
+      "duration_ms": 1415824,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/80/26/26/80262656-e247-adb8-3fcb-86e765a6fad8/mzaf_11592158982149650404.plus.aac.p.m4a"
+    }
+  ]
+}
