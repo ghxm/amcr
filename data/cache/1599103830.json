@@ -1,0 +1,59 @@
+{
+  "id": "1599103830",
+  "artist": "FROID DUB",
+  "album": "Dubs & Beats",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/dubs-beats/1599103830",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/a5/c2/75a5c2b4-2af1-d39f-19a4-fb19e84d0873/Cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Frozen DUB Sandwich",
+      "duration_ms": 163256,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/12/2f/f8/122ff88e-1bdf-b48b-9227-9217690e61d8/mzaf_5964443306573892188.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Iguana's DUB",
+      "duration_ms": 242791,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2a/e6/38/2ae63884-4cf1-a018-56bc-34c5b0e38cda/mzaf_7413876423124606960.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Shotgun's BEAT",
+      "duration_ms": 183704,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7f/04/6c/7f046cde-c690-a619-5ac4-f759eb086f72/mzaf_18233989485396777736.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "The Murderer's DUB",
+      "duration_ms": 185581,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d7/5b/17/d75b174c-c8e2-5cef-ffe2-042fabeea356/mzaf_11091205772030540889.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Shotgun's DUB",
+      "duration_ms": 241395,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2b/22/67/2b226723-4d25-8ab0-ec78-329af9d50024/mzaf_14724909357746835495.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Frozen BEAT Sandwich",
+      "duration_ms": 259535,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5e/49/2d/5e492d36-a58b-3928-0fcb-1e31230c4b0c/mzaf_755159076643823692.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "First Floor DUB",
+      "duration_ms": 189767,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b9/8e/65/b98e6560-782d-089c-a816-5be0cc2d32fc/mzaf_12841435026775711003.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "First Floor BEAT",
+      "duration_ms": 197442,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/44/e1/d7/44e1d7f6-7e3b-22ec-76c4-266b2b89e8d9/mzaf_2165619736059992499.plus.aac.p.m4a"
+    }
+  ]
+}
