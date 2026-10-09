@@ -1,0 +1,83 @@
+{
+  "id": "1850444885",
+  "artist": "Archy Marshall",
+  "album": "A New Place 2 Drown",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/a-new-place-2-drown/1850444885",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/8c/df/038cdff6-6c79-934c-9316-49ffbbbbf22e/191404164259.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "4f4f4f",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Any God of Yours (Instrumental)",
+      "duration_ms": 98526,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/13/9b/8a139b5e-b48d-35d3-3468-1673ca4ff6c6/mzaf_10843595661679180098.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Swell",
+      "duration_ms": 128640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/9a/cf/cd9acf81-e72c-bed5-675c-3e21cd3eaa27/mzaf_5081307794915016747.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Arise Dear Brother",
+      "duration_ms": 174799,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/88/35/e1883594-7335-729f-2d4d-80e0b115cf6b/mzaf_12684180205899289875.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Ammi Ammi (feat. Jamie Isaac)",
+      "duration_ms": 209838,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/44/d3/6044d39e-736b-0dab-1cea-86b16adea2a0/mzaf_8661355180631411440.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Buffed Sky",
+      "duration_ms": 157867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/34/16/3d3416d6-655f-886c-ad37-0f304d2cbf45/mzaf_469109357126848265.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Sex With Nobody",
+      "duration_ms": 213251,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/41/c7/0c41c771-b7e3-546d-2508-4013ad021d21/mzaf_16470860172438977374.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Eye's Drift",
+      "duration_ms": 142448,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/5d/f6/035df6a1-48c4-c8d0-6d4b-0009ed3c68f2/mzaf_1078253439973811160.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "The Sea Liner MK 1",
+      "duration_ms": 216521,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/2c/29/2d2c29ff-f0e9-bcba-21b9-21e01dfabe36/mzaf_13301934188142409577.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Empty Vessels",
+      "duration_ms": 209125,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/82/91/a28291e6-ee4b-d907-041a-8d6bab7c4787/mzaf_3568144499033908422.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "New Builds",
+      "duration_ms": 93965,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/f4/ca/26f4ca73-95f6-5a5d-0067-d00d227e9edd/mzaf_4804111522313391875.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Dull Boys",
+      "duration_ms": 205623,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7e/4b/567e4b6b-5716-5952-74a6-310838eb51f2/mzaf_5971863317663060815.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Thames Water",
+      "duration_ms": 421728,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/ab/17/00ab1756-7334-d8ff-bc33-a960652b2745/mzaf_7151866156849806502.plus.aac.p.m4a"
+    }
+  ]
+}
