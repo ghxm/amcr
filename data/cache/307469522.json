@@ -1,0 +1,95 @@
+{
+  "id": "307469522",
+  "artist": "Brian McBride",
+  "album": "The History of Yellowstone - a Realm Untamed",
+  "year": 2009,
+  "apple_music_url": "https://music.apple.com/de/album/the-history-of-yellowstone-a-realm-untamed/307469522",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/49/56/55/mzi.snfijzhg.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b58061",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "A Realm Untamed - Title Theme",
+      "duration_ms": 243147,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/40/9f/72/mzm.eiazpxks.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Tribal Turbulence (Re-mix)",
+      "duration_ms": 298760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/60/a7/cc/mzm.yyiarmyg.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Main Attraction",
+      "duration_ms": 197640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/a9/c7/99/mzm.cegcvlnn.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Endangered",
+      "duration_ms": 289320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/d1/d8/09/d1d8096f-06c0-3400-22d8-55a4396eefb7/mzaf_3094738004920906167.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Eyes of Determination (Re-mix)",
+      "duration_ms": 174187,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/f1/bd/27/mzm.gjiwhrmf.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Spirit of the Wolves",
+      "duration_ms": 202853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/e0/46/e9/mzm.gqmqxhwq.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Yellowstone Remembered (Re-mix)",
+      "duration_ms": 145187,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/95/cc/8e/mzm.ztjfdrlv.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Refiner's Fire (Re-mix)",
+      "duration_ms": 247720,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/f7/66/35/mzm.aftdtesi.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Bear Jams",
+      "duration_ms": 113507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/23/72/f0/mzm.autmnkvs.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Nobility (Re-mix)",
+      "duration_ms": 118787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/5d/6b/0f/mzm.zpmqpmhx.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "The Living Caldera",
+      "duration_ms": 278000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/be/aa/a9/beaaa9cf-b22c-293c-1f65-7d7fb20fd2bc/mzaf_4483633143057286853.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Crossing the Plains (Re-mix)",
+      "duration_ms": 164560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/d3/c4/2a/mzm.gxypljcx.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Careless Plunder (Re-mix)",
+      "duration_ms": 250800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/e5/8f/e4/mzm.blztkobj.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Nature's Masterpiece - Finale",
+      "duration_ms": 110240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/8a/bd/71/mzm.glxxmfnq.aac.p.m4a"
+    }
+  ]
+}
