@@ -1,0 +1,71 @@
+{
+  "id": "1660293356",
+  "artist": "Graham Lambkin",
+  "album": "Salmon Run",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/salmon-run/1660293356",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/83/96/af/8396aff2-4c02-4bb9-dc81-064221c88077/37125.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Intro",
+      "duration_ms": 265708,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/90/4a/d6/904ad62e-e474-f567-3264-9bba04fff9c6/mzaf_17681733867427992846.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Glinkamix",
+      "duration_ms": 230863,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/50/68/9c/50689c94-dad8-2a52-007f-29b43811f937/mzaf_14989596508385773329.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Brendan Drill",
+      "duration_ms": 199236,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ac/68/04/ac6804b4-1640-507a-368f-613dbc462854/mzaf_16435862096615373306.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Jungle Blending",
+      "duration_ms": 366680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a6/1a/d0/a61ad06e-9239-6cd3-e5da-9389e3152a75/mzaf_3369009565031027009.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Jumpskins",
+      "duration_ms": 145253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a4/56/68/a4566811-7491-8e4b-a238-f04bef2540f1/mzaf_10593117709163186682.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Baby & Fox",
+      "duration_ms": 210220,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/31/de/ce/31dece2f-f9c1-077b-ba72-64f660a815b9/mzaf_1265022684224390690.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "The Currency Of Dreams",
+      "duration_ms": 543102,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9e/10/7e/9e107e55-2a5e-badc-58ad-710db0d36dcc/mzaf_11872365633566971258.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Cementspawn",
+      "duration_ms": 267918,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7e/27/e6/7e27e6ed-78b1-d6ba-5da7-32bde3a45086/mzaf_6461225906745375418.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Divers",
+      "duration_ms": 186139,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/37/ab/97/37ab9738-7021-89cf-6bf3-b549e604317c/mzaf_3673691005160384518.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "The Bridge To Aria / Salmon Run",
+      "duration_ms": 432060,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bb/14/e1/bb14e181-2c1e-b057-b357-9cca67da031c/mzaf_3116498857106198301.plus.aac.p.m4a"
+    }
+  ]
+}
