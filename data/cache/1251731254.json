@@ -1,0 +1,59 @@
+{
+  "id": "1251731254",
+  "artist": "Ozel Ab",
+  "album": "Workshop 24",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/workshop-24/1251731254",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/e1/80/99/e18099af-2c43-2277-00a2-6e28cc7f68f5/4044693024000_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "725833",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Sierra Echo",
+      "duration_ms": 484174,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview127/v4/be/5b/f5/be5bf5fb-a0d2-7828-454e-e9aa42623fd2/mzaf_2243460498201778556.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Fortier",
+      "duration_ms": 128000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/5e/a3/5f/5ea35f9c-6e09-fdcb-89f0-e45b3e6dbc21/mzaf_3742232681813275999.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Orbit 416",
+      "duration_ms": 330000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/ee/5f/d3/ee5fd3da-d05d-5958-7d19-41e94f3fd0f3/mzaf_8532158958711593208.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Positronic Dreams",
+      "duration_ms": 417391,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/56/d4/b556d47c-258b-dcb3-def5-8cada9a74c57/mzaf_8635149478846286716.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Interlude",
+      "duration_ms": 104727,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/5a/35/405a3531-f6c7-59d1-66ca-e61967a929a7/mzaf_1550850387670068100.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Whuffie",
+      "duration_ms": 424000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/22/54/5a22541b-76bf-8c6a-fffc-bc849e6b1efa/mzaf_16245828872290699580.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Daisy Bank",
+      "duration_ms": 400000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/ea/98/e9/ea98e9de-8472-bc4e-b630-4a17e2d79319/mzaf_2670530570137902713.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Sunfire",
+      "duration_ms": 392000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/df/28/cddf285b-7080-4716-ebb9-ea92f5ae477e/mzaf_14232240814192408362.plus.aac.p.m4a"
+    }
+  ]
+}
