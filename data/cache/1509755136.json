@@ -1,0 +1,71 @@
+{
+  "id": "1509755136",
+  "artist": "Sarcófago",
+  "album": "Hate",
+  "year": 1994,
+  "apple_music_url": "https://music.apple.com/de/album/hate/1509755136",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/35/06/25/350625fe-9b23-334d-ae45-242052bc07fa/195081457765.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2c0f22",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Intro/Song for My Death",
+      "duration_ms": 155264,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d4/4e/6c/d44e6c40-2263-288e-e6a0-b3ed314bd88d/mzaf_12514639272975130090.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Pact of Cum",
+      "duration_ms": 236885,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/64/ab/a3/64aba3f0-ae54-0d05-a5a8-28ef3f365176/mzaf_10028723567946886966.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The God's Faeces",
+      "duration_ms": 226133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/df/f8/43dff844-388f-61c7-4aa2-0125bc0f140b/mzaf_11486402999585149863.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Satanic Terrorism",
+      "duration_ms": 130560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/b3/d2/3e/b3d23ede-6821-0be2-b7ec-2b43c2163ecc/mzaf_17792720510616780789.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Orgy of Flies",
+      "duration_ms": 282069,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/89/e9/dd/89e9ddb0-afa0-b37e-ef54-86f58746baa5/mzaf_14914222762089013094.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Hate",
+      "duration_ms": 147243,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/4d/36/30/4d363030-3256-eacf-56f2-9f9d369a088c/mzaf_13993797137828196597.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "The Phantom",
+      "duration_ms": 300885,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/13/72/94/1372941d-5b02-2ddd-36bf-f191124f488a/mzaf_683660856000163888.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Rabdhovirus (The Pitbull's Curse)",
+      "duration_ms": 187115,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/86/40/51/86405160-22c1-5e0e-9ce1-dc57b4dddf3a/mzaf_1406942464977429067.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Anal Vomit",
+      "duration_ms": 322176,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/f7/53/a9f753a9-cb20-f3a1-5baa-af8af812851a/mzaf_13969885489786899883.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "The Beggar's Uprising",
+      "duration_ms": 112875,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/8b/fa/59/8bfa59bf-c49e-263f-e5a5-4d046567db4e/mzaf_14874213732642625940.plus.aac.p.m4a"
+    }
+  ]
+}
