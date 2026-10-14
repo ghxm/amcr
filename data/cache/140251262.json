@@ -1,0 +1,71 @@
+{
+  "id": "140251262",
+  "artist": "Chaka Khan",
+  "album": "I Feel for You",
+  "year": 1984,
+  "apple_music_url": "https://music.apple.com/de/album/i-feel-for-you/140251262",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/c2/c4/9dc2c49d-82ba-a79c-7274-e1b7c537caad/mzi.pdtcyntm.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2c251d",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "This Is My Night",
+      "duration_ms": 280627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/bd/56/40bd56ac-0b17-f12c-ac04-6c8ca5dabb4c/mzaf_7406761966439468419.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Stronger Than Before",
+      "duration_ms": 261333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/10/a0/5810a0da-93f8-7c31-07e9-5a38d9363cb0/mzaf_4310741749928530648.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "My Love Is Alive",
+      "duration_ms": 280800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/07/20/18072070-a074-12a5-b884-1cab2f65c7b8/mzaf_14069880154658444103.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Eye to Eye",
+      "duration_ms": 276213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/f4/4f/b9f44f76-8bbd-736f-bd84-b8d4a2dfc444/mzaf_13330678531661543041.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "La Flamme",
+      "duration_ms": 267680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/51/bd/0d51bdce-dbb4-aaf5-2d9f-ae0b5e900eef/mzaf_6805911846541628072.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "I Feel for You",
+      "duration_ms": 343400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/ce/5a/4cce5a51-0f21-b743-a6d3-de066f72af44/mzaf_10188608860824014133.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Hold Her",
+      "duration_ms": 316107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/03/30/0c033057-2fc2-2ca2-c887-2f8de65325ab/mzaf_17587516674749197894.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Through the Fire",
+      "duration_ms": 288653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/5e/3a/a75e3a03-11a5-1775-1666-e6a3bc0564f6/mzaf_5323535976921656865.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Caught In the Act",
+      "duration_ms": 227307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/ba/aa/55baaa9e-a1dd-9749-cdaa-1cd790c6adcc/mzaf_10924624608164237896.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Chinatown",
+      "duration_ms": 275627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/b7/d3/bbb7d311-ffec-490f-82c3-9c98a42afc6f/mzaf_11305691323911533802.plus.aac.p.m4a"
+    }
+  ]
+}
