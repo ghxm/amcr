@@ -1,0 +1,71 @@
+{
+  "id": "1440747830",
+  "artist": "Bill Evans Trio",
+  "album": "Waltz for Debby (Remastered) [Live]",
+  "year": 1962,
+  "apple_music_url": "https://music.apple.com/de/album/waltz-for-debby-remastered-live/1440747830",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/90/e4/7490e4c9-1fdf-69b8-6f5c-309fba19b5ac/09CMGIM01610.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "18191b",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "My Foolish Heart",
+      "duration_ms": 294173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/3d/10/733d10b3-2823-45bd-64df-2e881eb81840/mzaf_1933539964297848186.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Waltz for Debby (Take 2)",
+      "duration_ms": 416000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/8a/9f/1e8a9f9a-899f-5747-92d1-a50cf905db88/mzaf_17236435212721914763.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Waltz for Debby (Take 1)",
+      "duration_ms": 410093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/1b/57/3b1b5751-dacf-0c7d-b8e8-597c9dd08b04/mzaf_2895341478458592024.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Detour Ahead (Take 2)",
+      "duration_ms": 455867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/98/8a/e5988a3d-ba22-b0e4-7109-41bd49cbbd1c/mzaf_8309212254436297619.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Detour Ahead (Take 1)",
+      "duration_ms": 438800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/e8/0d/45e80dc4-fd3e-6350-1890-a01535b795f6/mzaf_6877205630099959089.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "My Romance (Take 1)",
+      "duration_ms": 432107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/aa/c7/94aac78a-9d78-dc5c-9af7-d7c763d960ec/mzaf_16897022389364421762.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "My Romance (Take 2)",
+      "duration_ms": 431533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/60/1b/e8601b9f-87dc-9163-fbf9-a3f894e6e522/mzaf_4153101650835460456.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Some Other Time",
+      "duration_ms": 298960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/79/29/4b7929e0-8a17-7d74-0f97-bd542ff6f4cb/mzaf_7187868779124743723.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Milestones",
+      "duration_ms": 391440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/74/24/c1742405-7e4d-5450-53a9-d35935b95837/mzaf_4994570137650592562.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "I Loves You Porgy",
+      "duration_ms": 358827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/33/78/5b33787b-a858-9a3f-161e-182c67fb7677/mzaf_11659687705032018397.plus.aac.p.m4a"
+    }
+  ]
+}
