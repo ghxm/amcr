@@ -1,0 +1,47 @@
+{
+  "id": "1440949183",
+  "artist": "Roy Haynes, Phineas Newborn & Paul Chambers",
+  "album": "We Three (Rudy Van Gelder) [Remastered]",
+  "year": 2007,
+  "apple_music_url": "https://music.apple.com/de/album/we-three-rudy-van-gelder-remastered/1440949183",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/cb/b1/8ccbb143-aa3a-6f8a-e528-4b0badedf3bd/00888072351370.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "ffffff",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Reflection",
+      "duration_ms": 264547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/ef/e8/10efe88c-32ce-2a66-dd9d-b121fafca1b5/mzaf_1255771141372593438.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Sugar Ray",
+      "duration_ms": 385880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/51/9c/f3/519cf3e6-3bb7-9241-3859-d1dffe19e212/mzaf_7292351715262262126.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Solitaire",
+      "duration_ms": 534040,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cf/ab/7a/cfab7ab9-7686-fd5f-c7eb-8df6cd824e28/mzaf_10273811914368085900.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "After Hours",
+      "duration_ms": 681480,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/34/b2/ac34b29f-9f97-4e32-d237-e20863849ed5/mzaf_12602297168268824433.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Sneakin' Around",
+      "duration_ms": 264827,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/e1/97/58e19790-098a-463d-02f0-518ba6ae65e3/mzaf_5426315142948087580.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Our Delight",
+      "duration_ms": 241933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/24/bc/2424bce9-8238-71f5-1dc3-4236791b5e76/mzaf_14466533131429461745.plus.aac.p.m4a"
+    }
+  ]
+}
