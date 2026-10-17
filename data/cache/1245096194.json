@@ -1,0 +1,47 @@
+{
+  "id": "1245096194",
+  "artist": "Nahawa Doumbia",
+  "album": "Didadi - EP",
+  "year": 1987,
+  "apple_music_url": "https://music.apple.com/de/album/didadi-ep/1245096194",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/de/dd/42dedd7b-4cd2-e01b-5a0d-1002da2c1f9a/5017742002389_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b0bdc7",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Djina Mousso",
+      "duration_ms": 316000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/62/7a/5b627aee-b6d1-aa26-3c0e-bc2eb020c122/mzaf_5268485941850083324.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Banani",
+      "duration_ms": 254907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/05/f9/3e05f95b-ea63-d620-637b-7566b0a65105/mzaf_3525730640542423851.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Mogoya",
+      "duration_ms": 254067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/fe/7e/5bfe7e7c-fe92-ba51-1d69-d9d21e5cd07a/mzaf_14165223921925895625.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Djuguya",
+      "duration_ms": 305667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/fc/d7/b5fcd7a1-10b0-4092-3387-ef923bf4afda/mzaf_14176655231621251728.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Baroo",
+      "duration_ms": 313093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/89/23/4a892360-028d-870b-6e82-a11d33313cdf/mzaf_10979428910601139378.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Nteriwe",
+      "duration_ms": 259507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/e9/17/94e91768-ca7b-442f-01db-297f07017287/mzaf_14526524288658554049.plus.aac.p.m4a"
+    }
+  ]
+}
