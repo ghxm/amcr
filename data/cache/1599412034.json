@@ -1,0 +1,53 @@
+{
+  "id": "1599412034",
+  "artist": "Darkspace",
+  "album": "Dark Space III",
+  "year": 2008,
+  "apple_music_url": "https://music.apple.com/de/album/dark-space-iii/1599412034",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/c7/1d/f1c71d95-d9fe-b829-57bb-b987cd667c2d/822603166101.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "000000",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Dark 3.11",
+      "duration_ms": 664080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a5/c8/2f/a5c82f86-bd50-d78a-f44f-7b55ea071c2a/mzaf_14706920680012026219.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Dark 3.12",
+      "duration_ms": 639940,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8b/8e/52/8b8e52eb-b648-fa88-1d7b-a834a2ec5ae9/mzaf_16788208174527485640.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Dark 3.13",
+      "duration_ms": 709127,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/af/6d/61/af6d61d5-9af9-101a-7c38-bc1ad22fa6d6/mzaf_12408238125156437176.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Dark 3.14",
+      "duration_ms": 661960,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7b/96/2e/7b962eb4-53de-f0f7-e4c9-126836170a06/mzaf_10510500711495487944.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Dark 3.15",
+      "duration_ms": 214693,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/48/1e/e0/481ee02f-4966-cb07-6ace-940b765847ad/mzaf_10819403580442294940.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Dark 3.16",
+      "duration_ms": 848947,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/87/45/a0/8745a0a4-8658-f8e1-3160-dff6ebd5e094/mzaf_3932109407298450186.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Dark 3.17",
+      "duration_ms": 984154,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b9/75/bb/b975bb0b-3751-36a1-f11b-0b1be069b39d/mzaf_18219483350014867387.plus.aac.p.m4a"
+    }
+  ]
+}
