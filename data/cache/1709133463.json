@@ -1,0 +1,47 @@
+{
+  "id": "1709133463",
+  "artist": "Atlantic Dub Unit",
+  "album": "My Life in the Fields of Hope - EP",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/my-life-in-the-fields-of-hope-ep/1709133463",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/84/e8/b084e8dc-375b-1d7c-5bf8-d11a45f90ce8/7321170688205.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b82b33",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Heaven Marches On",
+      "duration_ms": 211200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/1f/fa/9a1ffab8-4172-e365-c98b-1c4b28bec05e/mzaf_7004211882433507632.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Freeing the Land from Sorrow",
+      "duration_ms": 243427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f1/ae/22/f1ae22cb-b74d-946d-9d7a-b5ff542225e7/mzaf_10660690222495998978.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Lover's War",
+      "duration_ms": 316000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b9/e4/8f/b9e48f87-b660-a2be-1bcb-11774e938699/mzaf_6683054700795582930.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Siren's Call",
+      "duration_ms": 264653,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c6/82/66/c68266b6-9047-ac77-6adf-559ba0de79ad/mzaf_2468156617501775798.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Jungle Predators",
+      "duration_ms": 232507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e4/06/12/e40612b0-5672-9a68-4319-5a277daa8db0/mzaf_5003763671666815973.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Heaven's Align Dub",
+      "duration_ms": 326400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/82/8e/7b/828e7b1b-2df1-c495-3cdc-64d7c858519e/mzaf_9051862793605303986.plus.aac.p.m4a"
+    }
+  ]
+}
