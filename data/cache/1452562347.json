@@ -1,0 +1,95 @@
+{
+  "id": "1452562347",
+  "artist": "Gidon Kremer & Academy of St Martin in the Fields",
+  "album": "J.S. Bach: The Two Violin Concertos",
+  "year": 1996,
+  "apple_music_url": "https://music.apple.com/de/album/j-s-bach-the-two-violin-concertos/1452562347",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/35/97/3f35974d-84a3-015f-a034-48a975522f86/00028945412825.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f2edeb",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro moderato",
+      "duration_ms": 196000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/47/70/e7/4770e741-346a-3750-ef5d-202422348ff6/mzaf_565394328012099821.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Violin Concerto No. 1 in A Minor, BWV 1041: Ii. Andante",
+      "duration_ms": 320000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/cc/29/b9cc29c4-455b-c26d-b784-0be5176ef3c5/mzaf_4223460514213262267.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Violin Concerto No. 1 in A Minor, BWV 1041: III. Allegro assai",
+      "duration_ms": 209000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/57/a6/ee57a6b2-a217-4800-9203-4c61dfba9439/mzaf_10291651849642756345.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Violin Concerto No. 2 in E, BWV 1042: I. Allegro",
+      "duration_ms": 415962,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/da/1d/37/da1d37d3-1819-7659-e824-5777c41b1c3e/mzaf_9478569032273775651.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Violin Concerto No. 2 in E, BWV 1042: II. Adagio",
+      "duration_ms": 297000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/36/79/51/367951b6-86d2-2de1-9fdc-e5d442efe854/mzaf_2848568700129662578.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Violin Concerto No. 2 in E, BWV 1042: III. Allegro assai",
+      "duration_ms": 161000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/71/05/b6/7105b6aa-dc91-3cdd-6f9c-ebb501eb0bb9/mzaf_8742329884491971212.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Concerto for Two Violins, Strings, and Continuo in D Minor, BWV 1043: I. Vivace",
+      "duration_ms": 208000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e7/24/ec/e724ec7f-1da0-463f-afc6-714944e59434/mzaf_5156364224408775975.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Concerto for Two Violins, Strings, and Continuo in D Minor, BWV 1043: II. Largo ma non tanto",
+      "duration_ms": 437000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b4/5b/c0/b45bc021-84d6-814a-f696-fd2134685735/mzaf_4661610305700052804.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Concerto for Two Violins, Strings, and Continuo in D Minor, BWV 1043: III. Allegro",
+      "duration_ms": 280013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/e4/8c/50e48c62-2955-4943-f01f-17bc9f132e72/mzaf_7713385284947653088.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: I. Allemande",
+      "duration_ms": 236987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/36/00/e2/3600e2b7-c63e-c186-8372-79a9b911c94a/mzaf_17914154804012394286.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: II. Corrente",
+      "duration_ms": 143000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ab/38/aa/ab38aa0d-d62e-7d53-3547-b2c5d59d5dd2/mzaf_6219314133724825304.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: III. Sarabande",
+      "duration_ms": 219000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/f4/65/65f465b8-ddc3-8f35-b82d-4c3b686931da/mzaf_2157643901936502452.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: IV. Giga",
+      "duration_ms": 230000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2b/8d/8b/2b8d8b7e-d1ee-d2c3-87d6-7560a1dd4fed/mzaf_14810119114856425194.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Partita for Violin Solo No. 2 in D Minor, BWV 1004: V. Ciaccona",
+      "duration_ms": 770000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/45/e8/7045e89c-2a85-a4fd-d473-a14da1efb799/mzaf_5729806306071446020.plus.aac.p.m4a"
+    }
+  ]
+}
