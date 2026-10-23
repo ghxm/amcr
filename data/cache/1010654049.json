@@ -1,0 +1,77 @@
+{
+  "id": "1010654049",
+  "artist": "Drae Da Skimask",
+  "album": "'95 Mindfulness",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/95-mindfulness/1010654049",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3d/64/b2/3d64b28e-0618-a19d-b8de-f44de72c9915/5050580638778.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "4b4039",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Why June",
+      "duration_ms": 65750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cc/56/2a/cc562abb-664a-560f-4196-2238a291469c/mzaf_13969584945478981070.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Coogi Sweater",
+      "duration_ms": 141938,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/79/92/6d7992ac-9cc2-3a63-e46e-a97844afc8ae/mzaf_14043880764483643148.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Yamborghini Forever",
+      "duration_ms": 121938,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/36/14/de361463-7438-d3c2-0cd6-109e914a75b2/mzaf_12812248237410435901.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "I Feel Good",
+      "duration_ms": 234625,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c9/d6/fa/c9d6faa7-2fe9-30ee-9014-a3d0cab5bbd1/mzaf_17878869417611120102.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Theta Wave",
+      "duration_ms": 152750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/69/4f/ad694fe6-2135-75fc-5b23-618d955c5481/mzaf_8283791006634163844.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Operation Lockdown",
+      "duration_ms": 219020,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f3/5b/f3/f35bf384-900e-40c7-9d21-d2fc85628c44/mzaf_13053708860104402457.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "ImProbablyLaughingAtYouNotWithYou",
+      "duration_ms": 98565,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/0b/b6/060bb63c-9ef9-8f42-0488-aad12493db77/mzaf_3558586913744769699.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Ganksta Shit (feat. Tommy II)",
+      "duration_ms": 183771,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/70/55/337055eb-9f31-b119-5134-0ec4377a91f0/mzaf_10353565355135283832.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Let's Ride",
+      "duration_ms": 249508,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/7c/b0/5a7cb00d-bf7d-976d-07ad-0a1f3a63e8d5/mzaf_12214153876779731791.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Constricted",
+      "duration_ms": 158546,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2f/b5/79/2fb579a5-4d2b-43db-d725-d83fc637c10c/mzaf_8572174731301162983.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Quest",
+      "duration_ms": 245321,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/67/c7/5c/67c75c26-fc15-91cd-c262-52095816c3bd/mzaf_2549337322296714353.plus.aac.p.m4a"
+    }
+  ]
+}
