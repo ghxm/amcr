@@ -1,0 +1,47 @@
+{
+  "id": "1472245201",
+  "artist": "Ekin Fil",
+  "album": "You, Only",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/you-only/1472245201",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/a7/28/51a72811-58ed-3136-1a11-832d23213586/880918236803.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "b0b0b0",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Hope",
+      "duration_ms": 172382,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/54/df/6e/54df6e52-2034-232e-0176-302de9cb819f/mzaf_3276221425483564613.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Other Others",
+      "duration_ms": 254116,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/7b/7d/8c7b7db5-8d43-2b52-4286-5e515fe4087d/mzaf_16398580624942618854.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "You, Only",
+      "duration_ms": 408410,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/94/f0/41/94f0412a-20bd-093c-8890-c75923c33e5e/mzaf_16545518930309661593.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Arise",
+      "duration_ms": 308680,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e6/50/4f/e6504f75-f23b-3b80-c6ea-2b71d5af3d03/mzaf_3675754553974235801.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Scar",
+      "duration_ms": 788621,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7c/8b/c7/7c8bc704-d376-ee7a-006b-5f4159ab5fba/mzaf_16801113332920424103.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Incident Light",
+      "duration_ms": 240741,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/5e/b8/b1/5eb8b1f2-b84c-ac97-523e-079a059f35ff/mzaf_7845236325593809088.plus.aac.p.m4a"
+    }
+  ]
+}
