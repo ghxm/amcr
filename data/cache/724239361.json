@@ -1,0 +1,89 @@
+{
+  "id": "724239361",
+  "artist": "The Bionaut",
+  "album": "Lush Life Electronica",
+  "year": 1995,
+  "apple_music_url": "https://music.apple.com/de/album/lush-life-electronica/724239361",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/9a/c6/8b/9ac68b8a-d0be-62aa-73eb-458882eb0930/00724383620456.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "4e5366",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "4 Letter Words In Mixed Company",
+      "duration_ms": 388093,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/74/5b/be/745bbe21-51da-d06b-d358-f7c9e80f5e83/mzaf_6828698594699828643.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Lubricate Your Living Room",
+      "duration_ms": 202000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/3f/41/553f4113-5912-3bcf-4839-2cea441e2b14/mzaf_15728895045550550976.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Lush Life Electronica",
+      "duration_ms": 262600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/54/b8/8e54b80b-f950-4940-c64e-c016ce23a04b/mzaf_14899466789735249214.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Ingenieur Mars",
+      "duration_ms": 345173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/11/50/f9115069-df78-1315-558e-4344cd9da81f/mzaf_16355638626437122309.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Second Hand Furniture",
+      "duration_ms": 366893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/5b/55/725b5572-56f9-50bc-15ed-9bfbb8b5b361/mzaf_5416474026625060586.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "The Receipe",
+      "duration_ms": 264707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/10/73/e4107309-21e1-45c4-e6a3-958df10df0f4/mzaf_6950904667589174828.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Vitagraph",
+      "duration_ms": 368533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/e5/fd/69e5fdcf-6480-8741-8425-5df0c6a49425/mzaf_4121810079692505654.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "I Sing the Body Electric",
+      "duration_ms": 248160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1f/a1/62/1fa162ff-3a33-2de3-58c3-306202ae8583/mzaf_7721768959299757076.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Student Bashing At the Seaside",
+      "duration_ms": 285640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/92/4d/f9924ddd-4c48-f59b-ffcb-75b6460daf21/mzaf_15498413560125188246.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "The Juicy Reminder",
+      "duration_ms": 242493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/c7/a0/d2c7a064-cf79-5094-d2ae-735ecc465ac6/mzaf_3861489423030460118.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Naomi H. et le Monde Irreel",
+      "duration_ms": 385400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/6e/ff/036effc8-2690-a47a-ec22-5e8743f05de9/mzaf_2718222259980670087.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Memphis Scifi",
+      "duration_ms": 179840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/02/3f/8e023f5d-2cfa-db04-c3d4-af197abde2c5/mzaf_692362287055124455.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Electric Campfire (In a Neo-Ackermann Style)",
+      "duration_ms": 321867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/5f/b8/6c5fb891-69a2-8cf4-69e9-b14cf0a9a3a8/mzaf_17625794077182629009.plus.aac.p.m4a"
+    }
+  ]
+}
