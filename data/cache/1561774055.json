@@ -1,0 +1,77 @@
+{
+  "id": "1561774055",
+  "artist": "William Adamson",
+  "album": "Under an East Coast Moon",
+  "year": 2013,
+  "apple_music_url": "https://music.apple.com/de/album/under-an-east-coast-moon/1561774055",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/0d/23/200d2388-f048-e2a0-29a0-3535b540bed8/5060180321642.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2f2b2c",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Foggy Dew",
+      "duration_ms": 361787,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/89/e3/ca/89e3ca7c-9094-3803-158e-1c3d65a3dc97/mzaf_18209222520150801393.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Poacher",
+      "duration_ms": 147013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/8c/84/a6/8c84a652-8ee7-c3eb-6d61-f17279796069/mzaf_16502243059390296713.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Margaret Catchpole",
+      "duration_ms": 189427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b5/fe/b3/b5feb37a-02b9-dbce-0afc-b2b6df8796c4/mzaf_13014925782038896072.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Velvets Eleven",
+      "duration_ms": 264667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/0f/0b/4f/0f0b4f1d-88a3-d954-2249-422fa560cf65/mzaf_11969787713994562943.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Creek Men",
+      "duration_ms": 144080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a4/f6/a3/a4f6a3a9-7f6f-169d-cc3f-c60a159c31c3/mzaf_1005920189719245400.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Laxfield Blasphemy",
+      "duration_ms": 184640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/6b/e6/10/6be6108b-4d21-edc5-c610-46048070471f/mzaf_4772994173983702462.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Under an East Coast Moon",
+      "duration_ms": 276387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a5/bb/80/a5bb80a9-2153-4ec1-4608-0ae684abdbe2/mzaf_3230495832201010488.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Whip of the Wind",
+      "duration_ms": 294907,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/af/ec/71/afec71fd-b9fc-f9ce-7793-fdbcfec146bd/mzaf_17552790440564024023.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Burial Blues",
+      "duration_ms": 167547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/34/27/07/34270730-f4a3-11af-244e-d8873c915298/mzaf_17685283749490311514.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "North Seas",
+      "duration_ms": 226533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/f8/90/a8/f890a894-0a20-cd83-7c3f-fad4c232b282/mzaf_12476203286469799575.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Rings of Saturn",
+      "duration_ms": 324933,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/0d/83/38/0d833828-91f7-987b-e15c-3abd596ec96a/mzaf_985340357672519833.plus.aac.p.m4a"
+    }
+  ]
+}
