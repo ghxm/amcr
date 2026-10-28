@@ -1,0 +1,77 @@
+{
+  "id": "1386398755",
+  "artist": "Asnaké Gèbrèyès",
+  "album": "Ahadu",
+  "year": 1988,
+  "apple_music_url": "https://music.apple.com/de/album/ahadu/1386398755",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/a4/2c/2ba42cb3-dec4-962a-2dc6-1c2c453432c3/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fdf2b1",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Weyene Ajire",
+      "duration_ms": 482352,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/c2/22/0cc22211-ee00-bdb3-b4e6-70d84f97650c/mzaf_9702274057176883278.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Tamahugne Besew Afe",
+      "duration_ms": 352863,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/70/0a/f9700a72-59b0-498f-0e03-59f07b18069c/mzaf_1660580846087217412.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Eski Beke Ney",
+      "duration_ms": 336018,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/2b/d9/982bd9fc-47b6-2e2c-5b7d-744b9df055d4/mzaf_11642906686100970050.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Outro",
+      "duration_ms": 105320,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/a6/0c/85a60c21-dbcc-9633-c377-ce885009735b/mzaf_2109035597077243848.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Anjete Aychulelegne",
+      "duration_ms": 279807,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ad/1b/ea/ad1bea9f-498c-4002-b72a-f5e5bc2a9bd4/mzaf_4450869577203247609.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Melelo",
+      "duration_ms": 262195,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/0c/e1/d70ce102-9fe5-e16f-a8a1-99a2fead5a25/mzaf_1143732900871364900.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Lomeye",
+      "duration_ms": 332824,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/7d/68/1e7d684d-394b-aeab-d9b0-8a2e6ecda0cd/mzaf_7104164703131601441.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Muna Neyi",
+      "duration_ms": 348108,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/89/00/ed/8900ed14-4889-1517-b2e0-af6a7673377c/mzaf_2273696895293179156.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Senadere",
+      "duration_ms": 356750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/df/db/0cdfdb07-b3fc-daf8-77fc-f0acb17ea6a2/mzaf_5069977487948903319.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Mondalaye",
+      "duration_ms": 368981,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f1/8a/0b/f18a0b43-ceb1-736b-4388-f5da949aeef6/mzaf_5503911792529581669.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Misteru Meweded",
+      "duration_ms": 375743,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/f0/ed/08f0ed21-cf93-26fc-921e-c8c40f6f62ed/mzaf_8907567096280946737.plus.aac.p.m4a"
+    }
+  ]
+}
