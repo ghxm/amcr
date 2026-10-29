@@ -1,0 +1,23 @@
+{
+  "id": "1482320914",
+  "artist": "John Carroll Kirby",
+  "album": "Tuscany",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/tuscany/1482320914",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cf/be/fd/cfbefd43-3aa2-4a24-110f-312a283d8b98/193872652665_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "25b3db",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Cascata di Malbacco",
+      "duration_ms": 1088970,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/b2/95/1fb2952c-aed5-d571-b735-a7b62096f270/mzaf_9479150836204790238.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Sant'Anna",
+      "duration_ms": 1042426,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/c6/5e/1fc65e70-b64c-8aa7-bf7e-cc7447d5554d/mzaf_9945407506647988864.plus.aac.p.m4a"
+    }
+  ]
+}
