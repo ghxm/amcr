@@ -1,0 +1,125 @@
+{
+  "id": "1440769782",
+  "artist": "Nelly",
+  "album": "Nellyville",
+  "year": 2002,
+  "apple_music_url": "https://music.apple.com/de/album/nellyville/1440769782",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/5c/5a/3f5c5a9e-3b5c-0d4e-5254-2f3e7f22427e/06UMGIM16838.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e8d5ab",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Nellyville",
+      "duration_ms": 255533,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/4f/b0/254fb032-2cc6-5a83-221e-1e0cd379d0cf/mzaf_3855306518522538056.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Gettin' It Started (feat. Cedric the Entertainer & La La)",
+      "duration_ms": 111360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/2d/0b/832d0bc8-1fb4-cc35-f871-03f792da44f3/mzaf_9933944450552724717.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Hot In Herre",
+      "duration_ms": 228240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/f5/73/7cf57300-22a6-d610-82bb-35743ab704c8/mzaf_11431429693068768928.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Dem Boyz (feat. St. Lunatics)",
+      "duration_ms": 274360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/42/a4/0342a43d-253d-f40d-7caf-a99dfc5c6159/mzaf_9083531289188990509.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Oh Nelly (feat. Murphy Lee)",
+      "duration_ms": 243000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/dc/1b/a8dc1bcf-7f58-0ccf-ec77-d0c665386e65/mzaf_7441781221917637187.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Pimp Juice",
+      "duration_ms": 292173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/4f/09/fc4f0954-1019-dd29-555f-0e8cba1a3e07/mzaf_580161107744561484.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Air Force Ones (feat. Murphy Lee, Ali & Kyjuan)",
+      "duration_ms": 304000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/22/a1/be22a111-0516-cfc7-b41c-bbb9728d877d/mzaf_242204403179915206.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "In The Store (feat. Cedric the Entertainer & La La)",
+      "duration_ms": 100027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/af/a1/5cafa102-700a-89f7-b3d3-a9eb6381cb50/mzaf_3071560769830897252.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "On The Grind (feat. King Jacob)",
+      "duration_ms": 285507,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/90/db/f990db80-0e3d-d8d7-bc47-3ab193600ea2/mzaf_10308564684880643672.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Dilemma (feat. Kelly Rowland)",
+      "duration_ms": 289160,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/c7/62/1fc76215-0a4d-d182-1fb1-49d1e9cc3665/mzaf_16387467373624048781.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Splurge",
+      "duration_ms": 309440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/e0/4c/f2e04cfd-0d3a-f711-fc2b-4fc25de51ce2/mzaf_1103735476061088948.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Work It (feat. Justin Timberlake)",
+      "duration_ms": 262560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/f0/07/c6f007e2-ce69-2f20-b751-299efeb328f2/mzaf_17874242643227548057.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Roc The Mic (feat. Beanie Sigel, Nelly & Murphy Lee) [Remix]",
+      "duration_ms": 257973,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/c7/1d/efc71d41-2380-6eb6-27e4-70f377bbe34e/mzaf_18444680863989064899.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "The Gank",
+      "duration_ms": 288560,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/9f/8c/809f8c6e-fa2b-c562-2509-37579c88b103/mzaf_4599582717828359305.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "5000",
+      "duration_ms": 131373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/4a/bd/554abd3b-ca45-9635-0cd1-2284462a7823/mzaf_1007797571585158739.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "#1",
+      "duration_ms": 198760,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/cd/9d/20cd9d54-32cc-fa02-6755-05d4fc6e2fb8/mzaf_12506414964568496411.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "CG2 (feat. Ali, Kyjuan & Murphy Lee)",
+      "duration_ms": 272400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/ad/4b/44ad4bb3-558d-0bd1-897a-962fe16136e9/mzaf_7045805017409733979.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "Say Now",
+      "duration_ms": 342373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/fe/88/e2fe88db-a24b-595a-5c85-9cf2ae675cfb/mzaf_1688306151565473875.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "Fuck It Then (feat. Cedric the Entertainer & La La)",
+      "duration_ms": 98600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/3b/30/f93b3005-f252-b6fd-0dab-ec09b3904491/mzaf_15787525236315887754.plus.aac.p.m4a"
+    }
+  ]
+}
