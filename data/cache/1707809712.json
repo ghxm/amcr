@@ -1,0 +1,137 @@
+{
+  "id": "1707809712",
+  "artist": "Eugene Carchesio & Adam Betts",
+  "album": "Circle Drum Music",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/circle-drum-music/1707809712",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/56/ba/a656ba42-d10d-173c-c4f5-d21404892b08/197189996283.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "3a1051",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "A",
+      "duration_ms": 112000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/84/58/7a/84587a5f-ea75-3973-d59a-e51d14c0f9f7/mzaf_4193170278707219977.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "B",
+      "duration_ms": 60690,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/95/b7/c0/95b7c0f9-1bf3-56b2-366b-497510ef1947/mzaf_16207840202003356287.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "C",
+      "duration_ms": 37360,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/85/d8/0e/85d80ef9-5582-5ddf-eeb3-df80131d7aa4/mzaf_11018505537854859183.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "D",
+      "duration_ms": 80000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4c/73/93/4c739371-0645-bdfe-0a20-41711e5da1de/mzaf_12294419148633479771.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "E",
+      "duration_ms": 180000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e0/78/66/e0786601-88d8-1370-eaf2-df71c1d97936/mzaf_13706687874858414806.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "F",
+      "duration_ms": 116000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e6/63/8a/e6638a47-9830-052a-4149-8eebe6b8826f/mzaf_11711137798556125786.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "G",
+      "duration_ms": 88000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3b/d0/24/3bd0243f-96df-0612-b471-5b0c3c5521c8/mzaf_15278989105245778323.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "H",
+      "duration_ms": 78987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/22/70/34/227034d9-101a-9b22-ac31-411b3471e731/mzaf_14461653374781223843.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "I",
+      "duration_ms": 60750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f3/c0/89/f3c08921-c4a1-5e84-c859-fb08357bfcdd/mzaf_15168350400372940239.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "J",
+      "duration_ms": 58000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d4/71/51/d471516c-6865-f517-f3b2-15f5496724b5/mzaf_12033305115635298416.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "K",
+      "duration_ms": 102857,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/25/65/11/256511ab-456e-0d5b-4996-e6271631d02a/mzaf_5173580977730007106.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "L",
+      "duration_ms": 72000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/be/72/9b/be729b52-6b0b-edd8-b7b3-7883b06ee8c6/mzaf_6902412901052679335.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "M",
+      "duration_ms": 66000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/aa/2a/52/aa2a525c-9391-bf72-225e-e8b4fa034924/mzaf_10274850237983938324.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "N",
+      "duration_ms": 67500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e6/70/c9/e670c9f5-c559-26f5-8d32-e4799f55e677/mzaf_3868365191699200934.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "O",
+      "duration_ms": 96571,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a7/7b/1f/a77b1f1e-e91f-fa81-512a-b0818691cfd0/mzaf_15933710746758930995.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "P",
+      "duration_ms": 133493,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ef/a6/a3/efa6a33a-043d-55de-b4ef-5140ae82adad/mzaf_9029466573827830042.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Q",
+      "duration_ms": 148000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/85/8a/6c/858a6c93-4d6a-a3c9-a148-cdd2170e0d66/mzaf_4925013955015520812.plus.aac.p.m4a"
+    },
+    {
+      "n": 18,
+      "title": "R",
+      "duration_ms": 66800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0c/cf/93/0ccf93ba-c884-ae96-d11e-d8f7bd43f09d/mzaf_11855166146984414627.plus.aac.p.m4a"
+    },
+    {
+      "n": 19,
+      "title": "S",
+      "duration_ms": 72828,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/55/38/46/55384628-f09c-ee15-d450-b264bf7b0242/mzaf_7055320452820654338.plus.aac.p.m4a"
+    },
+    {
+      "n": 20,
+      "title": "T",
+      "duration_ms": 44250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/bf/c3/8dbfc31f-5853-0f16-7ae2-45f503accfae/mzaf_11370088497999417327.plus.aac.p.m4a"
+    },
+    {
+      "n": 21,
+      "title": "U",
+      "duration_ms": 62000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2a/6c/74/2a6c7471-04e1-afb2-c9df-17a79cfd798a/mzaf_10424496718729564789.plus.aac.p.m4a"
+    }
+  ]
+}
