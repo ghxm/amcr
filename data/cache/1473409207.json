@@ -1,0 +1,65 @@
+{
+  "id": "1473409207",
+  "artist": "Barker",
+  "album": "Utility",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/utility/1473409207",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/58/17/c6/5817c6c7-d5ba-bec6-f98d-2910748c17f5/4250101407932_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f9f1d6",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Paradise Engineering",
+      "duration_ms": 248739,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/bb/e4/4fbbe49a-9a18-2773-1e0f-73129681374f/mzaf_16185673298413332392.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Posmean",
+      "duration_ms": 234101,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/41/74/0e/41740e9f-d27e-adf3-54e3-d2947a9a5379/mzaf_4314333452730876609.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Experience Machines",
+      "duration_ms": 219785,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/ab/d3/7babd366-2a20-4db1-79a4-356be76b2442/mzaf_16335978012529180803.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Gradients of Bliss",
+      "duration_ms": 328519,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/37/94/4d379487-d78b-e61c-1961-6de17532fbf4/mzaf_1642030351201368942.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Hedonic Treadmill",
+      "duration_ms": 249675,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/5e/bd/b25ebdb9-53b6-89a5-da04-03c7d3e87429/mzaf_5308836880376934170.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Models of Wellbeing",
+      "duration_ms": 363852,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d1/0c/ff/d10cffb2-3cb1-a966-4829-87f0427ff68d/mzaf_91843396934916657.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Utility",
+      "duration_ms": 270724,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/6c/43/b96c43d6-99b0-5717-6e32-62faab3d7fd5/mzaf_1706470681253136801.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Wireheading",
+      "duration_ms": 139867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/78/22/e9782263-484c-04c3-4935-9ba8be7ea6ea/mzaf_6733857995851669438.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Die-Hards of the Darwinian Order",
+      "duration_ms": 547528,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/fd/43/fafd43a9-1f86-f2e0-7163-4be8cf337dcb/mzaf_9848112177183582284.plus.aac.p.m4a"
+    }
+  ]
+}
