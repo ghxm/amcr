@@ -1,0 +1,65 @@
+{
+  "id": "781370201",
+  "artist": "Bohren & Der Club of Gore",
+  "album": "Piano Nights",
+  "year": 2014,
+  "apple_music_url": "https://music.apple.com/de/album/piano-nights/781370201",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bb/62/c8/bb62c893-8790-0abf-0f0f-f683bb14d9e0/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "2f3228",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Im Rauch",
+      "duration_ms": 329133,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/df/5f/b0df5f88-c361-aaed-0aa5-597c8197539a/mzaf_9515570761643255067.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Ber Rosarotem Licht",
+      "duration_ms": 401293,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/14/84/e1148495-4b22-986a-0ea6-9cc2c75fab44/mzaf_6082772821480533836.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Fahr Zur Hölle",
+      "duration_ms": 335400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/b0/94/57b09497-a48d-9e98-ef77-1a08f58ee7b1/mzaf_4529827043830883703.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Irrwege",
+      "duration_ms": 219213,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/2c/aa/aa2caa92-466d-a1de-7613-0cccbfb89e7f/mzaf_4742672163579462007.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Ganz Leise Kommt Die Nacht",
+      "duration_ms": 501707,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/19/b2/8519b2d0-41bc-3c67-d06e-1692c4538ca4/mzaf_12605864572884077621.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Segeln Ohne Wind",
+      "duration_ms": 382400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/0e/2b/710e2bb5-5215-1b44-4dbe-6b0f9f765732/mzaf_11630468118016079586.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Unrasiert",
+      "duration_ms": 284440,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/3a/3f/393a3fa7-9ce0-81ac-995d-af27a624ff6b/mzaf_18061769090541730157.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Verloren (Alles)",
+      "duration_ms": 628733,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/8f/20/468f20c0-e96d-68b1-cf4e-c6eca9c49edc/mzaf_18350689903369428485.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Komm Zurück Zu Mir",
+      "duration_ms": 590173,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/bb/c4/d5bbc45a-97af-92ac-fe51-46390539da2f/mzaf_17419276433322191689.plus.aac.p.m4a"
+    }
+  ]
+}
