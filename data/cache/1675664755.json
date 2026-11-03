@@ -1,0 +1,47 @@
+{
+  "id": "1675664755",
+  "artist": "Carl Gari",
+  "album": "Shipster",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/shipster/1675664755",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/c0/f5/eac0f525-5ca7-4801-e445-025f8bfed85b/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "4d4d4d",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Treasure Island Sunset",
+      "duration_ms": 377349,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/4a/34/3a4a34d4-e0a3-ddf2-4727-f8fa73aef657/mzaf_15833194933750418885.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Shipster (feat. Abdullah Miniawy)",
+      "duration_ms": 407384,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d1/c9/10/d1c9100d-7586-c55f-a849-2a7b3a4ac05d/mzaf_18336793210715469740.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Dysfunctional Love",
+      "duration_ms": 404431,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/08/41/43/084143ac-2ebf-1885-612c-71cf9a29c361/mzaf_933698690907504692.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Grey Night Goby",
+      "duration_ms": 357871,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/db/85/83db8537-2afc-2572-a47c-48ca9658b46f/mzaf_9994481101431635824.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Hydra (feat. Abdullah Miniawy)",
+      "duration_ms": 347372,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5d/c7/79/5dc77963-a75d-ddc2-63b5-cdbab4a3ac42/mzaf_17124512774711933231.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Capsize",
+      "duration_ms": 302774,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/72/07/35/7207351a-bac3-cd63-1c63-5f9f3bfe8bff/mzaf_15352716528745137776.plus.aac.p.m4a"
+    }
+  ]
+}
