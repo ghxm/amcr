@@ -1,0 +1,71 @@
+{
+  "id": "1457485543",
+  "artist": "Burnt Friedman",
+  "album": "Musical Traditions in Central Europe - Explorer Series, Vol. 4",
+  "year": 2019,
+  "apple_music_url": "https://music.apple.com/de/album/musical-traditions-in-central-europe-explorer-series-vol-4/1457485543",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/51/48/ed/5148ed65-2627-c306-b976-b26bf9c29486/673799364815.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "000000",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Supreme Self (Dub)",
+      "duration_ms": 202001,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dc/9f/a9/dc9fa99a-ce7f-0785-5451-a3e3e24a0c24/mzaf_3493495449349480924.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Moslemschleier",
+      "duration_ms": 232001,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/ce/36/9bce3647-2da5-8a1d-7a37-e1604184a0ae/mzaf_511558654566395979.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Die schwebende Himmelsbrucke",
+      "duration_ms": 218000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/52/31/b0523176-a52b-bcf4-45a2-1891e791529e/mzaf_8024633031518213514.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Unbehagen in der Natur",
+      "duration_ms": 209000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/cd/cf/11cdcffe-6c70-ba31-6725-2c8699ff5e04/mzaf_16598087021599175034.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Semio-Blitz",
+      "duration_ms": 227075,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/dc/8d/b9dc8da8-c920-30c9-7553-7a6a76cbeafd/mzaf_18032428166908657450.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Berlin, a Cidade Que Nao Morreu",
+      "duration_ms": 149000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/17/59/4717591d-e9a2-f3a7-cc4c-695bf4e815df/mzaf_6604133739158678321.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Messdiener",
+      "duration_ms": 170976,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/4d/96/9c4d965e-13df-1f5f-dba7-f42a46c0ef90/mzaf_18183034878722075566.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Sensation des Normalen",
+      "duration_ms": 260001,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/bf/1e/aabf1ef9-7b68-e100-383c-bb81e1b1ead7/mzaf_15520716523859881582.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Gottesdienst",
+      "duration_ms": 260001,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3b/ff/d3/3bffd3bf-6018-5f2a-12ad-b605ec69d918/mzaf_628902047932284047.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Sky Speech",
+      "duration_ms": 278995,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/c1/30/3ac130e3-6735-21a4-ed4a-8519a109a83f/mzaf_17440629662542335104.plus.aac.p.m4a"
+    }
+  ]
+}
