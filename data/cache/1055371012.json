@@ -1,0 +1,113 @@
+{
+  "id": "1055371012",
+  "artist": "Rupert Clervaux & Beatrice Dillon",
+  "album": "Studies I-XVII for Samplers and Percussion",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/studies-i-xvii-for-samplers-and-percussion/1055371012",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/ec/5c/3c/ec5c3c51-31b3-c34d-02c8-f9ca96cfa589/mzm.flmnlafw.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "9b9ca0",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "I",
+      "duration_ms": 135732,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/32/97/30/329730e3-48d3-4dfe-5b95-f17b9255d4d8/mzaf_17006381421774807241.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "II",
+      "duration_ms": 150000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/ed/ce/fbedceeb-b8cf-abeb-9e2a-c7b0448b15ea/mzaf_396995067669420466.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "III",
+      "duration_ms": 147624,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/6a/e0/c36ae08a-2180-57ab-51ea-76cf2ff50ce0/mzaf_18135118487264525631.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "IV",
+      "duration_ms": 128214,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/aa/2f/8daa2f08-9381-8534-91e4-a1c31ee8db54/mzaf_17992468029249612705.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "V",
+      "duration_ms": 108974,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/05/37/7205371e-0cf1-4958-dec1-b5d177bc20ff/mzaf_12025668636623290665.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "VI",
+      "duration_ms": 121034,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/c0/43/cac0434d-7874-ce3c-b98b-f9832ca9a585/mzaf_8845583637128429757.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "VII",
+      "duration_ms": 143124,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/0e/27/580e27f6-70e3-7fa6-44f9-6f2e46ab6a0c/mzaf_8252815015966417636.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "VIII",
+      "duration_ms": 75776,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/73/5c/ff735cf6-90d4-1ae8-efab-20edbaf913f8/mzaf_6850916573901740061.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "IX",
+      "duration_ms": 149117,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/29/7f/d4297fea-f391-dc7e-18bc-df25ad0dd710/mzaf_11229377145556726190.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "X",
+      "duration_ms": 61772,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/24/55/a02455b0-d41b-0125-ba38-0b1093d99bc2/mzaf_16894698877214701132.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "XI",
+      "duration_ms": 85781,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/72/b2/1872b27a-3ea4-7381-0ebc-621765ddf048/mzaf_3424511328315185852.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "XII",
+      "duration_ms": 79655,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/5a/1b/465a1b6e-933b-027f-65f5-22919e9ea4a3/mzaf_7317543351840160548.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "XIII",
+      "duration_ms": 143534,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7d/6a/8d/7d6a8d2e-2e27-bec7-fc03-c411701ddb5b/mzaf_16507694455108814236.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "XIV",
+      "duration_ms": 120000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/1e/fe/c41efe67-5f16-d15f-aac3-87d0671f17c9/mzaf_14592134522696454266.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "XV",
+      "duration_ms": 85732,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/fa/7c/59fa7c75-cb30-f6e9-b701-ee235d3ed674/mzaf_5928434214151489326.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "XVI",
+      "duration_ms": 113839,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/c5/14/62c514f3-47e4-c54f-0bbe-8ccb30739799/mzaf_13080695754363074313.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "XVII",
+      "duration_ms": 129181,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/80/7f/c8807f6b-463e-4f25-a711-cc3bee5ab6ef/mzaf_2304486088910531180.plus.aac.p.m4a"
+    }
+  ]
+}
