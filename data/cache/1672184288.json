@@ -1,0 +1,77 @@
+{
+  "id": "1672184288",
+  "artist": "Mori Mori",
+  "album": "Birds & I",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/birds-i/1672184288",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/2c/36/302c36ff-6cbe-5622-4383-b51b623eaaea/artwork.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "1b1b19",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "So Close",
+      "duration_ms": 275410,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d5/d4/89/d5d48914-5a99-d368-dcce-2868753e3e7e/mzaf_2657912464066903294.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Party People (feat. Thrilliam Angels)",
+      "duration_ms": 178286,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/db/92/5a/db925a7d-c8ec-6882-ff9c-7be8cac36fc3/mzaf_13039997162876675982.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Right Time",
+      "duration_ms": 172401,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/73/35/52/73355238-d3c5-100d-cec3-76cdfa848054/mzaf_3919406021435730922.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Pagan Flames",
+      "duration_ms": 310154,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a8/ac/f7/a8acf7f9-362f-f9da-83b7-f997e7eb4810/mzaf_5539960407510320968.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Animal",
+      "duration_ms": 201600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/22/e4/2e/22e42ea2-4c6d-c148-11b0-b5e9b0e9cf4a/mzaf_1275793328000068586.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Shadow Rain",
+      "duration_ms": 234667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c6/bd/68/c6bd68e0-f52c-e722-0ef0-48383db5806f/mzaf_2978853519437970872.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Outcasts",
+      "duration_ms": 298667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/53/0f/0a/530f0a0a-820b-1bc8-ce44-4d2a54b729fa/mzaf_9289097489027521637.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Let U Go",
+      "duration_ms": 225600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3f/29/da/3f29dafa-36aa-7a45-9b9c-5db6c7179e8c/mzaf_14428748628369789677.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "I'm Sick",
+      "duration_ms": 256000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/00/69/75/0069757c-c30d-345f-249a-660b55e003c2/mzaf_17480077148160741827.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "100 Reasons",
+      "duration_ms": 228000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/17/5b/ba175b0a-abaa-24d7-fe17-1a3b61dccb76/mzaf_17352891819755039794.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Birds",
+      "duration_ms": 170667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bc/3a/54/bc3a54a4-3b21-6b99-bbfa-e92fe56ce2ab/mzaf_10595500115956756580.plus.aac.p.m4a"
+    }
+  ]
+}
