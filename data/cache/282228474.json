@@ -1,0 +1,77 @@
+{
+  "id": "282228474",
+  "artist": "Thomas Fehlmann",
+  "album": "Visions of Blah",
+  "year": 2002,
+  "apple_music_url": "https://music.apple.com/de/album/visions-of-blah/282228474",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music/36/42/8a/mzi.hupatfii.tif/{w}x{h}bb.jpg",
+  "artwork_bg_color": "9dc2e4",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Streets of Blah",
+      "duration_ms": 309987,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/65/11/b0651108-b775-842c-8d77-44ee24fde3cc/mzaf_7560933975960039624.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Superbock",
+      "duration_ms": 371000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/e0/17/8ee017ee-a524-bc84-38c0-384050650e66/mzaf_5943010592534086376.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Rotenfaden",
+      "duration_ms": 346000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/ba/57/60ba579c-042f-885b-13d8-454fa8f55565/mzaf_16592164435783958160.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Du fehlst mir",
+      "duration_ms": 328000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/87/a4/8c87a44b-d47b-e59d-d6ac-beb23a00a798/mzaf_834316163573850048.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Rainbow Over Stadtautobahn",
+      "duration_ms": 301253,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/ce/bb/1ecebb13-69bf-d2af-c92e-f527de7037b3/mzaf_17198859164603146869.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Making It Whistle",
+      "duration_ms": 356800,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/3e/25/5f3e2560-554f-1485-f3ba-5b94e20c601c/mzaf_16865126443032800509.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Seerosengiessen",
+      "duration_ms": 267000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/c8/0e/4ac80e20-6c45-6d90-adec-9b560f88deeb/mzaf_14295904002467481074.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Gratis",
+      "duration_ms": 378000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/37/36/12373611-46d9-84c8-388a-481c73307407/mzaf_18229264785187582241.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Decke",
+      "duration_ms": 334267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/e5/13/22e5134b-41d0-0efa-3df0-3df8fac941ae/mzaf_12379104382087611881.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Luftikus",
+      "duration_ms": 365667,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/95/7f/69957f3a-ea63-d6f3-13e5-fcd377bec1e0/mzaf_16997759352626923185.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Boheme Rouge",
+      "duration_ms": 261240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/68/7b/49687b06-1a44-a63c-632f-20371344933f/mzaf_414371608302311950.plus.aac.p.m4a"
+    }
+  ]
+}
