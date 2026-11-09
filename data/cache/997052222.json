@@ -1,0 +1,41 @@
+{
+  "id": "997052222",
+  "artist": "Wayne Snow & Max Graef",
+  "album": "Rosie - EP",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/rosie-ep/997052222",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/15/0b/44150bd2-1368-8998-d820-aa958f58b587/0730003683251.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "1e0e1b",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Interlude",
+      "duration_ms": 50710,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/c3/19/c6c31925-f118-c184-440d-93cbc64db9ca/mzaf_7793102099308310013.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Rosie",
+      "duration_ms": 194992,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/d8/8d/c1d88dba-1826-ac03-69eb-00e9925e7f12/mzaf_17865581830732277795.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Drunk",
+      "duration_ms": 237949,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/94/9a/f3949aad-03e7-eb22-6f64-6efe6f281fe7/mzaf_6641896837741404207.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Rosie (Nu Genea's Paradise Remix)",
+      "duration_ms": 416712,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/67/73/cb6773c9-1567-ffec-ff93-a09aef14dec1/mzaf_5216046926933717990.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Rosie (Hubert Daviz Remix)",
+      "duration_ms": 171665,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/61/0b/c7610b7f-c934-9520-1423-52fba63c1999/mzaf_4236376935682339687.plus.aac.p.m4a"
+    }
+  ]
+}
