@@ -1,0 +1,65 @@
+{
+  "id": "1155131770",
+  "artist": "Arturo Ruiz Del Pozo",
+  "album": "Composiciones Nativas (1978)",
+  "year": 1978,
+  "apple_music_url": "https://music.apple.com/de/album/composiciones-nativas-1978/1155131770",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b5/13/33/b51333f4-79b3-5991-d3b4-8be060312172/5057302629489_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "e3e3e3",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Parantara",
+      "duration_ms": 505431,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/95/8e/cd/958ecd9a-73db-d065-6aae-a85940bba03d/mzaf_169861119528996964.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Lago De Totoras",
+      "duration_ms": 382551,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b1/83/3c/b1833c76-f269-dd80-2ee2-1c89f6b78ad8/mzaf_7581805034517671863.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Clarinete Cajamarquino",
+      "duration_ms": 93924,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/13/b1/77/13b177cb-ca71-5da3-db81-55516e0c1a88/mzaf_8541275350960347187.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Tarka En Brujas",
+      "duration_ms": 444331,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b8/bf/69/b8bf695b-8f71-ad1c-a4ca-709a863ddeee/mzaf_5423844885559005986.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Estudio Para Quenas",
+      "duration_ms": 285010,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a5/b3/23/a5b323bb-fb4c-6f39-5abd-c196424c1fb6/mzaf_4432961358556441769.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Despegue",
+      "duration_ms": 237728,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/bb/a7/75/bba775c0-9ffd-6b86-57fa-49fbaf2aa113/mzaf_8565413831598787815.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Selvynas",
+      "duration_ms": 422388,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/86/56/80/86568043-06c2-bc25-9051-c05b40e38190/mzaf_6602352093586856923.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "D (Cuarteto)",
+      "duration_ms": 688053,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/fc/6e/32/fc6e32fc-8c7d-c522-f1be-a66b7f116d23/mzaf_7497597293485368732.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Kanon Expansivo (Octeto)",
+      "duration_ms": 690039,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/05/a9/7c/05a97c30-d040-e445-583f-cac49ceed4bb/mzaf_7323902465903881432.plus.aac.p.m4a"
+    }
+  ]
+}
