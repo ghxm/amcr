@@ -1,0 +1,65 @@
+{
+  "id": "1468076173",
+  "artist": "Chihei Hatakeyama",
+  "album": "Void XIV",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/void-xiv/1468076173",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/85/7b/5f/857b5ffb-5f85-ce87-5e26-910e4864252d/859754943060_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "9aa5b8",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "misty echo",
+      "duration_ms": 213390,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/88/c0/de88c09d-2ddb-18af-2bc1-05a6c2ce3d2f/mzaf_16979513586388749054.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "odysseys",
+      "duration_ms": 390994,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/6e/50/a36e5054-b615-021d-926c-dd9db6e026f8/mzaf_7489385551612993640.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "a long distance",
+      "duration_ms": 399742,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/b5/7c/4cb57c6c-5241-e1d9-e536-d9e4ebaa1cf5/mzaf_15519644660811198861.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "old chair",
+      "duration_ms": 203315,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/97/d2/3597d241-22c5-e19d-21dc-dba2d2c0a875/mzaf_4156123627448308414.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "dark river",
+      "duration_ms": 283578,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/41/ab/14/41ab14b1-bdcd-07e9-a65e-8905438307b0/mzaf_12283892184829570993.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "hagia sofia",
+      "duration_ms": 221731,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/32/c4/88/32c4888c-57a2-570b-d0a0-775ee5f7953c/mzaf_1491199517344731176.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "door to the cosmos",
+      "duration_ms": 374952,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6c/38/ff/6c38ffe3-c20a-fb6b-2e48-ee5d6892676b/mzaf_8370140355660791626.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "possession",
+      "duration_ms": 397553,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/08/3d/61083d31-a3fa-9f31-b5d9-7e2bb106c143/mzaf_12694477532896374521.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "child voices in the park of berlin",
+      "duration_ms": 132474,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/a8/a7/d5a8a763-b93c-3cc7-ca71-034185e45c19/mzaf_10125590372871103516.plus.aac.p.m4a"
+    }
+  ]
+}
