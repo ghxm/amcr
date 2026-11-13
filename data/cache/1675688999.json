@@ -1,0 +1,101 @@
+{
+  "id": "1675688999",
+  "artist": "Twit One",
+  "album": "Hay Luv",
+  "year": 2017,
+  "apple_music_url": "https://music.apple.com/de/album/hay-luv/1675688999",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/8e/26/828e262a-f221-d3e9-632e-d7a8d537afdd/cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "fdf9d4",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "The Shrimpslide",
+      "duration_ms": 175559,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/df/ac/aedfaca0-11c1-3a7d-7d8f-d19f87f0bebc/mzaf_4934044108056657508.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Arme Ritter",
+      "duration_ms": 80816,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/09/d5/4e/09d54eee-2843-5044-8f60-d25009d82086/mzaf_456917241510145715.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Fliegende L's (feat. C.Tappin)",
+      "duration_ms": 176042,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3f/91/e7/3f91e75e-f7a8-cd24-5cf2-105b6d57734a/mzaf_15551799087452807648.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Ymagyne",
+      "duration_ms": 143421,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c3/19/6b/c3196ba5-6acf-22a3-af12-a080d40ca709/mzaf_10248418636932047306.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Lecko Mio",
+      "duration_ms": 152163,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b7/aa/9f/b7aa9f68-6064-5efd-5191-8bed195d23f0/mzaf_12804299061694099732.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Room 104",
+      "duration_ms": 123750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/82/99/77/82997775-0cff-8bce-a69b-3f70931f9df6/mzaf_4056112362754101058.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Pawboy / Innocent (feat. PBLouison)",
+      "duration_ms": 152250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9b/f4/c8/9bf4c8e8-c3fc-cc6a-ab13-b104c4ff89a9/mzaf_8986030904059194041.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Insideoutro",
+      "duration_ms": 89750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/14/da/f6/14daf62e-aacf-7343-7dab-a6a8cc3bd670/mzaf_11399228547736911532.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Giving It Back, Pt. 2 (feat. Turt)",
+      "duration_ms": 152250,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/90/53/b2/9053b2cb-6e7b-8041-6388-1ceaccbf9aa0/mzaf_5091315939516199487.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Stumbled",
+      "duration_ms": 31420,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f4/7b/36/f47b36d6-1c06-6fa5-570d-19b2c0068639/mzaf_9042118032307714514.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Ständertime (feat. C.A. Ramirez)",
+      "duration_ms": 161080,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3c/d5/36/3cd53640-dbac-9d44-cd5b-d40cb14b619a/mzaf_11462511633095550794.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Chayn Gang",
+      "duration_ms": 168000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0b/8c/15/0b8c152d-d06c-c560-74af-1fc56c0f4d57/mzaf_17113639603410723795.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Bad Förster",
+      "duration_ms": 111000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d2/9a/53/d29a5330-971c-abd4-4276-3e6f208f6e17/mzaf_15302935209548090578.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Gitudown",
+      "duration_ms": 62750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4d/4b/47/4d4b4784-679a-4f4f-18e9-3ec21e91b951/mzaf_11173904782558330455.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Der traurigste Hund der Strasse",
+      "duration_ms": 123750,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ee/56/b1/ee56b19e-fbc1-0bfa-9a6e-4991b51a43c8/mzaf_7914492513704276454.plus.aac.p.m4a"
+    }
+  ]
+}
