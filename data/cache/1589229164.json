@@ -1,0 +1,77 @@
+{
+  "id": "1589229164",
+  "artist": "Shlohmo",
+  "album": "Dark Red",
+  "year": 2015,
+  "apple_music_url": "https://music.apple.com/de/album/dark-red/1589229164",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/89/44/ff/8944ffbc-18ab-d349-5204-14b114f861f4/744861611165.png/{w}x{h}bb.jpg",
+  "artwork_bg_color": "080808",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Ten Days of Falling",
+      "duration_ms": 286014,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/2d/a9/bb2da9ef-94f4-4b36-bf0b-f1613cdc371e/mzaf_8555776609755214445.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Meet Ur Maker",
+      "duration_ms": 323200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/4a/7e/584a7ec9-c145-5211-d251-1022c1772e42/mzaf_7437075098373483042.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Buried",
+      "duration_ms": 415946,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/c2/ba/efc2ba36-3007-2c09-7357-e195b0c2c4c4/mzaf_1549501917715879653.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Emerge From Smoke",
+      "duration_ms": 283490,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/74/35/7a7435f2-5508-99db-3b04-1236da6baf57/mzaf_10336820113918643522.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Slow Descent",
+      "duration_ms": 380860,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/15/28/761528f7-8d15-b749-27f5-5346b550f3c1/mzaf_16250499247769272610.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Apathy (feat. D33J)",
+      "duration_ms": 325500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/3b/ca/d63bca32-55c3-2bfd-a538-319ca820e2cd/mzaf_13370313263627836400.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Relentless",
+      "duration_ms": 314563,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/46/24/b84624e4-82f7-6c90-4f1e-dfb1baac430c/mzaf_1376409848705665353.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Ditch",
+      "duration_ms": 281000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/0f/4b/980f4bb3-a1d4-7f14-c2f8-5100c87b6ea3/mzaf_2847100033083508757.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Remains",
+      "duration_ms": 208643,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/a6/6d/afa66d80-7bb0-e763-2810-cdda403c9b22/mzaf_8565671515385691325.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Fading",
+      "duration_ms": 368000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/21/6f/d8216f34-2125-41f6-85ec-b3222f7d1302/mzaf_8992860967117696947.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Beams",
+      "duration_ms": 323000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/10/62/d1106208-5533-a9aa-b1fa-8f5609187623/mzaf_16285926325086222456.plus.aac.p.m4a"
+    }
+  ]
+}
