@@ -1,0 +1,53 @@
+{
+  "id": "1799286301",
+  "artist": "Pita",
+  "album": "Seven Tons For Free",
+  "year": 1996,
+  "apple_music_url": "https://music.apple.com/de/album/seven-tons-for-free/1799286301",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/ee/a4/c9eea4cb-3db6-18fa-18cc-e5beaeab6916/880918272092.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "8d563f",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "i",
+      "duration_ms": 64307,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/c6/d4/c1c6d4c8-0eb9-e2a8-b25e-659e03a0f370/mzaf_7380088123399538470.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "~-",
+      "duration_ms": 390281,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/a2/d1/1ea2d1d7-d5d1-ca8d-90ec-e354a1f5fd3f/mzaf_16011564578935604561.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "ii",
+      "duration_ms": 64333,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/a2/54/c3a2545e-5a1e-78c5-4cb1-03b89707c0fb/mzaf_1121965652082815648.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Boiler",
+      "duration_ms": 336411,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/d8/0b/21d80b1f-8b89-5756-53ec-217e0ee76d52/mzaf_17505969470728968892.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "iii",
+      "duration_ms": 64427,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/76/8a/72768a3b-0b13-3e62-2b45-462ca1337344/mzaf_8565291190132375466.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Fehler",
+      "duration_ms": 97373,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/52/15/31521556-49ea-6dce-75ac-4ba551a8bc69/mzaf_8794164540497729930.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Seven Tons Revised",
+      "duration_ms": 851336,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/35/6e/48356e12-9a2a-197f-a49d-64ba94ae8f76/mzaf_828445683611362829.plus.aac.p.m4a"
+    }
+  ]
+}
