@@ -1,0 +1,47 @@
+{
+  "id": "1622669166",
+  "artist": "H.Takahashi",
+  "album": "Paleozoic",
+  "year": 2022,
+  "apple_music_url": "https://music.apple.com/de/album/paleozoic/1622669166",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/a4/a4/29a4a4cc-0376-742e-9713-80c359d66e0b/880918257754.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f0ede4",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Drift",
+      "duration_ms": 415266,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e8/4a/2d/e84a2d41-ba22-252d-e0d4-fad0d19759e1/mzaf_11711877494555927173.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Seed",
+      "duration_ms": 404880,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/75/33/4e/75334ef3-4a6f-5fe3-d618-af5f2d07b0a4/mzaf_6156836712398246318.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Emerald",
+      "duration_ms": 232727,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/98/f7/7e/98f77e17-6710-5503-1d6a-4c2721ecf66d/mzaf_3725971955841877186.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Lagoon",
+      "duration_ms": 527306,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d8/6a/1f/d86a1f5e-f022-9846-1977-afe8bc65e9f6/mzaf_12521343612834217450.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Shallows",
+      "duration_ms": 338223,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c1/79/66/c17966d2-9f2e-774b-45ea-a23ca7719865/mzaf_12727997699781151207.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Fluctuation",
+      "duration_ms": 214679,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/44/47/59/444759ff-1373-58df-3c7d-e2588d69f0ae/mzaf_17204950526421298590.plus.aac.p.m4a"
+    }
+  ]
+}
