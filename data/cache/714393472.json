@@ -1,0 +1,35 @@
+{
+  "id": "714393472",
+  "artist": "Harold Budd",
+  "album": "The Pavilion of Dreams",
+  "year": 1978,
+  "apple_music_url": "https://music.apple.com/de/album/the-pavilion-of-dreams/714393472",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/db/cf/df/dbcfdfa9-869e-d5b4-e317-2b865a76999c/00017046156653.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "111d1e",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Bismillahi 'Rrahmani 'Rrahim",
+      "duration_ms": 1107267,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/21/f0/8721f0ae-00d6-702a-8092-333bf89ab345/mzaf_18373595016157947289.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Let Us Go Into the House of the Lord / Butterfly Sunday",
+      "duration_ms": 382867,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/42/9c/dd429cdd-875e-3a6b-c850-e9069498f831/mzaf_17191468894552830839.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Rosetti Noise / Chrystal Garden and a Coda",
+      "duration_ms": 859600,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/c4/c1/03c4c1c6-ecf5-fc70-55a2-3e2cba9995d6/mzaf_740551916907253982.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Juno",
+      "duration_ms": 500027,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/fe/13/56fe1351-c3fa-e544-fb95-37a462b235ff/mzaf_10261985773797225114.plus.aac.p.m4a"
+    }
+  ]
+}
