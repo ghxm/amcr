@@ -1,0 +1,113 @@
+{
+  "id": "1585376521",
+  "artist": "Verschiedene Interpret:innen",
+  "album": "Buganda Royal Music Revival",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/buganda-royal-music-revival/1585376521",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/22/3b/6b223ba1-0da3-8aae-136e-4ddcdde86976/26781.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "10101c",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Mujaguzo (Celebration)",
+      "duration_ms": 53490,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/84/48/e9/8448e90e-3d19-21fe-85e5-8006a35dd215/mzaf_2194542570621225814.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Ffe basajja ba Kabaka (We are the King’s men)",
+      "duration_ms": 144076,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/e5/87/16e587e5-d9a5-5764-27e6-f7a7710d2276/mzaf_11014077146769760866.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Akasozi Bamunanika keyagaza (The hill of Bamunanika gives pride)",
+      "duration_ms": 236467,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/32/3a/d3/323ad3db-2939-4d14-9674-b02c6aa61dbb/mzaf_2904411080663898374.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Ssematimba ne Kikwabanga (Ssematimba and Kikwabanga)",
+      "duration_ms": 162051,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7a/51/e2/7a51e202-4ad1-085d-ac9d-dbdabea0213e/mzaf_10724761936312485071.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Asenga omwami tagayaala (A new tenant of a chief cannot be lazy)",
+      "duration_ms": 158627,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/dd/05/b8dd0574-5040-2deb-8437-71d30888dd8e/mzaf_17062609861365773723.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Ssewasswa, kazaala balongo (Ssewasswa, father of twins)",
+      "duration_ms": 170711,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/e5/90/78e5904b-ff6a-64f5-9529-673986655a8c/mzaf_5981938495198234009.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Twaliraanya mayumba, emmeeme tezaaliraana (Our houses are next to each other, but not our souls)",
+      "duration_ms": 84997,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/02/4e/fe/024efeca-9ad7-dcc8-cf80-173b70952444/mzaf_123451306199231022.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Twabonaabona (We suffered)",
+      "duration_ms": 111259,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/54/ba/fb/54bafbb8-5614-a89a-07b2-d71af1ad59fe/mzaf_17156167400913383256.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Bagabye Mukwenda, owange talina nnaku (They have served Mukwenda, mine doesn’t have sorrow)",
+      "duration_ms": 41571,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ed/ac/b5/edacb5c1-09ed-e24b-da48-767c18c3440f/mzaf_18236232037899181406.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Bya nannyinimu (They belong to the owner)",
+      "duration_ms": 210126,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/cf/8b/9bcf8b70-4c59-ed00-0098-39cbb499e61d/mzaf_15819560567414981072.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Bandaba okulya ettooke, bampita mulamu ddala (They see me eat a banana meal, they think I am healthy)",
+      "duration_ms": 68086,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/56/26/bf562612-503d-bcb4-56ba-590c593d9172/mzaf_15289225977642894430.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Okwagala omulungi kwesengereza (Loving the beautiful one is to be careful)",
+      "duration_ms": 187208,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/f2/84/55f28421-776c-f21b-4c5b-60fbd6a40d3e/mzaf_6937813869822555500.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Kifwe Kze Kya (No Clear Translation Was Found)",
+      "duration_ms": 49883,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/35/09/6e350988-fd56-ab2d-4326-9963504b0b5b/mzaf_13252492219528195316.plus.aac.p.m4a"
+    },
+    {
+      "n": 14,
+      "title": "Kubikira amadinda (Announcing death to the xylophone)",
+      "duration_ms": 83731,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/8d/ce/d68dce4f-9545-c727-2d8c-7a30f6109b0c/mzaf_1763066447024553270.plus.aac.p.m4a"
+    },
+    {
+      "n": 15,
+      "title": "Emirembe ngalo buli ogujja gukira gunnaago (Generations are like fingers, each one is different)",
+      "duration_ms": 148428,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/2c/e7/712ce7c2-bbf1-1cb9-0b8d-34fd6eba26e2/mzaf_13365524021258427984.plus.aac.p.m4a"
+    },
+    {
+      "n": 16,
+      "title": "Omusango gw’abalere (The case of the flutists)",
+      "duration_ms": 105008,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/06/b7/3506b745-b6de-cdcc-e129-8d7a76ab5bd1/mzaf_5734519199185741679.plus.aac.p.m4a"
+    },
+    {
+      "n": 17,
+      "title": "Osiibye otya nno? (How has your day been?)",
+      "duration_ms": 255665,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/53/f8/45/53f845f1-9682-ace0-e356-48a62268374f/mzaf_3777360349032861678.plus.aac.p.m4a"
+    }
+  ]
+}
