@@ -1,0 +1,83 @@
+{
+  "id": "914218098",
+  "artist": "Theophilus London",
+  "album": "Vibes",
+  "year": 2014,
+  "apple_music_url": "https://music.apple.com/de/album/vibes/914218098",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/e3/cd/24/e3cd24c8-e513-ff23-9f3f-414ec79a2ec6/093624934608.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "f9f8f2",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Water Me (feat. Leon Ware)",
+      "duration_ms": 308945,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/dd/3f/b9dd3f4e-91d6-a272-c60d-7604dfb6f864/mzaf_2230988647178243981.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Neu Law",
+      "duration_ms": 158580,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/c7/21/b3c72161-5b19-797a-7b87-9579fadc05e8/mzaf_7013178361607500491.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Take and Look",
+      "duration_ms": 190565,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/eb/fd/b7ebfd32-2118-0536-cc97-393d64be0595/mzaf_14930894393376629302.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Can't Stop (feat. Kanye West)",
+      "duration_ms": 291672,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/07/03/c4070383-79f4-d39f-ad6b-b25607a021fa/mzaf_3205090961619753145.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Get Me Right",
+      "duration_ms": 194144,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/20/07/172007ac-7bd3-d364-35f6-a1a1dec36a7b/mzaf_1532274363342016091.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Heartbreaker",
+      "duration_ms": 171189,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/cd/c4/71cdc4ed-1cc8-86a6-d277-9e44213c9226/mzaf_12525768304417074860.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Do Girls",
+      "duration_ms": 218997,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/4a/76/a64a76d1-67b8-693b-a18c-12c43bffa298/mzaf_10353059238873383790.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Tribe (feat. Jesse Boykins III)",
+      "duration_ms": 150920,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/07/e7/5a07e73b-b0c2-a6e2-5a14-19aa61930612/mzaf_15465407317678568194.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Smoke (Interlude) [feat. Soko]",
+      "duration_ms": 162860,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/41/3b/8d413b4b-0c28-3b23-2e7c-e7867a297570/mzaf_10639833661643986521.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Smoke Dancehall",
+      "duration_ms": 220029,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/7e/39/597e390c-e13f-104b-1edd-50f63ebdfdc5/mzaf_14084342612894340532.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Need Somebody (feat. Leon Ware)",
+      "duration_ms": 203570,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/36/ff/5036ff4f-553c-f3ec-7f8a-2a9aa8563f46/mzaf_8329735589810910291.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "Figure It Out (feat. Devonte Hynes & the Force MD's) [Bonus Track]",
+      "duration_ms": 247368,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/99/c8/5a99c864-35b4-f15d-bed9-0e88e123e465/mzaf_17101225787692053820.plus.aac.p.m4a"
+    }
+  ]
+}
