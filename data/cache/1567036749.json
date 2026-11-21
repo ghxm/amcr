@@ -1,0 +1,89 @@
+{
+  "id": "1567036749",
+  "artist": "Nonkeen",
+  "album": "Oddments of the Gamble",
+  "year": 2016,
+  "apple_music_url": "https://music.apple.com/de/album/oddments-of-the-gamble/1567036749",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/ae/01/84ae0121-e9e6-dbec-2d52-6a14f2fb3477/4050538693102.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "313131",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Kassettenkarussell",
+      "duration_ms": 144544,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/f5/12/1ef512af-b2d4-a580-f5ea-581ab957e5c8/mzaf_13896925921541969347.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Told and Small",
+      "duration_ms": 67395,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/46/7d/d7467d03-1f64-aa2b-48e8-8fcb0635db8f/mzaf_7458942206011592088.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "The Journey of Hello Peter",
+      "duration_ms": 296456,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/56/59/65565984-1275-1519-1340-f705bc60f0e6/mzaf_2726937409394704136.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Diving Platform",
+      "duration_ms": 369200,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/8a/68/778a6808-8a2f-7e0c-8aac-0d12efae33b6/mzaf_9886299410132743570.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "People in Dresden out for a Walk (Reisegenuss)",
+      "duration_ms": 11631,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/e2/ce/63e2ce55-3541-c263-ca9e-e713a986d5bc/mzaf_8536589491908158224.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Happy Juno",
+      "duration_ms": 154425,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/17/eb/00/17eb00e3-9e3f-06ec-094e-65af8393829f/mzaf_3937941099430617357.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Back and Forth",
+      "duration_ms": 233009,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/61/1f/bb611fbe-e6f2-5367-8a70-96c6587c692e/mzaf_3093885694870245795.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Glow",
+      "duration_ms": 277029,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/aa/65/d3aa65de-bc7c-3c8b-e999-0973e17ee2ec/mzaf_9929584090654169456.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "World Air",
+      "duration_ms": 230759,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/45/eb/2045eb3e-d4ae-7d99-311b-4eceaca31733/mzaf_10432603804201764040.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Obviously Algebra",
+      "duration_ms": 156407,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/b2/6f/71b26f72-91a3-4a8a-c6b4-6447daf6e8db/mzaf_16495212177278368313.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Copy of Crazy",
+      "duration_ms": 56231,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/3c/0e/0a3c0ec4-ea5b-d1d7-2214-0bfdd56e71b2/mzaf_13282725341544019866.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "The Monkey in the Machine",
+      "duration_ms": 137833,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5b/27/71/5b2771cb-8806-7a24-6090-ab59e90a83d3/mzaf_11774037239719859876.plus.aac.p.m4a"
+    },
+    {
+      "n": 13,
+      "title": "Schwertfisch",
+      "duration_ms": 225066,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/48/c7/8e/48c78ede-9ccc-be5a-3123-afb255e66ce8/mzaf_7622882442981583285.plus.aac.p.m4a"
+    }
+  ]
+}
