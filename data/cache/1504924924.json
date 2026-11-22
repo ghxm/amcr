@@ -1,0 +1,83 @@
+{
+  "id": "1504924924",
+  "artist": "Derrick Morgan",
+  "album": "In London",
+  "year": 1969,
+  "apple_music_url": "https://music.apple.com/de/album/in-london/1504924924",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/45/ff/7345fff5-5e1b-2e1b-97d0-119f034252f7/5055283443933.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "24211c",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Seven Letters",
+      "duration_ms": 194893,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/df/1c/21df1c39-41fb-d33d-9f95-541d474423f4/mzaf_17385777667609851768.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "First Taste of Love",
+      "duration_ms": 164240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/51/33/6d/51336d54-214e-a283-096f-406b7d85e9aa/mzaf_14217301892357632257.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "How Can I Forget You",
+      "duration_ms": 206107,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/56/92/02/569202c5-1836-7227-9c8d-d46a7dc78df6/mzaf_5651939827970204957.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Stand by Me",
+      "duration_ms": 214840,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d4/d2/88/d4d2882b-299a-d76d-73dc-bfc154dcd9a3/mzaf_4084362571358912141.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Don't Play That Song",
+      "duration_ms": 191387,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/1a/26/41/1a2641fd-c321-f195-608e-b90277164f1c/mzaf_13736427861090385756.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Too Bad",
+      "duration_ms": 183013,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a7/25/f4/a725f441-38b8-d9d7-df62-35fb5dac16fd/mzaf_562031872922689682.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "One Morning in May",
+      "duration_ms": 141413,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/84/10/61/841061d5-02b5-0f71-50a0-05bfb106e62b/mzaf_17463416590420766321.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Come What May",
+      "duration_ms": 120853,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/24/53/69/245369fb-1622-19f1-2fac-682be837006d/mzaf_18038587426900114597.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Send Me Some Loving",
+      "duration_ms": 167547,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c3/83/c6/c383c682-f03b-f3da-9349-44a5087e7a5e/mzaf_18403424415538542509.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Make It Tan Deay",
+      "duration_ms": 135747,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/29/c5/18/29c5180e-f13c-b973-8378-d3ee84e0eb3a/mzaf_15719773470004741077.plus.aac.p.m4a"
+    },
+    {
+      "n": 11,
+      "title": "Give Me Back",
+      "duration_ms": 142067,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/99/34/f0/9934f0a8-251b-a8c1-e392-a277ebb3770b/mzaf_17569759596431351462.plus.aac.p.m4a"
+    },
+    {
+      "n": 12,
+      "title": "River to the Bank",
+      "duration_ms": 125640,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/93/18/19/931819c9-97c0-9cb1-3bab-83a651f6df02/mzaf_12292493558447915156.plus.aac.p.m4a"
+    }
+  ]
+}
