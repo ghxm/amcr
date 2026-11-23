@@ -1,0 +1,47 @@
+{
+  "id": "1579321686",
+  "artist": "Bob Bellerue",
+  "album": "Radioactive Desire",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/radioactive-desire/1579321686",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/32/3f/75/323f7579-0a3f-679a-f0fe-7dfd60be1dcc/655035177700.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "0a0a0a",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "The Longest Year",
+      "duration_ms": 827883,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/68/68/dd686887-68e3-d67b-c7b8-2f585c1fcf6d/mzaf_16390331171971817267.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Bass Feedback",
+      "duration_ms": 1318351,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dd/fa/76/ddfa76cc-cae7-a3ad-ddd6-aaf242980da1/mzaf_5397297696620524199.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Organ Feedback",
+      "duration_ms": 978337,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/f0/14/73f0143e-b311-52fb-4eba-294a4a53d53f/mzaf_4912256236294057118.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Empty Feedback",
+      "duration_ms": 1252400,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/aa/6d/34aa6d20-a9fa-53cd-0d7c-87132fbeb16f/mzaf_17860381459925987704.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Radioactive Desire",
+      "duration_ms": 1003952,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/6c/9a/0a6c9a96-a4d4-4eb5-1f47-dc26d055b36f/mzaf_9821857967531152496.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Metal Gambuh",
+      "duration_ms": 2385268,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7b/ba/65/7bba65ef-5544-c5b0-ffc6-ebbe1822ea13/mzaf_13360696778052098132.plus.aac.p.m4a"
+    }
+  ]
+}
