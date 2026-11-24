@@ -1,0 +1,23 @@
+{
+  "id": "6819541063",
+  "artist": "543FF",
+  "album": "Sinecure 2 - EP",
+  "year": 2026,
+  "apple_music_url": "https://music.apple.com/de/album/sinecure-2-ep/6819541063",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/82/b9/fd82b960-f234-fffe-9efe-2a8e4feacf81/8718723331777.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "a7a7a7",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Agnes (Beats)",
+      "duration_ms": 329214,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/7f/ab/407fabad-c593-08da-74d7-17ee848737c5/mzaf_530145539953421866.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Agnes (Sinecure)",
+      "duration_ms": 882644,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/f9/87/cef987ed-e32c-fc20-0716-b2fccff6a12e/mzaf_15853951933244060265.plus.aac.p.m4a"
+    }
+  ]
+}
