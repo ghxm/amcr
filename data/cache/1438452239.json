@@ -1,0 +1,53 @@
+{
+  "id": "1438452239",
+  "artist": "Silent Servant",
+  "album": "Shadows of Death and Desire",
+  "year": 2018,
+  "apple_music_url": "https://music.apple.com/de/album/shadows-of-death-and-desire/1438452239",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/04/31/77/043177ba-e519-72af-5721-c4ec4a3a76ee/655035171906.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "000203",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Illusion",
+      "duration_ms": 212727,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/44/bf/d844bf20-0327-ff94-bc23-9c1a254e63d4/mzaf_11600118936049461416.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Harm in Hand",
+      "duration_ms": 330240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/19/e0/6d19e060-d1e5-2861-5258-e9acf49ad0a6/mzaf_10354796444407323310.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Damage",
+      "duration_ms": 318720,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/2e/e1/c52ee1e4-9f03-f406-05f0-5eb08a6d8c0a/mzaf_17045798821983179021.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Loss Response",
+      "duration_ms": 209280,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/6e/aa/a86eaae2-e1e3-e5cc-6b7c-753eab3af826/mzaf_17875668129419407269.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "24 Hours",
+      "duration_ms": 193846,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/5c/41/9a5c41bd-4811-311b-8a6c-ed890433d49a/mzaf_5770854931686930979.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Glass Veil",
+      "duration_ms": 150240,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d1/c8/8b/d1c88b7a-7e00-1c58-812a-32888cebf259/mzaf_2895833384442905542.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Optimistic Decay",
+      "duration_ms": 252000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/e3/50/f8e350fc-f960-4510-2494-f02eff76dc85/mzaf_17882025753875784379.plus.aac.p.m4a"
+    }
+  ]
+}
