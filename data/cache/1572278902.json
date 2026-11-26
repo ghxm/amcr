@@ -1,0 +1,59 @@
+{
+  "id": "1572278902",
+  "artist": "Brandee Younger",
+  "album": "Somewhere Different",
+  "year": 2021,
+  "apple_music_url": "https://music.apple.com/de/album/somewhere-different/1572278902",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/fb/9e/03fb9e9c-43bb-2bfd-cccc-920a91affd12/21UMGIM51898.rgb.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "4b642b",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Reclamation",
+      "duration_ms": 402196,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/3d/95/5b3d957b-a306-5d4c-efc4-fee43537abd0/mzaf_13053896776759635967.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Spirit U Will",
+      "duration_ms": 431016,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/67/0d/89670da9-18b6-c412-e3f9-acc72a7f2669/mzaf_4542197908373962732.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Pretend (feat. Tarriona 'Tank' Ball)",
+      "duration_ms": 271127,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/53/4c/86534c0f-14d6-5c68-0683-708f05bfd780/mzaf_9291455472162778877.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Somewhere Different",
+      "duration_ms": 321227,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/03/96/be0396ec-c6e8-4b73-1b05-73795bdbfffa/mzaf_13481822867221616981.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Love & Struggle",
+      "duration_ms": 341089,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/1c/c1/621cc1e4-4a16-3fdc-6d99-aae89e4b243f/mzaf_17556147423421323494.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Beautiful Is Black",
+      "duration_ms": 425468,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/e6/63/4de66335-6082-0540-c1f0-370624f7b89a/mzaf_340210678989756688.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Olivia Benson",
+      "duration_ms": 241963,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/4b/b2/eb4bb2c8-dcc9-06e1-b92f-ed98c125b855/mzaf_13596490044583333698.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Tickled Pink",
+      "duration_ms": 181158,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/df/80/8cdf8011-3754-e7df-a11a-e5dde0ace901/mzaf_804634509779129056.plus.aac.p.m4a"
+    }
+  ]
+}
