@@ -1,0 +1,71 @@
+{
+  "id": "1494388567",
+  "artist": "Tristan Arp",
+  "album": "Suggested Forms",
+  "year": 2020,
+  "apple_music_url": "https://music.apple.com/de/album/suggested-forms/1494388567",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/94/f8/5c94f8bd-0993-7a5f-4df2-23b0e7b201b8/810025345068_cover.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "a1b3b2",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "Plexi",
+      "duration_ms": 319000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/a0/8b/57a08b0e-2e06-79a3-e894-0f7644e64768/mzaf_14268014856154606227.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "Coil",
+      "duration_ms": 248500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/9d/e3/829de322-f3f1-5a96-1246-ad36f7f0115b/mzaf_494084613435557833.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "Pipeline",
+      "duration_ms": 178000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/18/16/a6181675-334f-c65b-274d-13b1fb803891/mzaf_17159879472746705330.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "Double Exposure",
+      "duration_ms": 311000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/a1/70/e5a17072-c723-a254-71dd-e40db39820c3/mzaf_10433415091924347445.plus.aac.p.m4a"
+    },
+    {
+      "n": 5,
+      "title": "Phylum",
+      "duration_ms": 161500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/ce/01/0fce0144-3503-c988-bd60-5f8edeaa6c4d/mzaf_17967574926709867596.plus.aac.p.m4a"
+    },
+    {
+      "n": 6,
+      "title": "Facelift",
+      "duration_ms": 301500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0b/1f/8f/0b1f8fed-2a9e-cecb-5bc3-db7d3f0f0abe/mzaf_5113608484485205463.plus.aac.p.m4a"
+    },
+    {
+      "n": 7,
+      "title": "Specie",
+      "duration_ms": 305500,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/68/43/4a6843c7-039b-650a-f02c-6dc300f2aa2f/mzaf_3598710434356141471.plus.aac.p.m4a"
+    },
+    {
+      "n": 8,
+      "title": "Pipeline (Machine Woman Rework)",
+      "duration_ms": 388000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e6/e7/a3/e6e7a385-cb0a-8e65-b3dc-fa46b1ccb902/mzaf_567045849207212238.plus.aac.p.m4a"
+    },
+    {
+      "n": 9,
+      "title": "Double Exposure (Beta Librae Remix)",
+      "duration_ms": 264000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/43/86/194386f0-d753-3a78-10df-9a798824cd15/mzaf_9072081299578432932.plus.aac.p.m4a"
+    },
+    {
+      "n": 10,
+      "title": "Phylum (Kelman Duran Remix)",
+      "duration_ms": 233000,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b0/1d/34/b01d3476-9c4c-f0da-69ed-acb3d9658fd6/mzaf_3142839556345100440.plus.aac.p.m4a"
+    }
+  ]
+}
