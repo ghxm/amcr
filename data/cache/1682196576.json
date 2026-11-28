@@ -1,0 +1,35 @@
+{
+  "id": "1682196576",
+  "artist": "Manuel Mota",
+  "album": "XIX",
+  "year": 2023,
+  "apple_music_url": "https://music.apple.com/de/album/xix/1682196576",
+  "artwork_url_template": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/ed/0a/dfed0ad8-3c0c-7f55-cef1-5df232e50a36/197188671747.jpg/{w}x{h}bb.jpg",
+  "artwork_bg_color": "abaeac",
+  "tracks": [
+    {
+      "n": 1,
+      "title": "folha 18",
+      "duration_ms": 489552,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ee/0e/34/ee0e3475-9588-9c01-b3e5-351496b801bd/mzaf_11883160554121762770.plus.aac.p.m4a"
+    },
+    {
+      "n": 2,
+      "title": "folha 7",
+      "duration_ms": 427057,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3d/68/30/3d68303a-a3cb-51f3-89d8-8e3630149a82/mzaf_2718101539184518023.plus.aac.p.m4a"
+    },
+    {
+      "n": 3,
+      "title": "folha 19",
+      "duration_ms": 586989,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/09/6b/b3/096bb37e-19f5-1fa5-0ac9-da2840c1d821/mzaf_190636417162177152.plus.aac.p.m4a"
+    },
+    {
+      "n": 4,
+      "title": "folha 38",
+      "duration_ms": 559149,
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/48/b4/dd/48b4dd0f-5bd8-cc1c-8db0-e27304cb10a0/mzaf_16656049919410872262.plus.aac.p.m4a"
+    }
+  ]
+}
